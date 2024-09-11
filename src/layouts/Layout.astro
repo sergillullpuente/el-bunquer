@@ -10,10 +10,10 @@ const { title } = Astro.props;
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
+		<meta name="description" content="Aquí es reuneixen els personatges dantescos i estrafolaris que en Jair la Neus i en Peyu ens han portat al podcast El Búnquer" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/svg+xml" href="/bunquer-logo.svg" />
+		<meta name="author" content="Sergi Llull Puente">
 		<title>{title}</title>
 	</head>
 	<body>
@@ -22,29 +22,16 @@ const { title } = Astro.props;
 </html>
 <style is:global>
 	:root {
-		--accent: 136, 58, 234;
-		--accent-light: 224, 204, 250;
-		--accent-dark: 49, 10, 101;
-		--accent-gradient: linear-gradient(
-			45deg,
-			rgb(var(--accent)),
-			rgb(var(--accent-light)) 30%,
-			white 60%
-		);
+		--accent: #921124;
+		--accent-light: #d09ea6;
+		--accent-dark: #a86370;
+		--background-dark: #13151a;
+		--background-ligth: #1c1d26;
+		--size: 50px;
 	}
 	html {
-		font-family: system-ui, sans-serif;
-		background: #13151a;
+		font-family: Montserrat, system-ui, sans-serif;
+		background: var(--background-dark);
 	}
-	code {
-		font-family:
-			Menlo,
-			Monaco,
-			Lucida Console,
-			Liberation Mono,
-			DejaVu Sans Mono,
-			Bitstream Vera Sans Mono,
-			Courier New,
-			monospace;
-	}
+
 </style>
