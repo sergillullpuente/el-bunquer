@@ -1,21 +1,13 @@
 ---
+import characters from '@/data/characters.json'
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
-import characters from '@/data/characters.json'
+import Search from "../components/Search.astro";
 
 const seasons = [...new Set(characters.map(c => c.season))];
 ---
 
 <style>
-	main {
-		margin: auto;
-		padding: 1rem;
-		min-height: 80dvh;
-		max-width: calc(100% - 5rem);
-		color: white;
-		font-size: 20px;
-		line-height: 1.6;
-	}
 	h1 {
 		font-size: 4rem;
 		font-weight: 700;
@@ -49,27 +41,11 @@ const seasons = [...new Set(characters.map(c => c.season))];
 			background-color: var(--accent);
 		}
 	}
-	.search-bar {
-		display: flex;
-		justify-content: center;
-		margin-bottom: 1.5rem;
-		& input {
-			padding: 0.5rem;
-			font-size: 1rem;
-			width: 100%;
-			max-width: 400px;
-			border: none;
-			border-radius: 5px;
-			outline: none;
-		}
-	}
 </style>
 <Layout title="El Búnquer">
 	<main>
 		<h1>El Búnquer</h1>
-		<div class="search-bar">
-			<input type="text" id="search-input" placeholder="Buscar personatge..." />
-		</div>
+		<Search placeholder="Buscar personatge..." />
 		<div class="filters">
 			{seasons.reverse().map(season => (<div class="pill" onclick="this.classList.toggle('active')">Temporada {season}</div>))}
 		</div>
@@ -77,18 +53,5 @@ const seasons = [...new Set(characters.map(c => c.season))];
 			{ characters.map(cItem => <Card {...cItem} />) }
 		</div>
 	</main>
-	<script>
-		document.getElementById('search-input').addEventListener('input', (e) => {
-			const cards = document.querySelectorAll('.character-grid');
-			cards.forEach(card => {
-				const title = card.querySelector('.title').textContent.toLowerCase();
-				if (title.includes(e.target.value)) {
-					card.style.display = '';
-				} else {
-					card.style.display = 'none';
-				}
-			});
-		});
-	</script>
 </Layout>
 

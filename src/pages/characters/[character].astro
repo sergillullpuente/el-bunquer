@@ -1,0 +1,36 @@
+---
+import characters from '@/data/characters.json'
+import Layout from "../../layouts/Layout.astro";
+
+export function nameToSlug(name: string) {
+    name = name.toLowerCase();
+    name = name.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    name = name.replace(/[^a-z0-9]+/g, '-');
+    return name.replace(/^-+|-+$/g, '');
+}
+export function getStaticPaths() {
+    return characters.map(({name, isWorthy, season, image})=> ({
+        params: {character: nameToSlug(name)},
+        props: {name, isWorthy, season, image}
+    }));
+}
+
+const { name, isWorthy, season, image } = Astro.props;
+---
+<style>
+    .character-header {
+        display: flex;
+        height: 400px;
+        width: 100%;
+        background-color: var(--accent);
+        object-fit: cover;
+        border-radius: 50%;
+    }
+</style>
+<Layout title=`El búnquer - ${name}`>
+    <main>
+        <div class="character-header">
+            <img src=`../${image}.webp` alt={name} />
+        </div>
+    </main>
+</Layout>

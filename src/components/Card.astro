@@ -1,4 +1,6 @@
 ---
+import { nameToSlug } from '@/pages/characters/[character].astro';
+
 export interface Props {
 	name: string;
 	season: number;
@@ -67,16 +69,18 @@ const { name, season, isWorthy, image } = Astro.props;
 </style>
 
 <div class="character-grid">
-	<div class="card-image">
-		<img src=`${image}.webp` alt="" />
-		<div class=`circle ${isWorthy ? "isWorthy" : ""}`></div>
-	</div>
-	<div class="card-title">
-		<div class="title">
-			{name}
+	<a href=`/characters/${nameToSlug(name)}`>
+		<div class="card-image">
+			<img src=`${image}.webp` alt={name} />
+			<div class=`circle ${isWorthy ? "isWorthy" : ""}`></div>
 		</div>
-		<div class="subtitle">
-			Temporada {season}
+	</a>
+		<div class="card-title">
+			<div class="title">
+				{name}
+			</div>
+			<div class="subtitle">
+				Temporada {season}
+			</div>
 		</div>
-	</div>
 </div>
