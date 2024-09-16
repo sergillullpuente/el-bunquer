@@ -1,6 +1,7 @@
 ---
 import characters from '@/data/characters.json'
 import Layout from "../../layouts/Layout.astro";
+import {Image} from "astro:assets";
 
 export function nameToSlug(name: string) {
     name = name.toLowerCase();
@@ -30,7 +31,13 @@ const { name, isWorthy, season, image } = Astro.props;
 <Layout title=`El búnquer - ${name}`>
     <main>
         <div class="character-header">
-            <img src=`../${image}.webp` alt={name} />
+            <Image
+                    src={image}
+                    alt={name}
+                    width="750"
+                    height="400"
+                    loading="lazy"
+            />
         </div>
     </main>
 </Layout>

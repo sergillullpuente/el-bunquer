@@ -31,7 +31,7 @@ const { placeholder } = Astro.props;
         cards.forEach(card => {
             const title = card.querySelector('.title').textContent.toLowerCase();
             if (title.includes(e.target.value)) {
-                card.style.display = '';
+                card.style.display = 'flex';
             } else {
                 card.style.display = 'none';
             }

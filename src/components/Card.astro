@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import { nameToSlug } from '@/pages/characters/[character].astro';
 
 export interface Props {
@@ -64,6 +65,7 @@ const { name, season, isWorthy, image } = Astro.props;
 		&:hover {
 			background: var(--background-ligth);
 			cursor: pointer;
+			scale: 1.02;
 		}
 	}
 </style>
@@ -71,7 +73,13 @@ const { name, season, isWorthy, image } = Astro.props;
 <div class="character-grid">
 	<a href=`/characters/${nameToSlug(name)}`>
 		<div class="card-image">
-			<img src=`${image}.webp` alt={name} />
+			<Image
+				src={image}
+				alt={name}
+				width="200"
+				height="150"
+				loading="lazy"
+			/>
 			<div class=`circle ${isWorthy ? "isWorthy" : ""}`></div>
 		</div>
 	</a>

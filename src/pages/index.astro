@@ -3,8 +3,8 @@ import characters from '@/data/characters.json'
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import Search from "../components/Search.astro";
-
-const seasons = [...new Set(characters.map(c => c.season))];
+import Briefcase from "../components/icons/Briefcase.astro";
+import AddressBook from "../components/icons/AddressBook.astro";
 ---
 
 <style>
@@ -31,14 +31,14 @@ const seasons = [...new Set(characters.map(c => c.season))];
 		& 	.pill {
 			font-size: 0.8rem;
 			padding: 0.5rem 1rem;
-			background-color: var(--background-ligth);
+			background-color: var(--accent);
 			border-radius: 900px;
 			cursor: pointer;
 			transition: background-color 0.3s ease;
 		}
 
 		& 	.pill.active {
-			background-color: var(--accent);
+			background-color: var(--background-ligth);
 		}
 	}
 </style>
@@ -47,7 +47,10 @@ const seasons = [...new Set(characters.map(c => c.season))];
 		<h1>El Búnquer</h1>
 		<Search placeholder="Buscar personatge..." />
 		<div class="filters">
-			{seasons.reverse().map(season => (<div class="pill" onclick="this.classList.toggle('active')">Temporada {season}</div>))}
+			<Briefcase class="pill"/>
+			<AddressBook class="pill"/>
+			<Briefcase class="pill"/>
+			<Briefcase class="pill"/>
 		</div>
 		<div class="card-grid">
 			{ characters.map(cItem => <Card {...cItem} />) }
