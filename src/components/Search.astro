@@ -8,7 +8,7 @@ const { placeholder } = Astro.props;
     .search-bar {
         display: flex;
         justify-content: center;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
         & input {
             padding: 0.5rem;
             font-size: 1rem;
@@ -18,19 +18,29 @@ const { placeholder } = Astro.props;
             border-radius: 5px;
             outline: none;
         }
+        & input:active {
+            border: 5px var(--accent) solid;
+        }
+        & input[type=text] {
+            box-sizing: border-box;
+            background-image: url("/search.svg");
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            padding: 12px 20px 12px 40px;
+        }
     }
 </style>
 
-<div class="search-bar">
+<section class="search-bar">
     <input type="text" id="search-input" placeholder={placeholder} />
-</div>
+</section>
 
 <script>
     document.getElementById('search-input').addEventListener('input', (e) => {
         const cards = document.querySelectorAll('.character-grid');
         cards.forEach(card => {
             const title = card.querySelector('.title').textContent.toLowerCase();
-            if (title.includes(e.target.value)) {
+            if (title.includes(e.target.value.toLowerCase())) {
                 card.style.display = 'flex';
             } else {
                 card.style.display = 'none';
