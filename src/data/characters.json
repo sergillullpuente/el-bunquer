@@ -1,739 +1,5161 @@
 [
-  { "name": "Julio Iglesias", "isWorthy": true, "season": 5 , "image": "/1725896736727.webp" },
-  { "name": "Tim Samaras", "isWorthy": false, "season": 5 , "image": "/1725633029275.webp" },
-  { "name": "Louis Braille", "isWorthy": false, "season":  5, "image": "/1725464121565.webp" },
-  { "name": "Vesna Vulović", "isWorthy": false, "season":  5, "image": "/1725285701571.webp" },
-  { "name": "Peter Hurkos", "isWorthy": false, "season":  5, "image": "/1725285356521.webp" },
-  { "name": "Richard Williams", "isWorthy": false, "season":  5, "image": "/1725031513383.webp" },
-  { "name": "Pierre Basson", "isWorthy": false, "season": 4 , "image": "/1720602941755.webp" },
-  { "name": "Aileen Wuornos", "isWorthy": false, "season": 4 , "image": "/1720603245614.webp" },
-  { "name": "Herbert Baumeister", "isWorthy": false, "season": 4 , "image": "/1720602051496.webp" },
-  { "name": "Milena Quaglini", "isWorthy": false, "season": 4 , "image": "/1720601731562.webp" },
-  { "name": "David Berkowitz", "isWorthy": false, "season": 4 , "image": "/1721647855797.webp" },
-  { "name": "Diogo Alves", "isWorthy": false, "season": 4 , "image": "/1721647848675.webp" },
-  { "name": "Thomas Alva Edison", "isWorthy": false, "season": 4 , "image": "/1720194098248.webp" },
-  { "name": "Josef Mengele", "isWorthy": false, "season": 4 , "image": "/1719908450196.webp" },
-  { "name": "Policarpa Salavarrieta", "isWorthy": false, "season": 4 , "image": "/1719907848060.webp" },
-  { "name": "Vicenç Coma", "isWorthy": false, "season": 4 , "image": "/1719848159818.webp" },
-  { "name": "Sinéad O\"Connor", "isWorthy": false, "season": 4 , "image": "/1719489309119.webp" },
-  { "name": "Robert White", "isWorthy": false, "season": 4 , "image": "/1719393615899.webp" },
-  { "name": "Andy Warhol", "isWorthy": false, "season": 4 , "image": "/1719315621210.webp" },
-  { "name": "Bertín Osborne", "isWorthy": false, "season": 4 , "image": "/1718976913501.webp" },
-  { "name": "Phyllis Penzo i Robert Cunningham", "isWorthy": true, "season": 4 , "image": "/1718791578254.webp" },
-  { "name": "Pierre Lottier", "isWorthy": false, "season": 4 , "image": "/1718790360685.webp" },
-  { "name": "Luz Amparo Cuevas", "isWorthy": false, "season": 4 , "image": "/1718713875701.webp" },
-  { "name": "Els bessons Jim", "isWorthy": false, "season": 4 , "image": "/1718624757156.webp" },
-  { "name": "Larry Walters", "isWorthy": false, "season": 4 , "image": "/1718271058205.webp" },
-  { "name": "Kim Ung-yong", "isWorthy": false, "season": 4 , "image": "/1718185256126.webp" },
-  { "name": "Khutulun", "isWorthy": false, "season": 4 , "image": "/1718096432731.webp" },
-  { "name": "Jules Verreaux", "isWorthy": false, "season": 4 , "image": "/1718027204044.webp" },
-  { "name": "Robert Cornish", "isWorthy": false, "season": 4 , "image": "/1717664121006.webp" },
-  { "name": "Elizabeth Bisland", "isWorthy": false, "season": 4 , "image": "/1717577768790.webp" },
-  { "name": "Enric Tomàs Urpí", "isWorthy": false, "season": 4 , "image": "/1717518683752.webp" },
-  { "name": "Vjeran Tomic", "isWorthy": false, "season": 4 , "image": "/1717423229433.webp" },
-  { "name": "Thomas Quick", "isWorthy": false, "season": 4 , "image": "/1716993925690.webp" },
-  { "name": "Freddie Mercury", "isWorthy": false, "season": 4 , "image": "/1716985528744.webp" },
-  { "name": "George Psalmanazar", "isWorthy": false, "season": 4 , "image": "/1716893752590.webp" },
-  { "name": "Nishimura Mako", "isWorthy": false, "season": 4 , "image": "/1716811234269.webp" },
-  { "name": "Greyfriars Bobby", "isWorthy": false, "season": 4 , "image": "/1716453960615.webp" },
-  { "name": "Julian Assange", "isWorthy": false, "season": 4 , "image": "/1716368724197.webp" },
-  { "name": "Monty Clift", "isWorthy": false, "season": 4 , "image": "/1716284170197.webp" },
-  { "name": "Gino Bartali", "isWorthy": false, "season": 4 , "image": "/1715955331808.webp" },
-  { "name": "Li Bai", "isWorthy": false, "season": 4 , "image": "/1715850065979.webp" },
-  { "name": "Nellie Bly", "isWorthy": false, "season": 4 , "image": "/1715768423003.webp" },
-  { "name": "Henry Gunther, George Price i Augustin Trébuchon", "isWorthy": false, "season": 4 , "image": "/1715683858531.webp" },
-  { "name": "Svetlana Al·lilúieva", "isWorthy": false, "season": 4 , "image": "/1715600130027.webp" },
-  { "name": "Salvador Fàbrega", "isWorthy": false, "season": 4 , "image": "/1715184324723.webp" },
-  { "name": "María del Pilar Teresa Cayetana de Silva Álvarez de Toledo", "isWorthy": false, "season": 4 , "image": "/1715179279562.webp" },
-  { "name": "Serguei Brukhonenko", "isWorthy": false, "season": 4 , "image": "/1715076627454.webp" },
-  { "name": "Camberley Kate", "isWorthy": false, "season": 4 , "image": "/1715003276577.webp" },
-  { "name": "Locusta", "isWorthy": false, "season": 4 , "image": "/1714660275381.webp" },
-  { "name": "Pauline de Montmorin", "isWorthy": false, "season": 4 , "image": "/1714473981801.webp" },
-  { "name": "Natti Natti Nattramn", "isWorthy": false, "season": 4 , "image": "/1714473982319.webp" },
-  { "name": "Florencio Pla Meseguer", "isWorthy": false, "season": 4 , "image": "/1714391735917.webp" },
-  { "name": "Anne Perry", "isWorthy": false, "season": 4 , "image": "/1714040733433.webp" },
-  { "name": "Griselda Blanco", "isWorthy": false, "season": 4 , "image": "/1713957632690.webp" },
-  { "name": "Alejandra Pizarnik", "isWorthy": false, "season": 4 , "image": "/1713866458100.webp" },
-  { "name": "Brigitte Hoss", "isWorthy": false, "season": 4 , "image": "/1713787526340.webp" },
-  { "name": "Pompeu Fabra", "isWorthy": false, "season": 4 , "image": "/1713438917115.webp" },
-  { "name": "Antonina Makàrova", "isWorthy": false, "season": 4 , "image": "/1713363365918.webp" },
-  { "name": "Edward Colston", "isWorthy": false, "season": 4 , "image": "/1713267931707.webp" },
-  { "name": "Marco Polo", "isWorthy": false, "season": 4 , "image": "/1713183652467.webp" },
-  { "name": "Douglas Corrigan", "isWorthy": false, "season": 4 , "image": "/1712827272922.webp" },
-  { "name": "George Orwell", "isWorthy": false, "season": 4 , "image": "/1712748344615.webp" },
-  { "name": "Francesc Darder", "isWorthy": false, "season": 4 , "image": "/1712652962703.webp" },
-  { "name": "Heinrich Schliemann", "isWorthy": false, "season": 4 , "image": "/1712584546735.webp" },
-  { "name": "Becerrillo", "isWorthy": false, "season": 4 , "image": "/1712221285794.webp" },
-  { "name": "Lao Tse", "isWorthy": false, "season": 4 , "image": "/1712140842857.webp" },
-  { "name": "Maria Anna Mozart", "isWorthy": false, "season": 4 , "image": "/1712055915976.webp" },
-  { "name": "Ilya Ivanovich Ivanov", "isWorthy": false, "season": 4 , "image": "/1711637261058.webp" },
-  { "name": "Herbert Mullin", "isWorthy": false, "season": 4 , "image": "/1711554367543.webp" },
-  { "name": "Rossa Matilda Richter", "isWorthy": false, "season": 4 , "image": "/1711533925187.webp" },
-  { "name": "Aimo Koivunen", "isWorthy": false, "season": 4 , "image": "/1711446381682.webp" },
-  { "name": "Timothy Treadwell", "isWorthy": false, "season": 4 , "image": "/1711381237487.webp" },
-  { "name": "Andy Fordham", "isWorthy": false, "season": 4 , "image": "/1711033265663.webp" },
-  { "name": "Martin A. Couney", "isWorthy": false, "season": 4 , "image": "/1710934565235.webp" },
-  { "name": "Jacques-Louis David", "isWorthy": false, "season": 4 , "image": "/1710850571981.webp" },
-  { "name": "Timothy Dexter", "isWorthy": false, "season": 4 , "image": "/1710761740001.webp" },
-  { "name": "Eddie Slovik", "isWorthy": false, "season": 4 , "image": "/1710418546227.webp" },
-  { "name": "El Tarzan d’Argelaguer", "isWorthy": false, "season": 4 , "image": "/1710336927034.webp" },
-  { "name": "Genie Wiley", "isWorthy": false, "season": 4 , "image": "/1710241257510.webp" },
-  { "name": "Èric el Roig", "isWorthy": false, "season": 4 , "image": "/1710170753556.webp" },
-  { "name": "Tura Satana", "isWorthy": false, "season": 4 , "image": "/1709803261514.webp" },
-  { "name": "Amar Bharati", "isWorthy": false, "season": 4 , "image": "/1709726738556.webp" },
-  { "name": "Lopez Lomong", "isWorthy": false, "season": 4 , "image": "/1709632266148.webp" },
-  { "name": "Marga d’Andurain", "isWorthy": false, "season": 4 , "image": "/1709565038325.webp" },
-  { "name": "Erwin Schrödinger", "isWorthy": false, "season": 4 , "image": "/1709211319876.webp" },
-  { "name": "John Harvey Kellogg", "isWorthy": false, "season": 4 , "image": "/1709127957385.webp" },
-  { "name": "Madonna", "isWorthy": false, "season": 4 , "image": "/1709045169010.webp" },
-  { "name": "Gabriel Dante Rossetti", "isWorthy": false, "season": 4 , "image": "/1708960224402.webp" },
-  { "name": "Matthias Buchinger", "isWorthy": false, "season": 4 , "image": "/1708606912599.webp" },
-  { "name": "Tiradentes", "isWorthy": false, "season": 4 , "image": "/1708606515430.webp" },
-  { "name": "Shi Pei Pu", "isWorthy": false, "season": 4 , "image": "/1708424458928.webp" },
-  { "name": "Zinaïda Portnova", "isWorthy": false, "season": 4 , "image": "/1708347015374.webp" },
-  { "name": "Eben Byers", "isWorthy": false, "season": 4 , "image": "/1707999065281.webp" },
-  { "name": "François l\"Olonnais", "isWorthy": false, "season": 4 , "image": "/1707914747684.webp" },
-  { "name": "Francesc Macià", "isWorthy": false, "season": 4 , "image": "/1707836135242.webp" },
-  { "name": "Joe Carstairs", "isWorthy": false, "season": 4 , "image": "/1707741977724.webp" },
-  { "name": "Jon Brower Minnoch", "isWorthy": false, "season": 4 , "image": "/1707385808827.webp" },
-  { "name": "Alexandre I de Grècia", "isWorthy": false, "season": 4 , "image": "/1707299144461.webp" },
-  { "name": "Frédéric Bourdin", "isWorthy": false, "season": 4 , "image": "/1707222622558.webp" },
-  { "name": "Jack Gilbert Graham", "isWorthy": false, "season": 4 , "image": "/1707138662830.webp" },
-  { "name": "Irma Grese", "isWorthy": false, "season": 4 , "image": "/1706780778951.webp" },
-  { "name": "Robert McGee", "isWorthy": false, "season": 4 , "image": "/1706714418310.webp" },
-  { "name": "Jean-Paul Marat", "isWorthy": false, "season": 4 , "image": "/1706625046877.webp" },
-  { "name": "Jeffrey Hudson", "isWorthy": false, "season": 4 , "image": "/1706539262426.webp" },
-  { "name": "Arnold Schwarzenegger", "isWorthy": false, "season": 4 , "image": "/1706177760913.webp" },
-  { "name": "Annie Edson Taylor", "isWorthy": false, "season": 4 , "image": "/1706099839925.webp" },
-  { "name": "Conxita Grangé", "isWorthy": false, "season": 4 , "image": "/1706022317864.webp" },
-  { "name": "Serge Voronoff", "isWorthy": false, "season": 4 , "image": "/1705935351660.webp" },
-  { "name": "Germanes Rapunzel", "isWorthy": false, "season": 4 , "image": "/1705581331223.webp" },
-  { "name": "Tsutomu Miyazaki", "isWorthy": false, "season": 4 , "image": "/1705485364172.webp" },
-  { "name": "Papa Formós I", "isWorthy": false, "season": 4 , "image": "/1705404640056.webp" },
-  { "name": "Robert Baden-Powell", "isWorthy": false, "season": 4 , "image": "/1705335051928.webp" },
-  { "name": "Gypsy Blanchard", "isWorthy": false, "season": 4 , "image": "/1704969958281.webp" },
-  { "name": "Drukpa Kunley", "isWorthy": false, "season": 4 , "image": "/1704882632143.webp" },
-  { "name": "Newton Knight", "isWorthy": false, "season": 4 , "image": "/1704732368403.webp" },
-  { "name": "Aly Dia", "isWorthy": false, "season": 4 , "image": "/1704721863309.webp" },
-  { "name": "William Henry, Black death, Johnson", "isWorthy": false, "season": 4 , "image": "/1704374427547.webp" },
-  { "name": "Krishna Venta", "isWorthy": false, "season": 4 , "image": "/1704276916437.webp" },
-  { "name": "Gerda Taro", "isWorthy": false, "season": 4 , "image": "/1704191166354.webp" },
-  { "name": "Frank Sinatra", "isWorthy": false, "season": 4 , "image": "/1703765130472.webp" },
-  { "name": "Bob, el gat de carrer", "isWorthy": false, "season": 4 , "image": "/1703763031276.webp" },
-  { "name": "Gesche Gottfried", "isWorthy": false, "season": 4 , "image": "/1703673326437.webp" },
-  { "name": "Ozzy Osbourne", "isWorthy": false, "season": 4 , "image": "/1703268024924.webp" },
-  { "name": "Marshall Applewhite", "isWorthy": false, "season": 4 , "image": "/1703268024461.webp" },
-  { "name": "Oliver Cromwell", "isWorthy": false, "season": 4 , "image": "/1703167527935.webp" },
-  { "name": "Hadji Ali", "isWorthy": false, "season": 4 , "image": "/1703075433785.webp" },
-  { "name": "Lise Meitner", "isWorthy": false, "season": 4 , "image": "/1702990565845.webp" },
-  { "name": "Jim Thorpe", "isWorthy": false, "season": 4 , "image": "/1702916449131.webp" },
-  { "name": "Henry Paget", "isWorthy": false, "season": 4 , "image": "/1702553744893.webp" },
-  { "name": "Jack Daniels", "isWorthy": false, "season": 4 , "image": "/1702469739295.webp" },
-  { "name": "Douglas Brent Hegdahl III", "isWorthy": false, "season": 4 , "image": "/1702382719066.webp" },
-  { "name": "Camille Claudel", "isWorthy": false, "season": 4 , "image": "/1702301156160.webp" },
-  { "name": "Adolphe Sax", "isWorthy": false, "season": 4 , "image": "/1701710164120.webp" },
-  { "name": "Joshua Norton", "isWorthy": false, "season": 4 , "image": "/1701709556186.webp" },
-  { "name": "Adam Rainer", "isWorthy": false, "season": 4 , "image": "/1701709556553.webp" },
-  { "name": "Lord Carnarvon", "isWorthy": false, "season": 4 , "image": "/1701697558082.webp" },
-  { "name": "Victor d’Avairon", "isWorthy": false, "season": 4 , "image": "/1701339635114.webp" },
-  { "name": "Hernán Cortés", "isWorthy": false, "season": 4 , "image": "/1701247548721.webp" },
-  { "name": "Carlo Ponzi", "isWorthy": false, "season": 4 , "image": "/1701167740990.webp" },
-  { "name": "Jack Churchill", "isWorthy": false, "season": 4 , "image": "/1701098137901.webp" },
-  { "name": "Willi Herold", "isWorthy": false, "season": 4 , "image": "/1700739972412.webp" },
-  { "name": "Malintzin", "isWorthy": false, "season": 4 , "image": "/1700647846205.webp" },
-  { "name": "Margaret Dickson", "isWorthy": false, "season": 4 , "image": "/1700580309455.webp" },
-  { "name": "Robert Wadlow", "isWorthy": false, "season": 4 , "image": "/1700502332941.webp" },
-  { "name": "Howard Marks", "isWorthy": false, "season": 4 , "image": "/1700129419228.webp" },
-  { "name": "Emiliano Zapata", "isWorthy": false, "season": 4 , "image": "/1700043335093.webp" },
-  { "name": "Giovanni Aldini", "isWorthy": false, "season": 4 , "image": "/1699964170598.webp" },
-  { "name": "Daniel Montbars", "isWorthy": false, "season": 4 , "image": "/1699888236074.webp" },
-  { "name": "Josephine Baker", "isWorthy": false, "season": 4 , "image": "/1699523708382.webp" },
-  { "name": "Bruce Lee", "isWorthy": false, "season": 4 , "image": "/1699438260130.webp" },
-  { "name": "Tutankamon", "isWorthy": false, "season": 4 , "image": "/1699351268526.webp" },
-  { "name": "Charles Hatfield", "isWorthy": false, "season": 4 , "image": "/1699286705876.webp" },
-  { "name": "Carrie Nation", "isWorthy": false, "season": 4 , "image": "/1698922832471.webp" },
-  { "name": "Derek Bentley", "isWorthy": false, "season": 4 , "image": "/1698745236802.webp" },
-  { "name": "Lucio Urtubia", "isWorthy": false, "season": 4 , "image": "/1698744917433.webp" },
-  { "name": "Charles Domery", "isWorthy": false, "season": 4 , "image": "/1698683718564.webp" },
-  { "name": "Antonio Vivaldi", "isWorthy": false, "season": 4 , "image": "/1698310504940.webp" },
-  { "name": "Mansa Musa I", "isWorthy": false, "season": 4 , "image": "/1698224458988.webp" },
-  { "name": "Joan Salvat Papasseit", "isWorthy": false, "season": 4 , "image": "/1698137706242.webp" },
-  { "name": "Baba Vanga", "isWorthy": false, "season": 4 , "image": "/1698069933376.webp" },
-  { "name": "Erwin Rommel", "isWorthy": false, "season": 4 , "image": "/1697704822075.webp" },
-  { "name": "Gordon Goody", "isWorthy": false, "season": 4 , "image": "/1697619352645.webp" },
-  { "name": "Peppino Impastato", "isWorthy": false, "season": 4 , "image": "/1697544019556.webp" },
-  { "name": "George Bryan Brummell", "isWorthy": false, "season": 4 , "image": "/1697456433846.webp" },
-  { "name": "Charlotte Corday", "isWorthy": false, "season": 4 , "image": "/1697024169742.webp" },
-  { "name": "Johan Cruyff", "isWorthy": false, "season": 4 , "image": "/1696939841924.webp" },
-  { "name": "William James Sidis", "isWorthy": false, "season": 4 , "image": "/1696939249819.webp" },
-  { "name": "Maria Rosenthal", "isWorthy": false, "season": 4 , "image": "/1696856401871.webp" },
-  { "name": "Carmen Polo", "isWorthy": false, "season": 4 , "image": "/1696495569710.webp" },
-  { "name": "Audrey Hepburn", "isWorthy": false, "season": 4 , "image": "/1696417243415.webp" },
-  { "name": "YangDi", "isWorthy": false, "season": 4 , "image": "/1696334768049.webp" },
-  { "name": "Eugene Falleni", "isWorthy": false, "season": 4 , "image": "/1696257336193.webp" },
-  { "name": "Florence Foster Jenkins", "isWorthy": false, "season": 4 , "image": "/1695895516973.webp" },
-  { "name": "Shōkō Asahara", "isWorthy": false, "season": 4 , "image": "/1695814565123.webp" },
-  { "name": "Alphonse Laurencic", "isWorthy": false, "season": 4 , "image": "/1695650120475.webp" },
-  { "name": "Bessie Coleman", "isWorthy": false, "season": 4 , "image": "/1695649819546.webp" },
-  { "name": "David Bowie", "isWorthy": false, "season": 4 , "image": "/1695289235364.webp" },
-  { "name": "Tupac Amaru II", "isWorthy": false, "season": 4 , "image": "/1695201936866.webp" },
-  { "name": "Thomas Midgley", "isWorthy": false, "season": 4 , "image": "/1695123930395.webp" },
-  { "name": "Clara Schumann", "isWorthy": false, "season": 4 , "image": "/1695039344986.webp" },
-  { "name": "Manuel Malagrida", "isWorthy": false, "season": 4 , "image": "/1694691048405.webp" },
-  { "name": "Balduí IV de Jerusalem", "isWorthy": false, "season": 4 , "image": "/1694594105122.webp" },
-  { "name": "Leni Riefenstahl", "isWorthy": false, "season": 4 , "image": "/1694525717041.webp" },
-  { "name": "Lik Simelum", "isWorthy": false, "season": 4 , "image": "/1694184044424.webp" },
-  { "name": "Gogea Mitu", "isWorthy": false, "season": 4 , "image": "/1694080248986.webp" },
-  { "name": "Archibald Armstrong", "isWorthy": false, "season": 4 , "image": "/1694007652231.webp" },
-  { "name": "Pavel Gorgulov", "isWorthy": false, "season": 4 , "image": "/1693926929271.webp" },
-  { "name": "Helen Bishop", "isWorthy": false, "season": 4 , "image": "/1693839671610.webp" },
-  { "name": "Antonio López Sierra", "isWorthy": false, "season": 3 , "image": "/1688677279077.webp" },
-  { "name": "Mary Fields", "isWorthy": false, "season": 3 , "image": "/1688547342510.webp" },
-  { "name": "Jean-François Pilâtre de Rozier", "isWorthy": false, "season": 3 , "image": "/1688468773098.webp" },
-  { "name": "Per Yngve Ohlin", "isWorthy": false, "season": 3 , "image": "/1688398299344.webp" },
-  { "name": "Tragabuches", "isWorthy": false, "season": 3 , "image": "/1688038558203.webp" },
-  { "name": "Yoo Young-Chul", "isWorthy": false, "season": 3 , "image": "/1687943757345.webp" },
-  { "name": "Lev Tolstoi", "isWorthy": false, "season": 3 , "image": "/1687859784040.webp" },
-  { "name": "El Tempranillo", "isWorthy": false, "season": 3 , "image": "/1687787748006.webp" },
-  { "name": "Chris McCandless", "isWorthy": false, "season": 3 , "image": "/1687455064439.webp" },
-  { "name": "Triboulet", "isWorthy": false, "season": 3 , "image": "/1687253757664.webp" },
-  { "name": "Cameron Willingham", "isWorthy": false, "season": 3 , "image": "/1687253477084.webp" },
-  { "name": "Juan Crisóstomo de Arriaga", "isWorthy": false, "season": 3 , "image": "/1687194358310.webp" },
-  { "name": "Jeffrey Dahmer", "isWorthy": false, "season": 3 , "image": "/1686817575106.webp" },
-  { "name": "Salvador Puig Antich", "isWorthy": false, "season": 3 , "image": "/1686746769678.webp" },
-  { "name": "Mary Ann Bevan", "isWorthy": false, "season": 3 , "image": "/1686651949492.webp" },
-  { "name": "Ma Barker", "isWorthy": false, "season": 3 , "image": "/1686579387083.webp" },
-  { "name": "Gabriel Malagrida", "isWorthy": false, "season": 3 , "image": "/1686240004569.webp" },
-  { "name": "Eugene O’Neill", "isWorthy": false, "season": 3 , "image": "/1686147621327.webp" },
-  { "name": "Sobhuza II", "isWorthy": false, "season": 3 , "image": "/1686066571594.webp" },
-  { "name": "Sally McNeil", "isWorthy": false, "season": 3 , "image": "/1685981837065.webp" },
-  { "name": "Oswald Spengler", "isWorthy": false, "season": 3 , "image": "/1685444249106.webp" },
-  { "name": "Jean-Michel Basquiat", "isWorthy": false, "season": 3 , "image": "/1685444283695.webp" },
-  { "name": "Amelia Dyer", "isWorthy": false, "season": 3 , "image": "/1685444319698.webp" },
-  { "name": "Tina Muñoz", "isWorthy": false, "season": 3 , "image": "/1685442686664.webp" },
-  { "name": "Mariam Nabatanzi", "isWorthy": false, "season": 3 , "image": "/1685011864815.webp" },
-  { "name": "Herminio de la gallina", "isWorthy": false, "season": 3 , "image": "/1684936523133.webp" },
-  { "name": "Oda Nobunaga", "isWorthy": false, "season": 3 , "image": "/1684833646482.webp" },
-  { "name": "Tom Cruise", "isWorthy": false, "season": 3 , "image": "/1684767360584.webp" },
-  { "name": "Josep I de Portugal", "isWorthy": false, "season": 3 , "image": "/1684408831629.webp" },
-  { "name": "Pichichi", "isWorthy": false, "season": 3 , "image": "/1684319156969.webp" },
-  { "name": "Charles Cullen", "isWorthy": false, "season": 3 , "image": "/1684230018597.webp" },
-  { "name": "Kurt Cobain", "isWorthy": false, "season": 3 , "image": "/1684158042983.webp" },
-  { "name": "Frank Cannonball Richards", "isWorthy": false, "season": 3 , "image": "/1683817561664.webp" },
-  { "name": "Anneliese Michel", "isWorthy": false, "season": 3 , "image": "/1683714313014.webp" },
-  { "name": "Nelson Mandela", "isWorthy": false, "season": 3 , "image": "/1683625235590.webp" },
-  { "name": "Joseph Mortimer Granville", "isWorthy": false, "season": 3 , "image": "/1683553853095.webp" },
-  { "name": "Steve Jobs", "isWorthy": false, "season": 3 , "image": "/1683202240874.webp" },
-  { "name": "Leonid Rogozov", "isWorthy": false, "season": 3 , "image": "/1683123627475.webp" },
-  { "name": "Gustavo Adolfo Bécquer", "isWorthy": false, "season": 3 , "image": "/1683033637213.webp" },
-  { "name": "Galvarino", "isWorthy": false, "season": 3 , "image": "/1682694637592.webp" },
-  { "name": "Helen Keller", "isWorthy": false, "season": 3 , "image": "/1682593281640.webp" },
-  { "name": "Charles Dickens", "isWorthy": false, "season": 3 , "image": "/1682495405714.webp" },
-  { "name": "Billy Milligan", "isWorthy": false, "season": 3 , "image": "/1682493956776.webp" },
-  { "name": "Wladyslaw Szpilman", "isWorthy": false, "season": 3 , "image": "/1682346074002.webp" },
-  { "name": "William Buckley", "isWorthy": false, "season": 3 , "image": "/1681990837695.webp" },
-  { "name": "Arthur Guinness", "isWorthy": false, "season": 3 , "image": "/1681896970535.webp" },
-  { "name": "José María Jarabo", "isWorthy": false, "season": 3 , "image": "/1681823734534.webp" },
-  { "name": "Rob Roy MacGregor", "isWorthy": false, "season": 3 , "image": "/1681740345234.webp" },
-  { "name": "Mirin Dajo", "isWorthy": false, "season": 3 , "image": "/1681213232947.webp" },
-  { "name": "Hachiko", "isWorthy": false, "season": 3 , "image": "/1681215358043.webp" },
-  { "name": "Lance Armstrong", "isWorthy": false, "season": 3 , "image": "/1681215666746.webp" },
-  { "name": "Paracels", "isWorthy": false, "season": 3 , "image": "/1680780932771.webp" },
-  { "name": "Marvin Gaye", "isWorthy": false, "season": 3 , "image": "/1680599135989.webp" },
-  { "name": "Ferdinand Cheval", "isWorthy": false, "season": 3 , "image": "/1680599136223.webp" },
-  { "name": "William Seabrook", "isWorthy": false, "season": 3 , "image": "/1680530475348.webp" },
-  { "name": "Ada Byron", "isWorthy": false, "season": 3 , "image": "/1680530472822.webp" },
-  { "name": "Magdalena Castells Pons", "isWorthy": false, "season": 3 , "image": "/1680186947473.webp" },
-  { "name": "Dennis Rodman", "isWorthy": false, "season": 3 , "image": "/1680086764284.webp" },
-  { "name": "Coco Chanel", "isWorthy": false, "season": 3 , "image": "/1680008447463.webp" },
-  { "name": "Evan O’Neill Kane", "isWorthy": false, "season": 3 , "image": "/1679920834179.webp" },
-  { "name": "Santa Rosa de Lima", "isWorthy": false, "season": 3 , "image": "/1679410529396.webp" },
-  { "name": "Moe Berg", "isWorthy": false, "season": 3 , "image": "/1679410238259.webp" },
-  { "name": "Lucía Zárate", "isWorthy": false, "season": 3 , "image": "/1679409625445.webp" },
-  { "name": "Lord Byron", "isWorthy": false, "season": 3 , "image": "/1679319663275.webp" },
-  { "name": "Diògenes", "isWorthy": false, "season": 3 , "image": "/1678965932201.webp" },
-  { "name": "Maria Antonieta", "isWorthy": false, "season": 3 , "image": "/1678880772957.webp" },
-  { "name": "James Earl Ray", "isWorthy": false, "season": 3 , "image": "/1678795266489.webp" },
-  { "name": "Martin Luther King", "isWorthy": false, "season": 3 , "image": "/1678718169702.webp" },
-  { "name": "Rosaleen Norton", "isWorthy": false, "season": 3 , "image": "/1678365062943.webp" },
-  { "name": "Jackie Tonawanda", "isWorthy": false, "season": 3 , "image": "/1678270260497.webp" },
-  { "name": "Gérard Depardieu", "isWorthy": false, "season": 3 , "image": "/1678183839950.webp" },
-  { "name": "Johannes Vermeer", "isWorthy": false, "season": 3 , "image": "/1678115109599.webp" },
-  { "name": "Caterina de Siena", "isWorthy": false, "season": 3 , "image": "/1677760824296.webp" },
-  { "name": "Ed Kemper", "isWorthy": false, "season": 3 , "image": "/1677672664150.webp" },
-  { "name": "Diego Ruiz", "isWorthy": false, "season": 3 , "image": "/1677585309015.webp" },
-  { "name": "Eddie Jaku", "isWorthy": false, "season": 3 , "image": "/1677503809993.webp" },
-  { "name": "Pier Paolo Pasolini", "isWorthy": false, "season": 3 , "image": "/1677148829915.webp" },
-  { "name": "Frances Farmer", "isWorthy": false, "season": 3 , "image": "/1677073211868.webp" },
-  { "name": "Mary Shelley", "isWorthy": false, "season": 3 , "image": "/1676977836628.webp" },
-  { "name": "Bhaktivedanta", "isWorthy": false, "season": 3 , "image": "/1676897158609.webp" },
-  { "name": "Pilar Prades", "isWorthy": false, "season": 3 , "image": "/1676551263211.webp" },
-  { "name": "George Fox", "isWorthy": false, "season": 3 , "image": "/1676457660488.webp" },
-  { "name": "Yasuke", "isWorthy": false, "season": 3 , "image": "/1676381120763.webp" },
-  { "name": "Orson Welles", "isWorthy": false, "season": 3 , "image": "/1676296213701.webp" },
-  { "name": "Sarah Rector", "isWorthy": false, "season": 3 , "image": "/1675946435456.webp" },
-  { "name": "Sir Nicholas Winton", "isWorthy": false, "season": 3 , "image": "/1675853430464.webp" },
-  { "name": "Amedeo Modigliani", "isWorthy": false, "season": 3 , "image": "/1675768567787.webp" },
-  { "name": "Carlos Cuarteroni Fernández", "isWorthy": false, "season": 3 , "image": "/1675699850021.webp" },
-  { "name": "James Cook", "isWorthy": false, "season": 3 , "image": "/1675181118367.webp" },
-  { "name": "Desmond Doss", "isWorthy": false, "season": 3 , "image": "/1675180213783.webp" },
-  { "name": "Demòstenes", "isWorthy": false, "season": 3 , "image": "/1675165819858.webp" },
-  { "name": "Pedro González", "isWorthy": false, "season": 3 , "image": "/1675084264194.webp" },
-  { "name": "Josip Broz Tito", "isWorthy": false, "season": 3 , "image": "/1674737155291.webp" },
-  { "name": "Peter Sutcliffe", "isWorthy": false, "season": 3 , "image": "/1674647131664.webp" },
-  { "name": "Mattio Lovat", "isWorthy": false, "season": 3 , "image": "/1674555922722.webp" },
-  { "name": "Clark Olofsson", "isWorthy": false, "season": 3 , "image": "/1674489033248.webp" },
-  { "name": "Sylvester Stallone", "isWorthy": false, "season": 3 , "image": "/1674132010843.webp" },
-  { "name": "Joana I de Castella", "isWorthy": false, "season": 3 , "image": "/1674047425371.webp" },
-  { "name": "Armin Meiwes", "isWorthy": false, "season": 3 , "image": "/1673952945907.webp" },
-  { "name": "Antoine de Saint-Exupéry", "isWorthy": false, "season": 3 , "image": "/1673881264520.webp" },
-  { "name": "Gaietà Ripoll", "isWorthy": false, "season": 3 , "image": "/1673529671984.webp" },
-  { "name": "Ryan Grantham", "isWorthy": false, "season": 3 , "image": "/1673437227941.webp" },
-  { "name": "John DeLorean", "isWorthy": false, "season": 3 , "image": "/1673351165315.webp" },
-  { "name": "José Luis Pacheco", "isWorthy": false, "season": 3 , "image": "/1673275324924.webp" },
-  { "name": "Moammar al-Gaddafi", "isWorthy": false, "season": 3 , "image": "/1672837248682.webp" },
-  { "name": "William Lamport", "isWorthy": false, "season": 3 , "image": "/1672827636498.webp" },
-  { "name": "Barbora Skrolva", "isWorthy": false, "season": 3 , "image": "/1672744833332.webp" },
-  { "name": "Juli Cèsar", "isWorthy": false, "season": 3 , "image": "/1672664423532.webp" },
-  { "name": "Gregor MacGregor", "isWorthy": false, "season": 3 , "image": "/1672312569945.webp" },
-  { "name": "Tallulah Bankhead", "isWorthy": false, "season": 3 , "image": "/1672221917994.webp" },
-  { "name": "José Epita Mbomo", "isWorthy": false, "season": 3 , "image": "/1671729018344.webp" },
-  { "name": "James Hunt", "isWorthy": false, "season": 3 , "image": "/1671728709091.webp" },
-  { "name": "David Koresh", "isWorthy": false, "season": 3 , "image": "/1671722742069.webp" },
-  { "name": "Louis Le Prince", "isWorthy": false, "season": 3 , "image": "/1671467428854.webp" },
-  { "name": "Josep Pla", "isWorthy": false, "season": 3 , "image": "/1671467426795.webp" },
-  { "name": "Jackie Wilson", "isWorthy": false, "season": 3 , "image": "/1671467112094.webp" },
-  { "name": "Julio López Guixot", "isWorthy": false, "season": 3 , "image": "/1671107143162.webp" },
-  { "name": "Santa Olga de Kíiv", "isWorthy": false, "season": 3 , "image": "/1671017727218.webp" },
-  { "name": "George Kelly", "isWorthy": false, "season": 3 , "image": "/1670930710763.webp" },
-  { "name": "Jo Girardelli", "isWorthy": false, "season": 3 , "image": "/1670847962970.webp" },
-  { "name": "Perot Rocaguinarda", "isWorthy": false, "season": 3 , "image": "/1670410845821.webp" },
-  { "name": "Marilyn Monroe", "isWorthy": false, "season": 3 , "image": "/1670410228268.webp" },
-  { "name": "Simón Bolívar", "isWorthy": false, "season": 3 , "image": "/1670244634532.webp" },
-  { "name": "Ernest Everett Just", "isWorthy": false, "season": 3 , "image": "/1670241006623.webp" },
-  { "name": "La Dolça Neus", "isWorthy": false, "season": 3 , "image": "/1669891840819.webp" },
-  { "name": "Nathan Bedford Forrest", "isWorthy": false, "season": 3 , "image": "/1669813841943.webp" },
-  { "name": "Kudryavka", "isWorthy": false, "season": 3 , "image": "/1669723281541.webp" },
-  { "name": "Ronald Edwin Hunkele", "isWorthy": false, "season": 3 , "image": "/1669639806324.webp" },
-  { "name": "Aleksandra Kol·lontai", "isWorthy": false, "season": 3 , "image": "/1669283735503.webp" },
-  { "name": "Nakahama Manjirō", "isWorthy": false, "season": 3 , "image": "/1669202451123.webp" },
-  { "name": "Hector Hugh Munro", "isWorthy": false, "season": 3 , "image": "/1669116919450.webp" },
-  { "name": "Ramon Casas", "isWorthy": false, "season": 3 , "image": "/1669034158777.webp" },
-  { "name": "Jim Morrison", "isWorthy": false, "season": 3 , "image": "/1668700240132.webp" },
-  { "name": "Peter Freuchen", "isWorthy": false, "season": 3 , "image": "/1668598266529.webp" },
-  { "name": "Katherine Knight", "isWorthy": false, "season": 3 , "image": "/1668508839820.webp" },
-  { "name": "The Notorious B.I.G", "isWorthy": false, "season": 3 , "image": "/1668432052815.webp" },
-  { "name": "La Papessa Joana", "isWorthy": false, "season": 3 , "image": "/1668077158635.webp" },
-  { "name": "Solomon Perel", "isWorthy": false, "season": 3 , "image": "/1667992863281.webp" },
-  { "name": "Ken Smith", "isWorthy": false, "season": 3 , "image": "/1667912524391.webp" },
-  { "name": "El Chapo Guzmán", "isWorthy": false, "season": 3 , "image": "/1667837724691.webp" },
-  { "name": "Dieguito el Malo", "isWorthy": false, "season": 3 , "image": "/1667404836183.webp" },
-  { "name": "Ota Benga 3x39)", "isWorthy": false, "season": 3 , "image": "/1667392529555.webp" },
-  { "name": "Sarah Good", "isWorthy": false, "season": 3 , "image": "/1667227820489.webp" },
-  { "name": "Joseph Pilates", "isWorthy": false, "season": 3 , "image": "/1667227820975.webp" },
-  { "name": "Egil Skallagrímsson", "isWorthy": false, "season": 3 , "image": "/1666862423822.webp" },
-  { "name": "Tupac Shakur", "isWorthy": false, "season": 3 , "image": "/1666780539744.webp" },
-  { "name": "Mariozza", "isWorthy": false, "season": 3 , "image": "/1666693872362.webp" },
-  { "name": "Robert Liston", "isWorthy": false, "season": 3 , "image": "/1666618533320.webp" },
-  { "name": "Johnny Cash", "isWorthy": false, "season": 3 , "image": "/1666259121920.webp" },
-  { "name": "Blanche Monnier", "isWorthy": false, "season": 3 , "image": "/1666093846241.webp" },
-  { "name": "Ramón Oliva Márquez (Monchito)", "isWorthy": false, "season": 3 , "image": "/1666093542676.webp" },
-  { "name": "Niccolò Paganini", "isWorthy": false, "season": 3 , "image": "/1666005941308.webp" },
-  { "name": "Dolours Price", "isWorthy": false, "season": 3 , "image": "/1665654626227.webp" },
-  { "name": "Anna Sorokin", "isWorthy": false, "season": 3 , "image": "/1665491488037.webp" },
-  { "name": "Madalyn Murray O’Hair", "isWorthy": false, "season": 3 , "image": "/1665484820805.webp" },
-  { "name": "Ramon Llull", "isWorthy": false, "season": 3 , "image": "/1665404406072.webp" },
-  { "name": "Gavrilo Princip", "isWorthy": false, "season": 3 , "image": "/1665053119677.webp" },
-  { "name": "Yayoi Kusama", "isWorthy": false, "season": 3 , "image": "/1664966436120.webp" },
-  { "name": "Maurice Tillet", "isWorthy": false, "season": 3 , "image": "/1664877020683.webp" },
-  { "name": "Judy Garland", "isWorthy": false, "season": 3 , "image": "/1664804462465.webp" },
-  { "name": "Eva Braun", "isWorthy": false, "season": 3 , "image": "/1664449264412.webp" },
-  { "name": "Porfirio Rubirosa", "isWorthy": false, "season": 3 , "image": "/1664360173780.webp" },
-  { "name": "Ching Shih", "isWorthy": false, "season": 3 , "image": "/1664275852237.webp" },
-  { "name": "Ludwig van Beethoven", "isWorthy": false, "season": 3 , "image": "/1664194815697.webp" },
-  { "name": "Ada Blackjack", "isWorthy": false, "season": 3 , "image": "/1663843256036.webp" },
-  { "name": "Bernadette Soubirous", "isWorthy": false, "season": 3 , "image": "/1663763129150.webp" },
-  { "name": "John Wayne Gacy", "isWorthy": false, "season": 3 , "image": "/1663669547381.webp" },
-  { "name": "Espàrtac", "isWorthy": false, "season": 3 , "image": "/1663587607636.webp" },
-  { "name": "Roman Polanski", "isWorthy": false, "season": 3 , "image": "/1663242616160.webp" },
-  { "name": "Amelia Earhart", "isWorthy": false, "season": 3 , "image": "/1663161627215.webp" },
-  { "name": "Sófia Kovalévskaia", "isWorthy": false, "season": 3 , "image": "/1663065352191.webp" },
-  { "name": "Martin Guerre", "isWorthy": false, "season": 3 , "image": "/1662994534786.webp" },
-  { "name": "GG Allin", "isWorthy": false, "season": 3 , "image": "/1662633342877.webp" },
-  { "name": "Ngola Mbandi Zibga", "isWorthy": false, "season": 3 , "image": "/1662547830633.webp" },
-  { "name": "Benito Panchamé i Busquets", "isWorthy": false, "season": 3 , "image": "/1662462032064.webp" },
-  { "name": "Melanie Martinez", "isWorthy": false, "season": 3 , "image": "/1662380417403.webp" },
-  { "name": "Virginia Woolf", "isWorthy": false, "season": 3 , "image": "/1662030308570.webp" },
-  { "name": "Beulah May Annan", "isWorthy": false, "season": 3 , "image": "/1661944545402.webp" },
-  { "name": "Hosono Masabumi", "isWorthy": false, "season": 3 , "image": "/1661857854508.webp" },
-  { "name": "Henry Clay Frick", "isWorthy": false, "season": 3 , "image": "/1661778631197.webp" },
-  { "name": "Phineas Taylor Barnum", "isWorthy": false, "season": 2 , "image": "/1657795537196.webp" },
-  { "name": "György Silberstein", "isWorthy": false, "season": 2 , "image": "/1657722955976.webp" },
-  { "name": "Gilles de Rais", "isWorthy": false, "season": 2 , "image": "/1657617940081.webp" },
-  { "name": "Denholm Elliott", "isWorthy": false, "season": 2 , "image": "/1657539938998.webp" },
-  { "name": "Chang i Eng Búnquer", "isWorthy": false, "season": 2 , "image": "/1657188947682.webp" },
-  { "name": "Josep Mir Rocafort", "isWorthy": false, "season": 2 , "image": "/1657102223881.webp" },
-  { "name": "Lola Montez", "isWorthy": false, "season": 2 , "image": "/1657014913329.webp" },
-  { "name": "Roy Benavidez", "isWorthy": false, "season": 2 , "image": "/1656936047351.webp" },
-  { "name": "Bela Kiss", "isWorthy": false, "season": 2 , "image": "/1656424903671.webp" },
-  { "name": "Francesc de Verntallat", "isWorthy": false, "season": 2 , "image": "/1656424903966.webp" },
-  { "name": "Pauline Cushman", "isWorthy": false, "season": 2 , "image": "/1656424869975.webp" },
-  { "name": "Lluís I d’Espanya", "isWorthy": false, "season": 2 , "image": "/1656330352578.webp" },
-  { "name": "William Seward Burroughs", "isWorthy": false, "season": 2 , "image": "/1655979333185.webp" },
-  { "name": "Vo Thi Mo", "isWorthy": false, "season": 2 , "image": "/1655900419830.webp" },
-  { "name": "Mary Bell", "isWorthy": false, "season": 2 , "image": "/1655807732640.webp" },
-  { "name": "Bela Lugosi", "isWorthy": false, "season": 2 , "image": "/1655737234786.webp" },
-  { "name": "Jack Lucas", "isWorthy": false, "season": 2 , "image": "/1655371514983.webp" },
-  { "name": "La Nacha", "isWorthy": false, "season": 2 , "image": "/1655289959538.webp" },
-  { "name": "Zogú I d’Albània", "isWorthy": false, "season": 2 , "image": "/1655201107772.webp" },
-  { "name": "Lovett Fort-Whiteman", "isWorthy": false, "season": 2 , "image": "/1655132449303.webp" },
-  { "name": "Prince Randian", "isWorthy": false, "season": 2 , "image": "/1654770028601.webp" },
-  { "name": "Carlos Fitzcarrald", "isWorthy": false, "season": 2 , "image": "/1654679430892.webp" },
-  { "name": "Kenneth Bianchi", "isWorthy": false, "season": 2 , "image": "/1654616117049.webp" },
-  { "name": "Barbara La Marr", "isWorthy": false, "season": 2 , "image": "/1654263318836.webp" },
-  { "name": "Papusza", "isWorthy": false, "season": 2 , "image": "/1654164948261.webp" },
-  { "name": "Samuel Gilbert Scott", "isWorthy": false, "season": 2 , "image": "/1654081229473.webp" },
-  { "name": "Hildegarda de Bingen", "isWorthy": false, "season": 2 , "image": "/1653991828555.webp" },
-  { "name": "Robert Durst", "isWorthy": false, "season": 2 , "image": "/1653928262218.webp" },
-  { "name": "Charles Ingram", "isWorthy": false, "season": 2 , "image": "/1653561331638.webp" },
-  { "name": "Emperadriu Sissí", "isWorthy": false, "season": 2 , "image": "/1653385805859.webp" },
-  { "name": "Baby Face Nelson", "isWorthy": false, "season": 2 , "image": "/1653304231412.webp" },
-  { "name": "Ernest Shackleton", "isWorthy": false, "season": 2 , "image": "/1652951767601.webp" },
-  { "name": "Marcos Rodríguez Pantoja", "isWorthy": false, "season": 2 , "image": "/1653474641495.webp" },
-  { "name": "Carlos Henrique Raposo", "isWorthy": false, "season": 2 , "image": "/1652870770843.webp" },
-  { "name": "Ed Gein", "isWorthy": false, "season": 2 , "image": "/1652780762817.webp" },
-  { "name": "Ana Mendieta", "isWorthy": false, "season": 2 , "image": "/1652710242992.webp" },
-  { "name": "Giorgio Rosa", "isWorthy": false, "season": 2 , "image": "/1652349950979.webp" },
-  { "name": "Walter Freeman", "isWorthy": false, "season": 2 , "image": "/1652268346248.webp" },
-  { "name": "Abebe Bikila", "isWorthy": false, "season": 2 , "image": "/1652174758609.webp" },
-  { "name": "Stefania Podgorska", "isWorthy": false, "season": 2 , "image": "/1652098851542.webp" },
-  { "name": "Marilyn Manson", "isWorthy": false, "season": 2 , "image": "/1651748128695.webp" },
-  { "name": "Mariam Sulakiotis", "isWorthy": false, "season": 2 , "image": "/1651665348858.webp" },
-  { "name": "William Johnson, Zip the Pinhead", "isWorthy": false, "season": 2 , "image": "/1651573222723.webp" },
-  { "name": "Anna Bolena", "isWorthy": false, "season": 2 , "image": "/1651498235196.webp" },
-  { "name": "Anatoly Moskvin", "isWorthy": false, "season": 2 , "image": "/1651136162452.webp" },
-  { "name": "Henry Morgan", "isWorthy": false, "season": 2 , "image": "/1651056935472.webp" },
-  { "name": "Kéops", "isWorthy": false, "season": 2 , "image": "/1651075547810.webp" },
-  { "name": "Dora Ratjen", "isWorthy": false, "season": 2 , "image": "/1650890133721.webp" },
-  { "name": "Fiódor Dostoievski", "isWorthy": false, "season": 2 , "image": "/1650534044854.webp" },
-  { "name": "Cher Ami", "isWorthy": false, "season": 2 , "image": "/1650461475980.webp" },
-  { "name": "Nathan Hale", "isWorthy": false, "season": 2 , "image": "/1649962849438.webp" },
-  { "name": "John Bobbit", "isWorthy": false, "season": 2 , "image": "/1649859618431.webp" },
-  { "name": "Salvador Dalí", "isWorthy": false, "season": 2 , "image": "/1649863849854.webp" },
-  { "name": "Tsutomu Yamaguchi", "isWorthy": false, "season": 2 , "image": "/1649757924552.webp" },
-  { "name": "Évariste Galois", "isWorthy": false, "season": 2 , "image": "/1650378313497.webp" },
-  { "name": "John Dillinger", "isWorthy": false, "season": 2 , "image": "/1649691955484.webp" },
-  { "name": "Dina Sanichar", "isWorthy": false, "season": 2 , "image": "/1649326531145.webp" },
-  { "name": "Patrice Lumumba", "isWorthy": false, "season": 2 , "image": "/1649238021349.webp" },
-  { "name": "Caterina la Gran", "isWorthy": false, "season": 2 , "image": "/1649153122666.webp" },
-  { "name": "Hellé Nice", "isWorthy": false, "season": 2 , "image": "/1649071869991.webp" },
-  { "name": "Frederica Montseny", "isWorthy": false, "season": 2 , "image": "/1705074926451.webp" },
-  { "name": "Francis Bacon", "isWorthy": false, "season": 2 , "image": "/1648635027488.webp" },
-  { "name": "Wolfgang Amadeus Mozart", "isWorthy": false, "season": 2 , "image": "/1648547748285.webp" },
-  { "name": "Lewis Howard Latimer", "isWorthy": false, "season": 2 , "image": "/1648467059168.webp" },
-  { "name": "Mercy Brown", "isWorthy": false, "season": 2 , "image": "/1648119669218.webp" },
-  { "name": "Boudica", "isWorthy": false, "season": 2 , "image": "/1648033831927.webp" },
-  { "name": "Pablo Picasso", "isWorthy": false, "season": 2 , "image": "/1647888651682.webp" },
-  { "name": "Grady Stiles", "isWorthy": false, "season": 2 , "image": "/1647879921464.webp" },
-  { "name": "Cicciolina", "isWorthy": false, "season": 2 , "image": "/1647516064267.webp" },
-  { "name": "Alvin Karpis", "isWorthy": false, "season": 2 , "image": "/1647428177105.webp" },
-  { "name": "Leopold II", "isWorthy": false, "season": 2 , "image": "/1647275116690.webp" },
-  { "name": "Isaac William Sprague", "isWorthy": false, "season": 2 , "image": "/1647274817753.webp" },
-  { "name": "Ignaz Semmelweis", "isWorthy": false, "season": 2 , "image": "/1646908815210.webp" },
-  { "name": "Pedro Rodrigues Filho", "isWorthy": false, "season": 2 , "image": "/1646834766174.webp" },
-  { "name": "Valerie Solanas", "isWorthy": false, "season": 2 , "image": "/1646736353747.webp" },
-  { "name": "Claude François", "isWorthy": false, "season": 2 , "image": "/1646658930246.webp" },
-  { "name": "Wild Bill Hickok", "isWorthy": false, "season": 2 , "image": "/1646305542597.webp" },
-  { "name": "Ulrike Meinhof", "isWorthy": false, "season": 2 , "image": "/1646221809159.webp" },
-  { "name": "Ricard III d’Anglaterra", "isWorthy": false, "season": 2 , "image": "/1646126723537.webp" },
-  { "name": "El Vaquilla", "isWorthy": false, "season": 2 , "image": "/1646086831063.webp" },
-  { "name": "Napoleó Bonaparte", "isWorthy": false, "season": 2 , "image": "/1645699836193.webp" },
-  { "name": "Dustin Diamond", "isWorthy": false, "season": 2 , "image": "/1645619761190.webp" },
-  { "name": "Georgia Tann", "isWorthy": false, "season": 2 , "image": "/1645528230771.webp" },
-  { "name": "Daniel Lambert", "isWorthy": false, "season": 2 , "image": "/1645463132513.webp" },
-  { "name": "Idi Amin", "isWorthy": false, "season": 2 , "image": "/1645017027636.webp" },
-  { "name": "Luka Magnotta", "isWorthy": false, "season": 2 , "image": "/1645017027241.webp" },
-  { "name": "Dylan Thomas", "isWorthy": false, "season": 2 , "image": "/1644920452279.webp" },
-  { "name": "Ángel Alcázar de Velasco", "isWorthy": false, "season": 2 , "image": "/1644845420131.webp" },
-  { "name": "Josep Maria Tarradellas", "isWorthy": false, "season": 2 , "image": "/1644577835694.webp" },
-  { "name": "Charles Albright", "isWorthy": false, "season": 2 , "image": "/1644245186388.webp" },
-  { "name": "Osho", "isWorthy": false, "season": 2 , "image": "/1644244546745.webp" },
-  { "name": "Miki Dora", "isWorthy": false, "season": 2 , "image": "/1644244259577.webp" },
-  { "name": "Johann Trollman", "isWorthy": false, "season": 2 , "image": "/1643886062718.webp" },
-  { "name": "Miyamoto Musashi", "isWorthy": false, "season": 2 , "image": "/1643802045024.webp" },
-  { "name": "La Pasionaria", "isWorthy": false, "season": 2 , "image": "/1643714114486.webp" },
-  { "name": "Mike Miracle", "isWorthy": false, "season": 2 , "image": "/1643649624285.webp" },
-  { "name": "Mariya Oktyabrskaya", "isWorthy": false, "season": 2 , "image": "/1643279121848.webp" },
-  { "name": "Emmeline Pankhurst", "isWorthy": false, "season": 2 , "image": "/1643196629335.webp" },
-  { "name": "Mehran Karimi Nasseri", "isWorthy": false, "season": 2 , "image": "/1643108748016.webp" },
-  { "name": "Joan de Serrallonga", "isWorthy": false, "season": 2 , "image": "/1643037935580.webp" },
-  { "name": "Germans Bogdanoff", "isWorthy": false, "season": 2 , "image": "/1642597553245.webp" },
-  { "name": "Pedro González de Velasco", "isWorthy": false, "season": 2 , "image": "/1642597849451.webp" },
-  { "name": "Calamity Jane", "isWorthy": false, "season": 2 , "image": "/1642434606994.webp" },
-  { "name": "Isaac Newton", "isWorthy": false, "season": 2 , "image": "/1642419350194.webp" },
-  { "name": "Roger de Flor", "isWorthy": false, "season": 2 , "image": "/1642071364545.webp" },
-  { "name": "Greta Garbo", "isWorthy": false, "season": 2 , "image": "/1641981362769.webp" },
-  { "name": "Dorothy Lawrence", "isWorthy": false, "season": 2 , "image": "/1641899107176.webp" },
-  { "name": "Frank Lentini", "isWorthy": false, "season": 2 , "image": "/1641830715207.webp" },
-  { "name": "Harland Sanders", "isWorthy": false, "season": 2 , "image": "/1641299709313.webp" },
-  { "name": "Puyi", "isWorthy": false, "season": 2 , "image": "/1641300013654.webp" },
-  { "name": "Paul Schäfer", "isWorthy": false, "season": 2 , "image": "/1641228360987.webp" },
-  { "name": "Alfred Dreyfus", "isWorthy": false, "season": 2 , "image": "/1641226848864.webp" },
-  { "name": "Joan Gamper", "isWorthy": false, "season": 2 , "image": "/1640860813979.webp" },
-  { "name": "John Corcoran", "isWorthy": false, "season": 2 , "image": "/1640773829809.webp" },
-  { "name": "Maria I d\"Escòcia", "isWorthy": false, "season": 2 , "image": "/1640693743383.webp" },
-  { "name": "Mary Read", "isWorthy": false, "season": 2 , "image": "/1640616042881.webp" },
-  { "name": "Hajime Fuji", "isWorthy": false, "season": 2 , "image": "/1640021455248.webp" },
-  { "name": "Vissarion", "isWorthy": false, "season": 2 , "image": "/1640179259736.webp" },
-  { "name": "Anne Bonny", "isWorthy": false, "season": 2 , "image": "/1640179259273.webp" },
-  { "name": "Caterina de Mèdici", "isWorthy": false, "season": 2 , "image": "/1640015123951.webp" },
-  { "name": "Walt Disney", "isWorthy": false, "season": 2 , "image": "/1639565710610.webp" },
-  { "name": "Sam l’Insubmergible", "isWorthy": false, "season": 2 , "image": "/1639653008082.webp" },
-  { "name": "Lindy Chamberlain", "isWorthy": false, "season": 2 , "image": "/1639406741001.webp" },
-  { "name": "Pablo Escobar", "isWorthy": false, "season": 2 , "image": "/1639406414582.webp" },
-  { "name": "Kary Mullis", "isWorthy": false, "season": 2 , "image": "/1639048838601.webp" },
-  { "name": "Liudmila Pavlitxenko", "isWorthy": false, "season": 2 , "image": "/1638896485389.webp" },
-  { "name": "Barbanegra", "isWorthy": false, "season": 2 , "image": "/1638796860484.webp" },
-  { "name": "Cayetano Santos Godino", "isWorthy": false, "season": 2 , "image": "/1638796566955.webp" },
-  { "name": "Karl Tanzler", "isWorthy": false, "season": 2 , "image": "/1638374126812.webp" },
-  { "name": "Annie Jones", "isWorthy": false, "season": 2 , "image": "/1638355552837.webp" },
-  { "name": "Sid Vicious", "isWorthy": false, "season": 2 , "image": "/1638268527678.webp" },
-  { "name": "Zhang Zongchang", "isWorthy": false, "season": 2 , "image": "/1638189057623.webp" },
-  { "name": "Germanes Mirabal", "isWorthy": false, "season": 2 , "image": "/1637836822234.webp" },
-  { "name": "Nicolae Minovici", "isWorthy": false, "season": 2 , "image": "/1637752239814.webp" },
-  { "name": "William Shakespeare", "isWorthy": false, "season": 2 , "image": "/1637595957206.webp" },
-  { "name": "Fatty Arbuckle", "isWorthy": false, "season": 2 , "image": "/1637595650825.webp" },
-  { "name": "Federico García Lorca", "isWorthy": false, "season": 2 , "image": "/1636543874829.webp" },
-  { "name": "Shavarsh Karapetyan", "isWorthy": false, "season": 2 , "image": "/1637161818374.webp" },
-  { "name": "Roonie Brunswijk", "isWorthy": false, "season": 2 , "image": "/1637148350147.webp" },
-  { "name": "George Armstrong Custer", "isWorthy": false, "season": 2 , "image": "/1637061644787.webp" },
-  { "name": "Carlo Gesualdo", "isWorthy": false, "season": 2 , "image": "/1636981522370.webp" },
-  { "name": "Richard Ramirez", "isWorthy": false, "season": 2 , "image": "/1636544419300.webp" },
-  { "name": "Joana de Belleville", "isWorthy": false, "season": 2 , "image": "/1636452937958.webp" },
-  { "name": "Bobby Fischer", "isWorthy": false, "season": 2 , "image": "/1636377910926.webp" },
-  { "name": "André el Gegant", "isWorthy": false, "season": 2 , "image": "/1636020614361.webp" },
-  { "name": "Troy Davis", "isWorthy": false, "season": 2 , "image": "/1635936925816.webp" },
-  { "name": "Mata Hari", "isWorthy": false, "season": 2 , "image": "/1635858917728.webp" },
-  { "name": "Cleòpatra", "isWorthy": false, "season": 2 , "image": "/1635770441458.webp" },
-  { "name": "Trucanini", "isWorthy": false, "season": 2 , "image": "/1635413430442.webp" },
-  { "name": "Àtila, rei dels huns", "isWorthy": false, "season": 2 , "image": "/1635331260979.webp" },
-  { "name": "Dorothea Puente", "isWorthy": false, "season": 2 , "image": "/1635240700077.webp" },
-  { "name": "Tarrare", "isWorthy": false, "season": 2 , "image": "/1635168340764.webp" },
-  { "name": "Mildred Lisette Norman", "isWorthy": false, "season": 2 , "image": "/1634813420186.webp" },
-  { "name": "James Wide", "isWorthy": false, "season": 2 , "image": "/1634728846753.webp" },
-  { "name": "Chet Baker", "isWorthy": false, "season": 2 , "image": "/1634639872404.webp" },
-  { "name": "Yoshie Shiratori", "isWorthy": false, "season": 2 , "image": "/1634580617924.webp" },
-  { "name": "Girolamo Cardano", "isWorthy": false, "season": 2 , "image": "/1634208059373.webp" },
-  { "name": "Tom Thumb", "isWorthy": false, "season": 2 , "image": "/1634119860418.webp" },
-  { "name": "Simone de Beauvoir", "isWorthy": false, "season": 2 , "image": "/1633951542530.webp" },
-  { "name": "Syd Barrett", "isWorthy": false, "season": 2 , "image": "/1633951236029.webp" },
-  { "name": "Phoolan Devi", "isWorthy": false, "season": 2 , "image": "/1633606247339.webp" },
-  { "name": "Papa Joan XII", "isWorthy": false, "season": 2 , "image": "/1633518637480.webp" },
-  { "name": "Henri Désiré Landru", "isWorthy": false, "season": 2 , "image": "/1633427753850.webp" },
-  { "name": "Jiang Qing", "isWorthy": false, "season": 2 , "image": "/1633355442492.webp" },
-  { "name": "Ramón Franco", "isWorthy": false, "season": 2 , "image": "/1632918956276.webp" },
-  { "name": "Buffalo Bill", "isWorthy": false, "season": 2 , "image": "/1632922807950.webp" },
-  { "name": "Primo Carnera", "isWorthy": false, "season": 2 , "image": "/1632822062735.webp" },
-  { "name": "Francis Galton", "isWorthy": false, "season": 2 , "image": "/1632745523623.webp" },
-  { "name": "Anna Nicole Smith", "isWorthy": false, "season": 2 , "image": "/1632313524259.webp" },
-  { "name": "Ivan Milat", "isWorthy": false, "season": 2 , "image": "/1632308140008.webp" },
-  { "name": "Rosa Luxemburg", "isWorthy": false, "season": 2 , "image": "/1632219927331.webp" },
-  { "name": "Charles Goodyear", "isWorthy": false, "season": 2 , "image": "/1632134761569.webp" },
-  { "name": "Heinz Stücke", "isWorthy": false, "season": 2 , "image": "/1631790653558.webp" },
-  { "name": "Bonnie and Clyde", "isWorthy": false, "season": 2 , "image": "/1631697360033.webp" },
-  { "name": "Pol Pot", "isWorthy": false, "season": 2 , "image": "/1631614542657.webp" },
-  { "name": "Varg Vikernes", "isWorthy": false, "season": 2 , "image": "/1631559323177.webp" },
-  { "name": "Patty Hearst", "isWorthy": false, "season": 2 , "image": "/1631181634008.webp" },
-  { "name": "Isabel II d’Espanya", "isWorthy": false, "season": 2 , "image": "/1631097952439.webp" },
-  { "name": "Garbo", "isWorthy": false, "season": 2 , "image": "/1631008861486.webp" },
-  { "name": "Walter Summerford", "isWorthy": false, "season": 2 , "image": "/1630935938266.webp" },
-  { "name": "Carlos Gardel", "isWorthy": false, "season": 2 , "image": "/1630574138568.webp" },
-  { "name": "Shi Jian Qiao", "isWorthy": false, "season": 2 , "image": "/1630513651828.webp" },
-  { "name": "David Hahn", "isWorthy": false, "season": 2 , "image": "/1630513625400.webp" },
-  { "name": "Frederick Barrett", "isWorthy": false, "season": 2 , "image": "/1630513558051.webp" },
-  { "name": "Jesus de Natzaret", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joan Primer d’Anglaterra", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Chris Kyle", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "William Wallace", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Luz Long", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Alfred Jarry", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Baldomera Larra", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Donald Crowhurst", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Maria Callas", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Thomas More", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Genguis Kan", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Sammy Davis Jr.", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "H.H. Holmes", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Floquet de Neu", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Calígula", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Zelda Fitzgerald", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Al Capone", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lope de Aguirre", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Dmitry Baksheev", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "O. J. Simpson", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Nina Simone", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Marius Jacob", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Hugh Hefner", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Anton Txékhov", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joan Crawford", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Edmund Hillary", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Éric Cantona", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Família Bender", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Antoni Gaudí", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Bou assegut", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Eva Perón", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mikhaïl Bakunin", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Bette Davis", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Elagàbal", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Manuel Vázquez Montalbán", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jimi Hendrix", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mari Pepa Colomer", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Molière", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Richard Feynman", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Julia Pastrana", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Juliane Koepcke", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Germans Collyer", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Quico Sabaté", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Elisabeth Nietzsche", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Antonio Brown", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jordan Belfort", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Karl Marx", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Tiger Woods", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Charlotte Brontë", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Charles Bukowski", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Truman Capote", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mary Mallon", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Alfons XIII", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lemmy Kilmister", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Sojourner Truth", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Caritat Mercader", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Els germans McDonald", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Vaslav Nijinsky", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Oskar Speck", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Hugh Glass", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Agustín Luengo", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Oscar Pistorius", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Miguel Hernández", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Charley Parkhurst", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Charles Manson", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Barba Roja", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Antonin Artaud", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Marlon Brando", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Karl-Adolf Schlitt", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Noor Inayat Khan", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mary Ann Cotton", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Allen Clayton West", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Tomás de Torquemada", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Fritz Honka", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Josephine Corbin", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Erzebet Bathory", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joe Exotic", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Carlos de Viana", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Phil Spector", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joseph Merrick", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Klaus Kinski", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Billie Holiday", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Leah Feldman", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ernest Hemingway", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Maria Teresinha Gomes", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Giacomo Casanova", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "José Manuel Urtain", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Guillermo Marconi", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Nicholas Senn", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Michael Jackson", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Oskar Schindler", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Aleister Crowley", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lena Baker", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Pancho Villa", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mileva Marić", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ós Wojtek", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lewis Carroll", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Patrick Roy Bates", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Franz Reichelt", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Alícia Esteve Head / Tania Head", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Victor Hugo", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Sir Robert Charlton", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ivan el Terrible", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Xavier Cugat", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Agafia Lykova", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Keith Moon", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Yukio Mishima", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "John R. Brinkley", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Alexandre el Gran", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Nikola Tesla", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Princesa Caraboo", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "John McAfee", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Max Stirner", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ned Kelly", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "George Michael", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Hildegart Rodríguez", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "La vampira del Raval", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Bokassa", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lluís II de Baviera", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Boris I d’Andorra", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jim Jones", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Irena Sendler", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ibrahim I", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Sarah Bernhardt", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Frane Selak", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Anna Anderson", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joseph Pujol, Le Pétomane", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Catalina de Erauso", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Janis Joplin", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Manolete", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Honoré de Balzac", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Elizabeth Barret", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Macaulay Culkin", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Franz Kafka", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Caravaggio", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Hedy Lamarr", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Robert Schumann", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Billy el Nen", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Horacio Quiroga", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Whitney Houston", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Vlad III", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Victor Lustig", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jean-Baptiste Lully", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Antonio Meucci", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Krystyna Skarbek", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Horace Lawson Hunley", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Grigori Rasputin", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Digby Taham-Warter", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Robert Todd Lincoln", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ana Frank", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ritchie Valens", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Houdini", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Lamar Odom", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Yoko Ono", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Wilhelm Voigt", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Ranavalona I", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jean-Claude Romand", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Violet Jessop", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Jesse Tafero", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Carlos Sainz", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Neró", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Phineas Gage", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Amy Winehouse", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Marie Curie", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Claudi Cèsar August", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Paula Wolf", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "George Best", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Edgar Allan Poe", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Otto Lilienthal", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Édith Piaf", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Hunter S. Thompson", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Frida Kahlo", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Horace de Vere Cole", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Joana d\"Arc", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Charles Justice", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Vincent Van Gogh", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Haruo Hirota", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Aleksandr Bogdanov", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Richard Jewell", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Mao Zedong", "isWorthy": false, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Roy Sullivan", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Isadora Duncan", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "James Bowman", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Michael Collins", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" },
-  { "name": "Frederick Fleet", "isWorthy": true, "season": 1 , "image": "/1626437136757.webp" }
+  {
+    "name": "Frederick Fleet",
+    "isWorthy": true,
+    "episode": 1,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Michael Collins",
+    "isWorthy": true,
+    "episode": 2,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "James Bowman",
+    "isWorthy": true,
+    "episode": 3,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Isadora Duncan",
+    "isWorthy": true,
+    "episode": 4,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Roy Sullivan",
+    "isWorthy": true,
+    "episode": 5,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mao Zedong",
+    "isWorthy": false,
+    "episode": 6,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Richard Jewell",
+    "isWorthy": false,
+    "episode": 7,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Aleksandr Bogdanov",
+    "isWorthy": false,
+    "episode": 8,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Haruo Hirota",
+    "isWorthy": false,
+    "episode": 9,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Vincent Van Gogh",
+    "isWorthy": false,
+    "episode": 10,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Charles Justice",
+    "isWorthy": false,
+    "episode": 11,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joana d\"Arc",
+    "isWorthy": false,
+    "episode": 12,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Horace de Vere Cole",
+    "isWorthy": false,
+    "episode": 13,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Frida Kahlo",
+    "isWorthy": false,
+    "episode": 14,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Hunter S. Thompson",
+    "isWorthy": false,
+    "episode": 15,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Édith Piaf",
+    "isWorthy": false,
+    "episode": 16,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Otto Lilienthal",
+    "isWorthy": false,
+    "episode": 17,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Edgar Allan Poe",
+    "isWorthy": false,
+    "episode": 18,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "George Best",
+    "isWorthy": false,
+    "episode": 19,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Paula Wolf",
+    "isWorthy": false,
+    "episode": 20,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Claudi Cèsar August",
+    "isWorthy": false,
+    "episode": 21,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Marie Curie",
+    "isWorthy": false,
+    "episode": 22,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Amy Winehouse",
+    "isWorthy": false,
+    "episode": 23,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Phineas Gage",
+    "isWorthy": false,
+    "episode": 24,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Neró",
+    "isWorthy": false,
+    "episode": 25,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Carlos Sainz",
+    "isWorthy": false,
+    "episode": 26,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jesse Tafero",
+    "isWorthy": false,
+    "episode": 27,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Violet Jessop",
+    "isWorthy": false,
+    "episode": 28,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jean-Claude Romand",
+    "isWorthy": false,
+    "episode": 29,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ranavalona I",
+    "isWorthy": false,
+    "episode": 30,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Wilhelm Voigt",
+    "isWorthy": false,
+    "episode": 31,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Yoko Ono",
+    "isWorthy": false,
+    "episode": 32,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lamar Odom",
+    "isWorthy": false,
+    "episode": 33,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Houdini",
+    "isWorthy": false,
+    "episode": 34,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ritchie Valens",
+    "isWorthy": false,
+    "episode": 35,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ana Frank",
+    "isWorthy": false,
+    "episode": 36,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Robert Todd Lincoln",
+    "isWorthy": false,
+    "episode": 37,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Digby Taham-Warter",
+    "isWorthy": false,
+    "episode": 38,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Grigori Rasputin",
+    "isWorthy": false,
+    "episode": 39,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Horace Lawson Hunley",
+    "isWorthy": false,
+    "episode": 40,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Krystyna Skarbek",
+    "isWorthy": false,
+    "episode": 41,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Antonio Meucci",
+    "isWorthy": false,
+    "episode": 42,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jean-Baptiste Lully",
+    "isWorthy": false,
+    "episode": 43,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Victor Lustig",
+    "isWorthy": false,
+    "episode": 44,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Vlad III",
+    "isWorthy": false,
+    "episode": 45,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Whitney Houston",
+    "isWorthy": false,
+    "episode": 46,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Horacio Quiroga",
+    "isWorthy": false,
+    "episode": 47,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Billy el Nen",
+    "isWorthy": false,
+    "episode": 48,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Robert Schumann",
+    "isWorthy": false,
+    "episode": 49,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Hedy Lamarr",
+    "isWorthy": false,
+    "episode": 50,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Caravaggio",
+    "isWorthy": false,
+    "episode": 51,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Franz Kafka",
+    "isWorthy": false,
+    "episode": 52,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Macaulay Culkin",
+    "isWorthy": false,
+    "episode": 53,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Elizabeth Barret",
+    "isWorthy": false,
+    "episode": 54,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Honoré de Balzac",
+    "isWorthy": false,
+    "episode": 55,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Manolete",
+    "isWorthy": false,
+    "episode": 56,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Janis Joplin",
+    "isWorthy": false,
+    "episode": 57,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Catalina de Erauso",
+    "isWorthy": false,
+    "episode": 58,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joseph Pujol, Le Pétomane",
+    "isWorthy": false,
+    "episode": 59,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Anna Anderson",
+    "isWorthy": false,
+    "episode": 60,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Frane Selak",
+    "isWorthy": false,
+    "episode": 61,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Sarah Bernhardt",
+    "isWorthy": false,
+    "episode": 62,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ibrahim I",
+    "isWorthy": false,
+    "episode": 63,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Irena Sendler",
+    "isWorthy": false,
+    "episode": 64,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jim Jones",
+    "isWorthy": false,
+    "episode": 65,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Boris I d’Andorra",
+    "isWorthy": false,
+    "episode": 66,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lluís II de Baviera",
+    "isWorthy": false,
+    "episode": 67,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Bokassa",
+    "isWorthy": false,
+    "episode": 68,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "La vampira del Raval",
+    "isWorthy": false,
+    "episode": 69,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Hildegart Rodríguez",
+    "isWorthy": false,
+    "episode": 70,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "George Michael",
+    "isWorthy": false,
+    "episode": 71,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ned Kelly",
+    "isWorthy": false,
+    "episode": 72,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Max Stirner",
+    "isWorthy": false,
+    "episode": 73,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "John McAfee",
+    "isWorthy": false,
+    "episode": 74,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Princesa Caraboo",
+    "isWorthy": false,
+    "episode": 75,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Nikola Tesla",
+    "isWorthy": false,
+    "episode": 76,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Alexandre el Gran",
+    "isWorthy": false,
+    "episode": 77,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "John R. Brinkley",
+    "isWorthy": false,
+    "episode": 78,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Yukio Mishima",
+    "isWorthy": false,
+    "episode": 79,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Keith Moon",
+    "isWorthy": false,
+    "episode": 80,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Agafia Lykova",
+    "isWorthy": false,
+    "episode": 81,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Xavier Cugat",
+    "isWorthy": false,
+    "episode": 82,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ivan el Terrible",
+    "isWorthy": false,
+    "episode": 83,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Sir Robert Charlton",
+    "isWorthy": false,
+    "episode": 84,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Victor Hugo",
+    "isWorthy": false,
+    "episode": 85,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Alícia Esteve Head / Tania Head",
+    "isWorthy": false,
+    "episode": 86,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Franz Reichelt",
+    "isWorthy": false,
+    "episode": 87,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Patrick Roy Bates",
+    "isWorthy": false,
+    "episode": 88,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lewis Carroll",
+    "isWorthy": false,
+    "episode": 89,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ós Wojtek",
+    "isWorthy": false,
+    "episode": 90,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mileva Marić",
+    "isWorthy": false,
+    "episode": 91,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Pancho Villa",
+    "isWorthy": false,
+    "episode": 92,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lena Baker",
+    "isWorthy": false,
+    "episode": 93,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Aleister Crowley",
+    "isWorthy": false,
+    "episode": 94,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Oskar Schindler",
+    "isWorthy": false,
+    "episode": 95,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Michael Jackson",
+    "isWorthy": false,
+    "episode": 96,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Nicholas Senn",
+    "isWorthy": false,
+    "episode": 97,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Guillermo Marconi",
+    "isWorthy": true,
+    "episode": 98,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "José Manuel Urtain",
+    "isWorthy": false,
+    "episode": 99,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Giacomo Casanova",
+    "isWorthy": false,
+    "episode": 100,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Maria Teresinha Gomes",
+    "isWorthy": false,
+    "episode": 101,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Ernest Hemingway",
+    "isWorthy": false,
+    "episode": 102,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Leah Feldman",
+    "isWorthy": false,
+    "episode": 103,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Billie Holiday",
+    "isWorthy": false,
+    "episode": 104,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Klaus Kinski",
+    "isWorthy": false,
+    "episode": 105,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joseph Merrick",
+    "isWorthy": false,
+    "episode": 106,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Phil Spector",
+    "isWorthy": false,
+    "episode": 107,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Carlos de Viana",
+    "isWorthy": false,
+    "episode": 108,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joe Exotic",
+    "isWorthy": false,
+    "episode": 109,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Erzebet Bathory",
+    "isWorthy": false,
+    "episode": 110,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Josephine Corbin",
+    "isWorthy": false,
+    "episode": 111,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Fritz Honka",
+    "isWorthy": false,
+    "episode": 112,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Tomás de Torquemada",
+    "isWorthy": false,
+    "episode": 113,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Allen Clayton West",
+    "isWorthy": false,
+    "episode": 114,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mary Ann Cotton",
+    "isWorthy": false,
+    "episode": 115,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Noor Inayat Khan",
+    "isWorthy": false,
+    "episode": 116,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Karl-Adolf Schlitt",
+    "isWorthy": false,
+    "episode": 117,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Marlon Brando",
+    "isWorthy": false,
+    "episode": 118,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Antonin Artaud",
+    "isWorthy": false,
+    "episode": 119,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Barba Roja",
+    "isWorthy": false,
+    "episode": 120,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Charles Manson",
+    "isWorthy": false,
+    "episode": 121,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Charley Parkhurst",
+    "isWorthy": false,
+    "episode": 122,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Miguel Hernández",
+    "isWorthy": false,
+    "episode": 123,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Oscar Pistorius",
+    "isWorthy": false,
+    "episode": 124,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Agustín Luengo",
+    "isWorthy": false,
+    "episode": 125,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Hugh Glass",
+    "isWorthy": false,
+    "episode": 126,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Oskar Speck",
+    "isWorthy": false,
+    "episode": 127,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Vaslav Nijinsky",
+    "isWorthy": false,
+    "episode": 128,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Els germans McDonald",
+    "isWorthy": false,
+    "episode": 129,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Caritat Mercader",
+    "isWorthy": false,
+    "episode": 130,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Sojourner Truth",
+    "isWorthy": false,
+    "episode": 131,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lemmy Kilmister",
+    "isWorthy": false,
+    "episode": 132,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Alfons XIII",
+    "isWorthy": false,
+    "episode": 133,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mary Mallon",
+    "isWorthy": false,
+    "episode": 134,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Truman Capote",
+    "isWorthy": false,
+    "episode": 135,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Charles Bukowski",
+    "isWorthy": false,
+    "episode": 136,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Charlotte Brontë",
+    "isWorthy": false,
+    "episode": 137,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Tiger Woods",
+    "isWorthy": false,
+    "episode": 138,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Karl Marx",
+    "isWorthy": false,
+    "episode": 139,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jordan Belfort",
+    "isWorthy": false,
+    "episode": 140,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Antonio Brown",
+    "isWorthy": false,
+    "episode": 141,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Elisabeth Nietzsche",
+    "isWorthy": false,
+    "episode": 142,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Quico Sabaté",
+    "isWorthy": false,
+    "episode": 143,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Germans Collyer",
+    "isWorthy": false,
+    "episode": 144,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Juliane Koepcke",
+    "isWorthy": false,
+    "episode": 145,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Julia Pastrana",
+    "isWorthy": false,
+    "episode": 146,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Richard Feynman",
+    "isWorthy": false,
+    "episode": 147,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Molière",
+    "isWorthy": false,
+    "episode": 148,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mari Pepa Colomer",
+    "isWorthy": false,
+    "episode": 149,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jimi Hendrix",
+    "isWorthy": false,
+    "episode": 150,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Manuel Vázquez Montalbán",
+    "isWorthy": false,
+    "episode": 151,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Elagàbal",
+    "isWorthy": false,
+    "episode": 152,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Bette Davis",
+    "isWorthy": false,
+    "episode": 153,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Mikhaïl Bakunin",
+    "isWorthy": false,
+    "episode": 154,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Eva Perón",
+    "isWorthy": false,
+    "episode": 155,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Bou assegut",
+    "isWorthy": false,
+    "episode": 156,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Antoni Gaudí",
+    "isWorthy": false,
+    "episode": 157,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Família Bender",
+    "isWorthy": false,
+    "episode": 158,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Éric Cantona",
+    "isWorthy": false,
+    "episode": 159,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Edmund Hillary",
+    "isWorthy": false,
+    "episode": 160,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joan Crawford",
+    "isWorthy": false,
+    "episode": 161,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Anton Txékhov",
+    "isWorthy": false,
+    "episode": 162,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Hugh Hefner",
+    "isWorthy": false,
+    "episode": 163,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Marius Jacob",
+    "isWorthy": false,
+    "episode": 164,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Nina Simone",
+    "isWorthy": false,
+    "episode": 165,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "O. J. Simpson",
+    "isWorthy": false,
+    "episode": 166,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Dmitry Baksheev",
+    "isWorthy": false,
+    "episode": 167,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Lope de Aguirre",
+    "isWorthy": false,
+    "episode": 168,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Al Capone",
+    "isWorthy": false,
+    "episode": 169,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Zelda Fitzgerald",
+    "isWorthy": false,
+    "episode": 170,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Calígula",
+    "isWorthy": false,
+    "episode": 171,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Floquet de Neu",
+    "isWorthy": false,
+    "episode": 172,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "H.H. Holmes",
+    "isWorthy": false,
+    "episode": 173,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Sammy Davis Jr.",
+    "isWorthy": false,
+    "episode": 174,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Genguis Kan",
+    "isWorthy": false,
+    "episode": 175,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Thomas More",
+    "isWorthy": false,
+    "episode": 176,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Maria Callas",
+    "isWorthy": false,
+    "episode": 177,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Donald Crowhurst",
+    "isWorthy": false,
+    "episode": 178,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Baldomera Larra",
+    "isWorthy": false,
+    "episode": 179,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Alfred Jarry",
+    "isWorthy": false,
+    "episode": 180,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Luz Long",
+    "isWorthy": false,
+    "episode": 181,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "William Wallace",
+    "isWorthy": false,
+    "episode": 182,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Chris Kyle",
+    "isWorthy": false,
+    "episode": 183,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Joan Primer d’Anglaterra",
+    "isWorthy": false,
+    "episode": 184,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Jesus de Natzaret",
+    "isWorthy": false,
+    "episode": 185,
+    "season": 1,
+    "image": "/1626437136757.webp"
+  },
+  {
+    "name": "Frederick Barrett",
+    "isWorthy": false,
+    "episode": 1,
+    "season": 2,
+    "image": "/1630513558051.webp"
+  },
+  {
+    "name": "David Hahn",
+    "isWorthy": false,
+    "episode": 2,
+    "season": 2,
+    "image": "/1630513625400.webp"
+  },
+  {
+    "name": "Shi Jian Qiao",
+    "isWorthy": false,
+    "episode": 3,
+    "season": 2,
+    "image": "/1630513651828.webp"
+  },
+  {
+    "name": "Carlos Gardel",
+    "isWorthy": false,
+    "episode": 4,
+    "season": 2,
+    "image": "/1630574138568.webp"
+  },
+  {
+    "name": "Walter Summerford",
+    "isWorthy": false,
+    "episode": 5,
+    "season": 2,
+    "image": "/1630935938266.webp"
+  },
+  {
+    "name": "Garbo",
+    "isWorthy": false,
+    "episode": 6,
+    "season": 2,
+    "image": "/1631008861486.webp"
+  },
+  {
+    "name": "Isabel II d’Espanya",
+    "isWorthy": false,
+    "episode": 7,
+    "season": 2,
+    "image": "/1631097952439.webp"
+  },
+  {
+    "name": "Patty Hearst",
+    "isWorthy": false,
+    "episode": 8,
+    "season": 2,
+    "image": "/1631181634008.webp"
+  },
+  {
+    "name": "Varg Vikernes",
+    "isWorthy": false,
+    "episode": 9,
+    "season": 2,
+    "image": "/1631559323177.webp"
+  },
+  {
+    "name": "Pol Pot",
+    "isWorthy": false,
+    "episode": 10,
+    "season": 2,
+    "image": "/1631614542657.webp"
+  },
+  {
+    "name": "Bonnie and Clyde",
+    "isWorthy": false,
+    "episode": 11,
+    "season": 2,
+    "image": "/1631697360033.webp"
+  },
+  {
+    "name": "Heinz Stücke",
+    "isWorthy": false,
+    "episode": 12,
+    "season": 2,
+    "image": "/1631790653558.webp"
+  },
+  {
+    "name": "Charles Goodyear",
+    "isWorthy": false,
+    "episode": 13,
+    "season": 2,
+    "image": "/1632134761569.webp"
+  },
+  {
+    "name": "Rosa Luxemburg",
+    "isWorthy": false,
+    "episode": 14,
+    "season": 2,
+    "image": "/1632219927331.webp"
+  },
+  {
+    "name": "Ivan Milat",
+    "isWorthy": false,
+    "episode": 15,
+    "season": 2,
+    "image": "/1632308140008.webp"
+  },
+  {
+    "name": "Anna Nicole Smith",
+    "isWorthy": false,
+    "episode": 16,
+    "season": 2,
+    "image": "/1632313524259.webp"
+  },
+  {
+    "name": "Francis Galton",
+    "isWorthy": false,
+    "episode": 17,
+    "season": 2,
+    "image": "/1632745523623.webp"
+  },
+  {
+    "name": "Primo Carnera",
+    "isWorthy": false,
+    "episode": 18,
+    "season": 2,
+    "image": "/1632822062735.webp"
+  },
+  {
+    "name": "Buffalo Bill",
+    "isWorthy": false,
+    "episode": 19,
+    "season": 2,
+    "image": "/1632922807950.webp"
+  },
+  {
+    "name": "Ramón Franco",
+    "isWorthy": false,
+    "episode": 20,
+    "season": 2,
+    "image": "/1632918956276.webp"
+  },
+  {
+    "name": "Jiang Qing",
+    "isWorthy": false,
+    "episode": 21,
+    "season": 2,
+    "image": "/1633355442492.webp"
+  },
+  {
+    "name": "Henri Désiré Landru",
+    "isWorthy": false,
+    "episode": 22,
+    "season": 2,
+    "image": "/1633427753850.webp"
+  },
+  {
+    "name": "Papa Joan XII",
+    "isWorthy": false,
+    "episode": 23,
+    "season": 2,
+    "image": "/1633518637480.webp"
+  },
+  {
+    "name": "Phoolan Devi",
+    "isWorthy": false,
+    "episode": 24,
+    "season": 2,
+    "image": "/1633606247339.webp"
+  },
+  {
+    "name": "Syd Barrett",
+    "isWorthy": false,
+    "episode": 25,
+    "season": 2,
+    "image": "/1633951236029.webp"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "isWorthy": false,
+    "episode": 26,
+    "season": 2,
+    "image": "/1633951542530.webp"
+  },
+  {
+    "name": "Tom Thumb",
+    "isWorthy": false,
+    "episode": 27,
+    "season": 2,
+    "image": "/1634119860418.webp"
+  },
+  {
+    "name": "Girolamo Cardano",
+    "isWorthy": false,
+    "episode": 28,
+    "season": 2,
+    "image": "/1634208059373.webp"
+  },
+  {
+    "name": "Yoshie Shiratori",
+    "isWorthy": false,
+    "episode": 29,
+    "season": 2,
+    "image": "/1634580617924.webp"
+  },
+  {
+    "name": "Chet Baker",
+    "isWorthy": false,
+    "episode": 30,
+    "season": 2,
+    "image": "/1634639872404.webp"
+  },
+  {
+    "name": "James Wide",
+    "isWorthy": false,
+    "episode": 31,
+    "season": 2,
+    "image": "/1634728846753.webp"
+  },
+  {
+    "name": "Mildred Lisette Norman",
+    "isWorthy": false,
+    "episode": 32,
+    "season": 2,
+    "image": "/1634813420186.webp"
+  },
+  {
+    "name": "Tarrare",
+    "isWorthy": false,
+    "episode": 33,
+    "season": 2,
+    "image": "/1635168340764.webp"
+  },
+  {
+    "name": "Dorothea Puente",
+    "isWorthy": false,
+    "episode": 34,
+    "season": 2,
+    "image": "/1635240700077.webp"
+  },
+  {
+    "name": "Àtila, rei dels huns",
+    "isWorthy": false,
+    "episode": 35,
+    "season": 2,
+    "image": "/1635331260979.webp"
+  },
+  {
+    "name": "Trucanini",
+    "isWorthy": false,
+    "episode": 36,
+    "season": 2,
+    "image": "/1635413430442.webp"
+  },
+  {
+    "name": "Cleòpatra",
+    "isWorthy": false,
+    "episode": 37,
+    "season": 2,
+    "image": "/1635770441458.webp"
+  },
+  {
+    "name": "Mata Hari",
+    "isWorthy": false,
+    "episode": 38,
+    "season": 2,
+    "image": "/1635858917728.webp"
+  },
+  {
+    "name": "Troy Davis",
+    "isWorthy": false,
+    "episode": 39,
+    "season": 2,
+    "image": "/1635936925816.webp"
+  },
+  {
+    "name": "André el Gegant",
+    "isWorthy": false,
+    "episode": 40,
+    "season": 2,
+    "image": "/1636020614361.webp"
+  },
+  {
+    "name": "Bobby Fischer",
+    "isWorthy": false,
+    "episode": 41,
+    "season": 2,
+    "image": "/1636377910926.webp"
+  },
+  {
+    "name": "Joana de Belleville",
+    "isWorthy": false,
+    "episode": 42,
+    "season": 2,
+    "image": "/1636452937958.webp"
+  },
+  {
+    "name": "Richard Ramirez",
+    "isWorthy": false,
+    "episode": 43,
+    "season": 2,
+    "image": "/1636544419300.webp"
+  },
+  {
+    "name": "Carlo Gesualdo",
+    "isWorthy": false,
+    "episode": 44,
+    "season": 2,
+    "image": "/1636981522370.webp"
+  },
+  {
+    "name": "George Armstrong Custer",
+    "isWorthy": false,
+    "episode": 45,
+    "season": 2,
+    "image": "/1637061644787.webp"
+  },
+  {
+    "name": "Roonie Brunswijk",
+    "isWorthy": false,
+    "episode": 46,
+    "season": 2,
+    "image": "/1637148350147.webp"
+  },
+  {
+    "name": "Shavarsh Karapetyan",
+    "isWorthy": false,
+    "episode": 47,
+    "season": 2,
+    "image": "/1637161818374.webp"
+  },
+  {
+    "name": "Federico García Lorca",
+    "isWorthy": false,
+    "episode": 48,
+    "season": 2,
+    "image": "/1636543874829.webp"
+  },
+  {
+    "name": "Fatty Arbuckle",
+    "isWorthy": false,
+    "episode": 49,
+    "season": 2,
+    "image": "/1637595650825.webp"
+  },
+  {
+    "name": "William Shakespeare",
+    "isWorthy": false,
+    "episode": 50,
+    "season": 2,
+    "image": "/1637595957206.webp"
+  },
+  {
+    "name": "Nicolae Minovici",
+    "isWorthy": false,
+    "episode": 51,
+    "season": 2,
+    "image": "/1637752239814.webp"
+  },
+  {
+    "name": "Germanes Mirabal",
+    "isWorthy": false,
+    "episode": 52,
+    "season": 2,
+    "image": "/1637836822234.webp"
+  },
+  {
+    "name": "Zhang Zongchang",
+    "isWorthy": false,
+    "episode": 53,
+    "season": 2,
+    "image": "/1638189057623.webp"
+  },
+  {
+    "name": "Sid Vicious",
+    "isWorthy": false,
+    "episode": 54,
+    "season": 2,
+    "image": "/1638268527678.webp"
+  },
+  {
+    "name": "Annie Jones",
+    "isWorthy": false,
+    "episode": 55,
+    "season": 2,
+    "image": "/1638355552837.webp"
+  },
+  {
+    "name": "Karl Tanzler",
+    "isWorthy": false,
+    "episode": 56,
+    "season": 2,
+    "image": "/1638374126812.webp"
+  },
+  {
+    "name": "Cayetano Santos Godino",
+    "isWorthy": false,
+    "episode": 57,
+    "season": 2,
+    "image": "/1638796566955.webp"
+  },
+  {
+    "name": "Barbanegra",
+    "isWorthy": false,
+    "episode": 58,
+    "season": 2,
+    "image": "/1638796860484.webp"
+  },
+  {
+    "name": "Liudmila Pavlitxenko",
+    "isWorthy": false,
+    "episode": 59,
+    "season": 2,
+    "image": "/1638896485389.webp"
+  },
+  {
+    "name": "Kary Mullis",
+    "isWorthy": false,
+    "episode": 60,
+    "season": 2,
+    "image": "/1639048838601.webp"
+  },
+  {
+    "name": "Pablo Escobar",
+    "isWorthy": false,
+    "episode": 61,
+    "season": 2,
+    "image": "/1639406414582.webp"
+  },
+  {
+    "name": "Lindy Chamberlain",
+    "isWorthy": false,
+    "episode": 62,
+    "season": 2,
+    "image": "/1639406741001.webp"
+  },
+  {
+    "name": "Sam l’Insubmergible",
+    "isWorthy": false,
+    "episode": 63,
+    "season": 2,
+    "image": "/1639653008082.webp"
+  },
+  {
+    "name": "Walt Disney",
+    "isWorthy": false,
+    "episode": 64,
+    "season": 2,
+    "image": "/1639565710610.webp"
+  },
+  {
+    "name": "Caterina de Mèdici",
+    "isWorthy": false,
+    "episode": 65,
+    "season": 2,
+    "image": "/1640015123951.webp"
+  },
+  {
+    "name": "Anne Bonny",
+    "isWorthy": false,
+    "episode": 66,
+    "season": 2,
+    "image": "/1640179259273.webp"
+  },
+  {
+    "name": "Vissarion",
+    "isWorthy": false,
+    "episode": 67,
+    "season": 2,
+    "image": "/1640179259736.webp"
+  },
+  {
+    "name": "Hajime Fuji",
+    "isWorthy": false,
+    "episode": 68,
+    "season": 2,
+    "image": "/1640021455248.webp"
+  },
+  {
+    "name": "Mary Read",
+    "isWorthy": false,
+    "episode": 69,
+    "season": 2,
+    "image": "/1640616042881.webp"
+  },
+  {
+    "name": "Maria I d\"Escòcia",
+    "isWorthy": false,
+    "episode": 70,
+    "season": 2,
+    "image": "/1640693743383.webp"
+  },
+  {
+    "name": "John Corcoran",
+    "isWorthy": false,
+    "episode": 71,
+    "season": 2,
+    "image": "/1640773829809.webp"
+  },
+  {
+    "name": "Joan Gamper",
+    "isWorthy": false,
+    "episode": 72,
+    "season": 2,
+    "image": "/1640860813979.webp"
+  },
+  {
+    "name": "Alfred Dreyfus",
+    "isWorthy": false,
+    "episode": 73,
+    "season": 2,
+    "image": "/1641226848864.webp"
+  },
+  {
+    "name": "Paul Schäfer",
+    "isWorthy": false,
+    "episode": 74,
+    "season": 2,
+    "image": "/1641228360987.webp"
+  },
+  {
+    "name": "Puyi",
+    "isWorthy": false,
+    "episode": 75,
+    "season": 2,
+    "image": "/1641300013654.webp"
+  },
+  {
+    "name": "Harland Sanders",
+    "isWorthy": false,
+    "episode": 76,
+    "season": 2,
+    "image": "/1641299709313.webp"
+  },
+  {
+    "name": "Frank Lentini",
+    "isWorthy": false,
+    "episode": 77,
+    "season": 2,
+    "image": "/1641830715207.webp"
+  },
+  {
+    "name": "Dorothy Lawrence",
+    "isWorthy": false,
+    "episode": 78,
+    "season": 2,
+    "image": "/1641899107176.webp"
+  },
+  {
+    "name": "Greta Garbo",
+    "isWorthy": false,
+    "episode": 79,
+    "season": 2,
+    "image": "/1641981362769.webp"
+  },
+  {
+    "name": "Roger de Flor",
+    "isWorthy": false,
+    "episode": 80,
+    "season": 2,
+    "image": "/1642071364545.webp"
+  },
+  {
+    "name": "Isaac Newton",
+    "isWorthy": false,
+    "episode": 81,
+    "season": 2,
+    "image": "/1642419350194.webp"
+  },
+  {
+    "name": "Calamity Jane",
+    "isWorthy": false,
+    "episode": 82,
+    "season": 2,
+    "image": "/1642434606994.webp"
+  },
+  {
+    "name": "Pedro González de Velasco",
+    "isWorthy": false,
+    "episode": 83,
+    "season": 2,
+    "image": "/1642597849451.webp"
+  },
+  {
+    "name": "Germans Bogdanoff",
+    "isWorthy": false,
+    "episode": 84,
+    "season": 2,
+    "image": "/1642597553245.webp"
+  },
+  {
+    "name": "Joan de Serrallonga",
+    "isWorthy": false,
+    "episode": 85,
+    "season": 2,
+    "image": "/1643037935580.webp"
+  },
+  {
+    "name": "Mehran Karimi Nasseri",
+    "isWorthy": false,
+    "episode": 86,
+    "season": 2,
+    "image": "/1643108748016.webp"
+  },
+  {
+    "name": "Emmeline Pankhurst",
+    "isWorthy": false,
+    "episode": 87,
+    "season": 2,
+    "image": "/1643196629335.webp"
+  },
+  {
+    "name": "Mariya Oktyabrskaya",
+    "isWorthy": false,
+    "episode": 88,
+    "season": 2,
+    "image": "/1643279121848.webp"
+  },
+  {
+    "name": "Mike Miracle",
+    "isWorthy": false,
+    "episode": 89,
+    "season": 2,
+    "image": "/1643649624285.webp"
+  },
+  {
+    "name": "La Pasionaria",
+    "isWorthy": false,
+    "episode": 90,
+    "season": 2,
+    "image": "/1643714114486.webp"
+  },
+  {
+    "name": "Miyamoto Musashi",
+    "isWorthy": false,
+    "episode": 91,
+    "season": 2,
+    "image": "/1643802045024.webp"
+  },
+  {
+    "name": "Johann Trollman",
+    "isWorthy": false,
+    "episode": 92,
+    "season": 2,
+    "image": "/1643886062718.webp"
+  },
+  {
+    "name": "Miki Dora",
+    "isWorthy": false,
+    "episode": 93,
+    "season": 2,
+    "image": "/1644244259577.webp"
+  },
+  {
+    "name": "Osho",
+    "isWorthy": false,
+    "episode": 94,
+    "season": 2,
+    "image": "/1644244546745.webp"
+  },
+  {
+    "name": "Charles Albright",
+    "isWorthy": false,
+    "episode": 95,
+    "season": 2,
+    "image": "/1644245186388.webp"
+  },
+  {
+    "name": "Josep Maria Tarradellas",
+    "isWorthy": false,
+    "episode": 96,
+    "season": 2,
+    "image": "/1644577835694.webp"
+  },
+  {
+    "name": "Ángel Alcázar de Velasco",
+    "isWorthy": false,
+    "episode": 97,
+    "season": 2,
+    "image": "/1644845420131.webp"
+  },
+  {
+    "name": "Dylan Thomas",
+    "isWorthy": false,
+    "episode": 98,
+    "season": 2,
+    "image": "/1644920452279.webp"
+  },
+  {
+    "name": "Luka Magnotta",
+    "isWorthy": false,
+    "episode": 99,
+    "season": 2,
+    "image": "/1645017027241.webp"
+  },
+  {
+    "name": "Idi Amin",
+    "isWorthy": false,
+    "episode": 100,
+    "season": 2,
+    "image": "/1645017027636.webp"
+  },
+  {
+    "name": "Daniel Lambert",
+    "isWorthy": false,
+    "episode": 101,
+    "season": 2,
+    "image": "/1645463132513.webp"
+  },
+  {
+    "name": "Georgia Tann",
+    "isWorthy": false,
+    "episode": 102,
+    "season": 2,
+    "image": "/1645528230771.webp"
+  },
+  {
+    "name": "Dustin Diamond",
+    "isWorthy": false,
+    "episode": 103,
+    "season": 2,
+    "image": "/1645619761190.webp"
+  },
+  {
+    "name": "Napoleó Bonaparte",
+    "isWorthy": false,
+    "episode": 104,
+    "season": 2,
+    "image": "/1645699836193.webp"
+  },
+  {
+    "name": "El Vaquilla",
+    "isWorthy": false,
+    "episode": 105,
+    "season": 2,
+    "image": "/1646086831063.webp"
+  },
+  {
+    "name": "Ricard III d’Anglaterra",
+    "isWorthy": false,
+    "episode": 106,
+    "season": 2,
+    "image": "/1646126723537.webp"
+  },
+  {
+    "name": "Ulrike Meinhof",
+    "isWorthy": false,
+    "episode": 107,
+    "season": 2,
+    "image": "/1646221809159.webp"
+  },
+  {
+    "name": "Wild Bill Hickok",
+    "isWorthy": false,
+    "episode": 108,
+    "season": 2,
+    "image": "/1646305542597.webp"
+  },
+  {
+    "name": "Claude François",
+    "isWorthy": false,
+    "episode": 109,
+    "season": 2,
+    "image": "/1646658930246.webp"
+  },
+  {
+    "name": "Valerie Solanas",
+    "isWorthy": false,
+    "episode": 110,
+    "season": 2,
+    "image": "/1646736353747.webp"
+  },
+  {
+    "name": "Pedro Rodrigues Filho",
+    "isWorthy": false,
+    "episode": 111,
+    "season": 2,
+    "image": "/1646834766174.webp"
+  },
+  {
+    "name": "Ignaz Semmelweis",
+    "isWorthy": false,
+    "episode": 112,
+    "season": 2,
+    "image": "/1646908815210.webp"
+  },
+  {
+    "name": "Isaac William Sprague",
+    "isWorthy": false,
+    "episode": 113,
+    "season": 2,
+    "image": "/1647274817753.webp"
+  },
+  {
+    "name": "Leopold II",
+    "isWorthy": false,
+    "episode": 114,
+    "season": 2,
+    "image": "/1647275116690.webp"
+  },
+  {
+    "name": "Alvin Karpis",
+    "isWorthy": false,
+    "episode": 115,
+    "season": 2,
+    "image": "/1647428177105.webp"
+  },
+  {
+    "name": "Cicciolina",
+    "isWorthy": false,
+    "episode": 116,
+    "season": 2,
+    "image": "/1647516064267.webp"
+  },
+  {
+    "name": "Grady Stiles",
+    "isWorthy": false,
+    "episode": 117,
+    "season": 2,
+    "image": "/1647879921464.webp"
+  },
+  {
+    "name": "Pablo Picasso",
+    "isWorthy": false,
+    "episode": 118,
+    "season": 2,
+    "image": "/1647888651682.webp"
+  },
+  {
+    "name": "Boudica",
+    "isWorthy": false,
+    "episode": 119,
+    "season": 2,
+    "image": "/1648033831927.webp"
+  },
+  {
+    "name": "Mercy Brown",
+    "isWorthy": false,
+    "episode": 120,
+    "season": 2,
+    "image": "/1648119669218.webp"
+  },
+  {
+    "name": "Lewis Howard Latimer",
+    "isWorthy": false,
+    "episode": 121,
+    "season": 2,
+    "image": "/1648467059168.webp"
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "isWorthy": false,
+    "episode": 122,
+    "season": 2,
+    "image": "/1648547748285.webp"
+  },
+  {
+    "name": "Francis Bacon",
+    "isWorthy": false,
+    "episode": 123,
+    "season": 2,
+    "image": "/1648635027488.webp"
+  },
+  {
+    "name": "Frederica Montseny",
+    "isWorthy": false,
+    "episode": 124,
+    "season": 2,
+    "image": "/1705074926451.webp"
+  },
+  {
+    "name": "Hellé Nice",
+    "isWorthy": false,
+    "episode": 125,
+    "season": 2,
+    "image": "/1649071869991.webp"
+  },
+  {
+    "name": "Caterina la Gran",
+    "isWorthy": false,
+    "episode": 126,
+    "season": 2,
+    "image": "/1649153122666.webp"
+  },
+  {
+    "name": "Patrice Lumumba",
+    "isWorthy": false,
+    "episode": 127,
+    "season": 2,
+    "image": "/1649238021349.webp"
+  },
+  {
+    "name": "Dina Sanichar",
+    "isWorthy": false,
+    "episode": 128,
+    "season": 2,
+    "image": "/1649326531145.webp"
+  },
+  {
+    "name": "John Dillinger",
+    "isWorthy": false,
+    "episode": 129,
+    "season": 2,
+    "image": "/1649691955484.webp"
+  },
+  {
+    "name": "Évariste Galois",
+    "isWorthy": false,
+    "episode": 130,
+    "season": 2,
+    "image": "/1650378313497.webp"
+  },
+  {
+    "name": "Tsutomu Yamaguchi",
+    "isWorthy": false,
+    "episode": 131,
+    "season": 2,
+    "image": "/1649757924552.webp"
+  },
+  {
+    "name": "Salvador Dalí",
+    "isWorthy": false,
+    "episode": 132,
+    "season": 2,
+    "image": "/1649863849854.webp"
+  },
+  {
+    "name": "John Bobbit",
+    "isWorthy": false,
+    "episode": 133,
+    "season": 2,
+    "image": "/1649859618431.webp"
+  },
+  {
+    "name": "Nathan Hale",
+    "isWorthy": false,
+    "episode": 134,
+    "season": 2,
+    "image": "/1649962849438.webp"
+  },
+  {
+    "name": "Cher Ami",
+    "isWorthy": false,
+    "episode": 135,
+    "season": 2,
+    "image": "/1650461475980.webp"
+  },
+  {
+    "name": "Fiódor Dostoievski",
+    "isWorthy": false,
+    "episode": 136,
+    "season": 2,
+    "image": "/1650534044854.webp"
+  },
+  {
+    "name": "Dora Ratjen",
+    "isWorthy": false,
+    "episode": 137,
+    "season": 2,
+    "image": "/1650890133721.webp"
+  },
+  {
+    "name": "Kéops",
+    "isWorthy": false,
+    "episode": 138,
+    "season": 2,
+    "image": "/1651075547810.webp"
+  },
+  {
+    "name": "Henry Morgan",
+    "isWorthy": false,
+    "episode": 139,
+    "season": 2,
+    "image": "/1651056935472.webp"
+  },
+  {
+    "name": "Anatoly Moskvin",
+    "isWorthy": false,
+    "episode": 140,
+    "season": 2,
+    "image": "/1651136162452.webp"
+  },
+  {
+    "name": "Anna Bolena",
+    "isWorthy": false,
+    "episode": 141,
+    "season": 2,
+    "image": "/1651498235196.webp"
+  },
+  {
+    "name": "William Johnson, Zip the Pinhead",
+    "isWorthy": false,
+    "episode": 142,
+    "season": 2,
+    "image": "/1651573222723.webp"
+  },
+  {
+    "name": "Mariam Sulakiotis",
+    "isWorthy": false,
+    "episode": 143,
+    "season": 2,
+    "image": "/1651665348858.webp"
+  },
+  {
+    "name": "Marilyn Manson",
+    "isWorthy": false,
+    "episode": 144,
+    "season": 2,
+    "image": "/1651748128695.webp"
+  },
+  {
+    "name": "Stefania Podgorska",
+    "isWorthy": false,
+    "episode": 145,
+    "season": 2,
+    "image": "/1652098851542.webp"
+  },
+  {
+    "name": "Abebe Bikila",
+    "isWorthy": false,
+    "episode": 146,
+    "season": 2,
+    "image": "/1652174758609.webp"
+  },
+  {
+    "name": "Walter Freeman",
+    "isWorthy": false,
+    "episode": 147,
+    "season": 2,
+    "image": "/1652268346248.webp"
+  },
+  {
+    "name": "Giorgio Rosa",
+    "isWorthy": false,
+    "episode": 148,
+    "season": 2,
+    "image": "/1652349950979.webp"
+  },
+  {
+    "name": "Ana Mendieta",
+    "isWorthy": false,
+    "episode": 149,
+    "season": 2,
+    "image": "/1652710242992.webp"
+  },
+  {
+    "name": "Ed Gein",
+    "isWorthy": false,
+    "episode": 150,
+    "season": 2,
+    "image": "/1652780762817.webp"
+  },
+  {
+    "name": "Carlos Henrique Raposo",
+    "isWorthy": false,
+    "episode": 151,
+    "season": 2,
+    "image": "/1652870770843.webp"
+  },
+  {
+    "name": "Marcos Rodríguez Pantoja",
+    "isWorthy": false,
+    "episode": 152,
+    "season": 2,
+    "image": "/1653474641495.webp"
+  },
+  {
+    "name": "Ernest Shackleton",
+    "isWorthy": false,
+    "episode": 153,
+    "season": 2,
+    "image": "/1652951767601.webp"
+  },
+  {
+    "name": "Baby Face Nelson",
+    "isWorthy": false,
+    "episode": 154,
+    "season": 2,
+    "image": "/1653304231412.webp"
+  },
+  {
+    "name": "Emperadriu Sissí",
+    "isWorthy": false,
+    "episode": 155,
+    "season": 2,
+    "image": "/1653385805859.webp"
+  },
+  {
+    "name": "Charles Ingram",
+    "isWorthy": false,
+    "episode": 156,
+    "season": 2,
+    "image": "/1653561331638.webp"
+  },
+  {
+    "name": "Robert Durst",
+    "isWorthy": false,
+    "episode": 157,
+    "season": 2,
+    "image": "/1653928262218.webp"
+  },
+  {
+    "name": "Hildegarda de Bingen",
+    "isWorthy": false,
+    "episode": 158,
+    "season": 2,
+    "image": "/1653991828555.webp"
+  },
+  {
+    "name": "Samuel Gilbert Scott",
+    "isWorthy": false,
+    "episode": 159,
+    "season": 2,
+    "image": "/1654081229473.webp"
+  },
+  {
+    "name": "Papusza",
+    "isWorthy": false,
+    "episode": 160,
+    "season": 2,
+    "image": "/1654164948261.webp"
+  },
+  {
+    "name": "Barbara La Marr",
+    "isWorthy": false,
+    "episode": 161,
+    "season": 2,
+    "image": "/1654263318836.webp"
+  },
+  {
+    "name": "Kenneth Bianchi",
+    "isWorthy": false,
+    "episode": 162,
+    "season": 2,
+    "image": "/1654616117049.webp"
+  },
+  {
+    "name": "Carlos Fitzcarrald",
+    "isWorthy": false,
+    "episode": 163,
+    "season": 2,
+    "image": "/1654679430892.webp"
+  },
+  {
+    "name": "Prince Randian",
+    "isWorthy": false,
+    "episode": 164,
+    "season": 2,
+    "image": "/1654770028601.webp"
+  },
+  {
+    "name": "Lovett Fort-Whiteman",
+    "isWorthy": false,
+    "episode": 165,
+    "season": 2,
+    "image": "/1655132449303.webp"
+  },
+  {
+    "name": "Zogú I d’Albània",
+    "isWorthy": false,
+    "episode": 166,
+    "season": 2,
+    "image": "/1655201107772.webp"
+  },
+  {
+    "name": "La Nacha",
+    "isWorthy": false,
+    "episode": 167,
+    "season": 2,
+    "image": "/1655289959538.webp"
+  },
+  {
+    "name": "Jack Lucas",
+    "isWorthy": false,
+    "episode": 168,
+    "season": 2,
+    "image": "/1655371514983.webp"
+  },
+  {
+    "name": "Bela Lugosi",
+    "isWorthy": false,
+    "episode": 169,
+    "season": 2,
+    "image": "/1655737234786.webp"
+  },
+  {
+    "name": "Mary Bell",
+    "isWorthy": false,
+    "episode": 170,
+    "season": 2,
+    "image": "/1655807732640.webp"
+  },
+  {
+    "name": "Vo Thi Mo",
+    "isWorthy": false,
+    "episode": 171,
+    "season": 2,
+    "image": "/1655900419830.webp"
+  },
+  {
+    "name": "William Seward Burroughs",
+    "isWorthy": false,
+    "episode": 172,
+    "season": 2,
+    "image": "/1655979333185.webp"
+  },
+  {
+    "name": "Lluís I d’Espanya",
+    "isWorthy": false,
+    "episode": 173,
+    "season": 2,
+    "image": "/1656330352578.webp"
+  },
+  {
+    "name": "Pauline Cushman",
+    "isWorthy": false,
+    "episode": 174,
+    "season": 2,
+    "image": "/1656424869975.webp"
+  },
+  {
+    "name": "Francesc de Verntallat",
+    "isWorthy": false,
+    "episode": 175,
+    "season": 2,
+    "image": "/1656424903966.webp"
+  },
+  {
+    "name": "Bela Kiss",
+    "isWorthy": false,
+    "episode": 176,
+    "season": 2,
+    "image": "/1656424903671.webp"
+  },
+  {
+    "name": "Roy Benavidez",
+    "isWorthy": false,
+    "episode": 177,
+    "season": 2,
+    "image": "/1656936047351.webp"
+  },
+  {
+    "name": "Lola Montez",
+    "isWorthy": false,
+    "episode": 178,
+    "season": 2,
+    "image": "/1657014913329.webp"
+  },
+  {
+    "name": "Josep Mir Rocafort",
+    "isWorthy": false,
+    "episode": 179,
+    "season": 2,
+    "image": "/1657102223881.webp"
+  },
+  {
+    "name": "Chang i Eng Búnquer",
+    "isWorthy": false,
+    "episode": 180,
+    "season": 2,
+    "image": "/1657188947682.webp"
+  },
+  {
+    "name": "Denholm Elliott",
+    "isWorthy": false,
+    "episode": 181,
+    "season": 2,
+    "image": "/1657539938998.webp"
+  },
+  {
+    "name": "Gilles de Rais",
+    "isWorthy": false,
+    "episode": 182,
+    "season": 2,
+    "image": "/1657617940081.webp"
+  },
+  {
+    "name": "György Silberstein",
+    "isWorthy": false,
+    "episode": 183,
+    "season": 2,
+    "image": "/1657722955976.webp"
+  },
+  {
+    "name": "Phineas Taylor Barnum",
+    "isWorthy": false,
+    "episode": 184,
+    "season": 2,
+    "image": "/1657795537196.webp"
+  },
+  {
+    "name": "Henry Clay Frick",
+    "isWorthy": false,
+    "episode": 1,
+    "season": 3,
+    "image": "/1661778631197.webp"
+  },
+  {
+    "name": "Hosono Masabumi",
+    "isWorthy": false,
+    "episode": 2,
+    "season": 3,
+    "image": "/1661857854508.webp"
+  },
+  {
+    "name": "Beulah May Annan",
+    "isWorthy": false,
+    "episode": 3,
+    "season": 3,
+    "image": "/1661944545402.webp"
+  },
+  {
+    "name": "Virginia Woolf",
+    "isWorthy": false,
+    "episode": 4,
+    "season": 3,
+    "image": "/1662030308570.webp"
+  },
+  {
+    "name": "Melanie Martinez",
+    "isWorthy": false,
+    "episode": 5,
+    "season": 3,
+    "image": "/1662380417403.webp"
+  },
+  {
+    "name": "Benito Panchamé i Busquets",
+    "isWorthy": false,
+    "episode": 6,
+    "season": 3,
+    "image": "/1662462032064.webp"
+  },
+  {
+    "name": "Ngola Mbandi Zibga",
+    "isWorthy": false,
+    "episode": 7,
+    "season": 3,
+    "image": "/1662547830633.webp"
+  },
+  {
+    "name": "GG Allin",
+    "isWorthy": false,
+    "episode": 8,
+    "season": 3,
+    "image": "/1662633342877.webp"
+  },
+  {
+    "name": "Martin Guerre",
+    "isWorthy": false,
+    "episode": 9,
+    "season": 3,
+    "image": "/1662994534786.webp"
+  },
+  {
+    "name": "Sófia Kovalévskaia",
+    "isWorthy": false,
+    "episode": 10,
+    "season": 3,
+    "image": "/1663065352191.webp"
+  },
+  {
+    "name": "Amelia Earhart",
+    "isWorthy": false,
+    "episode": 11,
+    "season": 3,
+    "image": "/1663161627215.webp"
+  },
+  {
+    "name": "Roman Polanski",
+    "isWorthy": false,
+    "episode": 12,
+    "season": 3,
+    "image": "/1663242616160.webp"
+  },
+  {
+    "name": "Espàrtac",
+    "isWorthy": false,
+    "episode": 13,
+    "season": 3,
+    "image": "/1663587607636.webp"
+  },
+  {
+    "name": "John Wayne Gacy",
+    "isWorthy": false,
+    "episode": 14,
+    "season": 3,
+    "image": "/1663669547381.webp"
+  },
+  {
+    "name": "Bernadette Soubirous",
+    "isWorthy": false,
+    "episode": 15,
+    "season": 3,
+    "image": "/1663763129150.webp"
+  },
+  {
+    "name": "Ada Blackjack",
+    "isWorthy": false,
+    "episode": 16,
+    "season": 3,
+    "image": "/1663843256036.webp"
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "isWorthy": false,
+    "episode": 17,
+    "season": 3,
+    "image": "/1664194815697.webp"
+  },
+  {
+    "name": "Ching Shih",
+    "isWorthy": false,
+    "episode": 18,
+    "season": 3,
+    "image": "/1664275852237.webp"
+  },
+  {
+    "name": "Porfirio Rubirosa",
+    "isWorthy": false,
+    "episode": 19,
+    "season": 3,
+    "image": "/1664360173780.webp"
+  },
+  {
+    "name": "Eva Braun",
+    "isWorthy": false,
+    "episode": 20,
+    "season": 3,
+    "image": "/1664449264412.webp"
+  },
+  {
+    "name": "Judy Garland",
+    "isWorthy": false,
+    "episode": 21,
+    "season": 3,
+    "image": "/1664804462465.webp"
+  },
+  {
+    "name": "Maurice Tillet",
+    "isWorthy": false,
+    "episode": 22,
+    "season": 3,
+    "image": "/1664877020683.webp"
+  },
+  {
+    "name": "Yayoi Kusama",
+    "isWorthy": false,
+    "episode": 23,
+    "season": 3,
+    "image": "/1664966436120.webp"
+  },
+  {
+    "name": "Gavrilo Princip",
+    "isWorthy": false,
+    "episode": 24,
+    "season": 3,
+    "image": "/1665053119677.webp"
+  },
+  {
+    "name": "Ramon Llull",
+    "isWorthy": false,
+    "episode": 25,
+    "season": 3,
+    "image": "/1665404406072.webp"
+  },
+  {
+    "name": "Madalyn Murray O’Hair",
+    "isWorthy": false,
+    "episode": 26,
+    "season": 3,
+    "image": "/1665484820805.webp"
+  },
+  {
+    "name": "Anna Sorokin",
+    "isWorthy": false,
+    "episode": 27,
+    "season": 3,
+    "image": "/1665491488037.webp"
+  },
+  {
+    "name": "Dolours Price",
+    "isWorthy": false,
+    "episode": 28,
+    "season": 3,
+    "image": "/1665654626227.webp"
+  },
+  {
+    "name": "Niccolò Paganini",
+    "isWorthy": false,
+    "episode": 29,
+    "season": 3,
+    "image": "/1666005941308.webp"
+  },
+  {
+    "name": "Ramón Oliva Márquez (Monchito)",
+    "isWorthy": false,
+    "episode": 30,
+    "season": 3,
+    "image": "/1666093542676.webp"
+  },
+  {
+    "name": "Blanche Monnier",
+    "isWorthy": false,
+    "episode": 31,
+    "season": 3,
+    "image": "/1666093846241.webp"
+  },
+  {
+    "name": "Johnny Cash",
+    "isWorthy": false,
+    "episode": 32,
+    "season": 3,
+    "image": "/1666259121920.webp"
+  },
+  {
+    "name": "Robert Liston",
+    "isWorthy": false,
+    "episode": 33,
+    "season": 3,
+    "image": "/1666618533320.webp"
+  },
+  {
+    "name": "Mariozza",
+    "isWorthy": false,
+    "episode": 34,
+    "season": 3,
+    "image": "/1666693872362.webp"
+  },
+  {
+    "name": "Tupac Shakur",
+    "isWorthy": false,
+    "episode": 35,
+    "season": 3,
+    "image": "/1666780539744.webp"
+  },
+  {
+    "name": "Egil Skallagrímsson",
+    "isWorthy": false,
+    "episode": 36,
+    "season": 3,
+    "image": "/1666862423822.webp"
+  },
+  {
+    "name": "Joseph Pilates",
+    "isWorthy": false,
+    "episode": 37,
+    "season": 3,
+    "image": "/1667227820975.webp"
+  },
+  {
+    "name": "Sarah Good",
+    "isWorthy": false,
+    "episode": 38,
+    "season": 3,
+    "image": "/1667227820489.webp"
+  },
+  {
+    "name": "Ota Benga 3x39)",
+    "isWorthy": false,
+    "episode": 39,
+    "season": 3,
+    "image": "/1667392529555.webp"
+  },
+  {
+    "name": "Dieguito el Malo",
+    "isWorthy": false,
+    "episode": 40,
+    "season": 3,
+    "image": "/1667404836183.webp"
+  },
+  {
+    "name": "El Chapo Guzmán",
+    "isWorthy": false,
+    "episode": 41,
+    "season": 3,
+    "image": "/1667837724691.webp"
+  },
+  {
+    "name": "Ken Smith",
+    "isWorthy": false,
+    "episode": 42,
+    "season": 3,
+    "image": "/1667912524391.webp"
+  },
+  {
+    "name": "Solomon Perel",
+    "isWorthy": false,
+    "episode": 43,
+    "season": 3,
+    "image": "/1667992863281.webp"
+  },
+  {
+    "name": "La Papessa Joana",
+    "isWorthy": false,
+    "episode": 44,
+    "season": 3,
+    "image": "/1668077158635.webp"
+  },
+  {
+    "name": "The Notorious B.I.G",
+    "isWorthy": false,
+    "episode": 45,
+    "season": 3,
+    "image": "/1668432052815.webp"
+  },
+  {
+    "name": "Katherine Knight",
+    "isWorthy": false,
+    "episode": 46,
+    "season": 3,
+    "image": "/1668508839820.webp"
+  },
+  {
+    "name": "Peter Freuchen",
+    "isWorthy": false,
+    "episode": 47,
+    "season": 3,
+    "image": "/1668598266529.webp"
+  },
+  {
+    "name": "Jim Morrison",
+    "isWorthy": false,
+    "episode": 48,
+    "season": 3,
+    "image": "/1668700240132.webp"
+  },
+  {
+    "name": "Ramon Casas",
+    "isWorthy": false,
+    "episode": 49,
+    "season": 3,
+    "image": "/1669034158777.webp"
+  },
+  {
+    "name": "Hector Hugh Munro",
+    "isWorthy": false,
+    "episode": 50,
+    "season": 3,
+    "image": "/1669116919450.webp"
+  },
+  {
+    "name": "Nakahama Manjirō",
+    "isWorthy": false,
+    "episode": 51,
+    "season": 3,
+    "image": "/1669202451123.webp"
+  },
+  {
+    "name": "Aleksandra Kol·lontai",
+    "isWorthy": false,
+    "episode": 52,
+    "season": 3,
+    "image": "/1669283735503.webp"
+  },
+  {
+    "name": "Ronald Edwin Hunkele",
+    "isWorthy": false,
+    "episode": 53,
+    "season": 3,
+    "image": "/1669639806324.webp"
+  },
+  {
+    "name": "Kudryavka",
+    "isWorthy": false,
+    "episode": 54,
+    "season": 3,
+    "image": "/1669723281541.webp"
+  },
+  {
+    "name": "Nathan Bedford Forrest",
+    "isWorthy": false,
+    "episode": 55,
+    "season": 3,
+    "image": "/1669813841943.webp"
+  },
+  {
+    "name": "La Dolça Neus",
+    "isWorthy": false,
+    "episode": 56,
+    "season": 3,
+    "image": "/1669891840819.webp"
+  },
+  {
+    "name": "Ernest Everett Just",
+    "isWorthy": false,
+    "episode": 57,
+    "season": 3,
+    "image": "/1670241006623.webp"
+  },
+  {
+    "name": "Simón Bolívar",
+    "isWorthy": false,
+    "episode": 58,
+    "season": 3,
+    "image": "/1670244634532.webp"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "isWorthy": false,
+    "episode": 59,
+    "season": 3,
+    "image": "/1670410228268.webp"
+  },
+  {
+    "name": "Perot Rocaguinarda",
+    "isWorthy": false,
+    "episode": 60,
+    "season": 3,
+    "image": "/1670410845821.webp"
+  },
+  {
+    "name": "Jo Girardelli",
+    "isWorthy": false,
+    "episode": 61,
+    "season": 3,
+    "image": "/1670847962970.webp"
+  },
+  {
+    "name": "George Kelly",
+    "isWorthy": false,
+    "episode": 62,
+    "season": 3,
+    "image": "/1670930710763.webp"
+  },
+  {
+    "name": "Santa Olga de Kíiv",
+    "isWorthy": false,
+    "episode": 63,
+    "season": 3,
+    "image": "/1671017727218.webp"
+  },
+  {
+    "name": "Julio López Guixot",
+    "isWorthy": false,
+    "episode": 64,
+    "season": 3,
+    "image": "/1671107143162.webp"
+  },
+  {
+    "name": "Jackie Wilson",
+    "isWorthy": false,
+    "episode": 65,
+    "season": 3,
+    "image": "/1671467112094.webp"
+  },
+  {
+    "name": "Josep Pla",
+    "isWorthy": false,
+    "episode": 66,
+    "season": 3,
+    "image": "/1671467426795.webp"
+  },
+  {
+    "name": "Louis Le Prince",
+    "isWorthy": false,
+    "episode": 67,
+    "season": 3,
+    "image": "/1671467428854.webp"
+  },
+  {
+    "name": "David Koresh",
+    "isWorthy": false,
+    "episode": 68,
+    "season": 3,
+    "image": "/1671722742069.webp"
+  },
+  {
+    "name": "James Hunt",
+    "isWorthy": false,
+    "episode": 69,
+    "season": 3,
+    "image": "/1671728709091.webp"
+  },
+  {
+    "name": "José Epita Mbomo",
+    "isWorthy": false,
+    "episode": 70,
+    "season": 3,
+    "image": "/1671729018344.webp"
+  },
+  {
+    "name": "Tallulah Bankhead",
+    "isWorthy": false,
+    "episode": 71,
+    "season": 3,
+    "image": "/1672221917994.webp"
+  },
+  {
+    "name": "Gregor MacGregor",
+    "isWorthy": false,
+    "episode": 72,
+    "season": 3,
+    "image": "/1672312569945.webp"
+  },
+  {
+    "name": "Juli Cèsar",
+    "isWorthy": false,
+    "episode": 73,
+    "season": 3,
+    "image": "/1672664423532.webp"
+  },
+  {
+    "name": "Barbora Skrolva",
+    "isWorthy": false,
+    "episode": 74,
+    "season": 3,
+    "image": "/1672744833332.webp"
+  },
+  {
+    "name": "William Lamport",
+    "isWorthy": false,
+    "episode": 75,
+    "season": 3,
+    "image": "/1672827636498.webp"
+  },
+  {
+    "name": "Moammar al-Gaddafi",
+    "isWorthy": false,
+    "episode": 76,
+    "season": 3,
+    "image": "/1672837248682.webp"
+  },
+  {
+    "name": "José Luis Pacheco",
+    "isWorthy": false,
+    "episode": 77,
+    "season": 3,
+    "image": "/1673275324924.webp"
+  },
+  {
+    "name": "John DeLorean",
+    "isWorthy": false,
+    "episode": 78,
+    "season": 3,
+    "image": "/1673351165315.webp"
+  },
+  {
+    "name": "Ryan Grantham",
+    "isWorthy": false,
+    "episode": 79,
+    "season": 3,
+    "image": "/1673437227941.webp"
+  },
+  {
+    "name": "Gaietà Ripoll",
+    "isWorthy": false,
+    "episode": 80,
+    "season": 3,
+    "image": "/1673529671984.webp"
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "isWorthy": false,
+    "episode": 81,
+    "season": 3,
+    "image": "/1673881264520.webp"
+  },
+  {
+    "name": "Armin Meiwes",
+    "isWorthy": false,
+    "episode": 82,
+    "season": 3,
+    "image": "/1673952945907.webp"
+  },
+  {
+    "name": "Joana I de Castella",
+    "isWorthy": false,
+    "episode": 83,
+    "season": 3,
+    "image": "/1674047425371.webp"
+  },
+  {
+    "name": "Sylvester Stallone",
+    "isWorthy": false,
+    "episode": 84,
+    "season": 3,
+    "image": "/1674132010843.webp"
+  },
+  {
+    "name": "Clark Olofsson",
+    "isWorthy": false,
+    "episode": 85,
+    "season": 3,
+    "image": "/1674489033248.webp"
+  },
+  {
+    "name": "Mattio Lovat",
+    "isWorthy": false,
+    "episode": 86,
+    "season": 3,
+    "image": "/1674555922722.webp"
+  },
+  {
+    "name": "Peter Sutcliffe",
+    "isWorthy": false,
+    "episode": 87,
+    "season": 3,
+    "image": "/1674647131664.webp"
+  },
+  {
+    "name": "Josip Broz Tito",
+    "isWorthy": false,
+    "episode": 88,
+    "season": 3,
+    "image": "/1674737155291.webp"
+  },
+  {
+    "name": "Pedro González",
+    "isWorthy": false,
+    "episode": 89,
+    "season": 3,
+    "image": "/1675084264194.webp"
+  },
+  {
+    "name": "Demòstenes",
+    "isWorthy": false,
+    "episode": 90,
+    "season": 3,
+    "image": "/1675165819858.webp"
+  },
+  {
+    "name": "Desmond Doss",
+    "isWorthy": false,
+    "episode": 91,
+    "season": 3,
+    "image": "/1675180213783.webp"
+  },
+  {
+    "name": "James Cook",
+    "isWorthy": false,
+    "episode": 92,
+    "season": 3,
+    "image": "/1675181118367.webp"
+  },
+  {
+    "name": "Carlos Cuarteroni Fernández",
+    "isWorthy": false,
+    "episode": 93,
+    "season": 3,
+    "image": "/1675699850021.webp"
+  },
+  {
+    "name": "Amedeo Modigliani",
+    "isWorthy": false,
+    "episode": 94,
+    "season": 3,
+    "image": "/1675768567787.webp"
+  },
+  {
+    "name": "Sir Nicholas Winton",
+    "isWorthy": false,
+    "episode": 95,
+    "season": 3,
+    "image": "/1675853430464.webp"
+  },
+  {
+    "name": "Sarah Rector",
+    "isWorthy": false,
+    "episode": 96,
+    "season": 3,
+    "image": "/1675946435456.webp"
+  },
+  {
+    "name": "Orson Welles",
+    "isWorthy": false,
+    "episode": 97,
+    "season": 3,
+    "image": "/1676296213701.webp"
+  },
+  {
+    "name": "Yasuke",
+    "isWorthy": false,
+    "episode": 98,
+    "season": 3,
+    "image": "/1676381120763.webp"
+  },
+  {
+    "name": "George Fox",
+    "isWorthy": false,
+    "episode": 99,
+    "season": 3,
+    "image": "/1676457660488.webp"
+  },
+  {
+    "name": "Pilar Prades",
+    "isWorthy": false,
+    "episode": 100,
+    "season": 3,
+    "image": "/1676551263211.webp"
+  },
+  {
+    "name": "Bhaktivedanta",
+    "isWorthy": false,
+    "episode": 101,
+    "season": 3,
+    "image": "/1676897158609.webp"
+  },
+  {
+    "name": "Mary Shelley",
+    "isWorthy": false,
+    "episode": 102,
+    "season": 3,
+    "image": "/1676977836628.webp"
+  },
+  {
+    "name": "Frances Farmer",
+    "isWorthy": false,
+    "episode": 103,
+    "season": 3,
+    "image": "/1677073211868.webp"
+  },
+  {
+    "name": "Pier Paolo Pasolini",
+    "isWorthy": false,
+    "episode": 104,
+    "season": 3,
+    "image": "/1677148829915.webp"
+  },
+  {
+    "name": "Eddie Jaku",
+    "isWorthy": false,
+    "episode": 105,
+    "season": 3,
+    "image": "/1677503809993.webp"
+  },
+  {
+    "name": "Diego Ruiz",
+    "isWorthy": false,
+    "episode": 106,
+    "season": 3,
+    "image": "/1677585309015.webp"
+  },
+  {
+    "name": "Ed Kemper",
+    "isWorthy": false,
+    "episode": 107,
+    "season": 3,
+    "image": "/1677672664150.webp"
+  },
+  {
+    "name": "Caterina de Siena",
+    "isWorthy": false,
+    "episode": 108,
+    "season": 3,
+    "image": "/1677760824296.webp"
+  },
+  {
+    "name": "Johannes Vermeer",
+    "isWorthy": false,
+    "episode": 109,
+    "season": 3,
+    "image": "/1678115109599.webp"
+  },
+  {
+    "name": "Gérard Depardieu",
+    "isWorthy": false,
+    "episode": 110,
+    "season": 3,
+    "image": "/1678183839950.webp"
+  },
+  {
+    "name": "Jackie Tonawanda",
+    "isWorthy": false,
+    "episode": 111,
+    "season": 3,
+    "image": "/1678270260497.webp"
+  },
+  {
+    "name": "Rosaleen Norton",
+    "isWorthy": false,
+    "episode": 112,
+    "season": 3,
+    "image": "/1678365062943.webp"
+  },
+  {
+    "name": "Martin Luther King",
+    "isWorthy": false,
+    "episode": 113,
+    "season": 3,
+    "image": "/1678718169702.webp"
+  },
+  {
+    "name": "James Earl Ray",
+    "isWorthy": false,
+    "episode": 114,
+    "season": 3,
+    "image": "/1678795266489.webp"
+  },
+  {
+    "name": "Maria Antonieta",
+    "isWorthy": false,
+    "episode": 115,
+    "season": 3,
+    "image": "/1678880772957.webp"
+  },
+  {
+    "name": "Diògenes",
+    "isWorthy": false,
+    "episode": 116,
+    "season": 3,
+    "image": "/1678965932201.webp"
+  },
+  {
+    "name": "Lord Byron",
+    "isWorthy": false,
+    "episode": 117,
+    "season": 3,
+    "image": "/1679319663275.webp"
+  },
+  {
+    "name": "Lucía Zárate",
+    "isWorthy": false,
+    "episode": 118,
+    "season": 3,
+    "image": "/1679409625445.webp"
+  },
+  {
+    "name": "Moe Berg",
+    "isWorthy": false,
+    "episode": 119,
+    "season": 3,
+    "image": "/1679410238259.webp"
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "isWorthy": false,
+    "episode": 120,
+    "season": 3,
+    "image": "/1679410529396.webp"
+  },
+  {
+    "name": "Evan O’Neill Kane",
+    "isWorthy": false,
+    "episode": 121,
+    "season": 3,
+    "image": "/1679920834179.webp"
+  },
+  {
+    "name": "Coco Chanel",
+    "isWorthy": false,
+    "episode": 122,
+    "season": 3,
+    "image": "/1680008447463.webp"
+  },
+  {
+    "name": "Dennis Rodman",
+    "isWorthy": false,
+    "episode": 123,
+    "season": 3,
+    "image": "/1680086764284.webp"
+  },
+  {
+    "name": "Magdalena Castells Pons",
+    "isWorthy": false,
+    "episode": 124,
+    "season": 3,
+    "image": "/1680186947473.webp"
+  },
+  {
+    "name": "Ada Byron",
+    "isWorthy": false,
+    "episode": 125,
+    "season": 3,
+    "image": "/1680530472822.webp"
+  },
+  {
+    "name": "William Seabrook",
+    "isWorthy": false,
+    "episode": 126,
+    "season": 3,
+    "image": "/1680530475348.webp"
+  },
+  {
+    "name": "Ferdinand Cheval",
+    "isWorthy": false,
+    "episode": 127,
+    "season": 3,
+    "image": "/1680599136223.webp"
+  },
+  {
+    "name": "Marvin Gaye",
+    "isWorthy": false,
+    "episode": 128,
+    "season": 3,
+    "image": "/1680599135989.webp"
+  },
+  {
+    "name": "Paracels",
+    "isWorthy": false,
+    "episode": 129,
+    "season": 3,
+    "image": "/1680780932771.webp"
+  },
+  {
+    "name": "Lance Armstrong",
+    "isWorthy": false,
+    "episode": 130,
+    "season": 3,
+    "image": "/1681215666746.webp"
+  },
+  {
+    "name": "Hachiko",
+    "isWorthy": false,
+    "episode": 131,
+    "season": 3,
+    "image": "/1681215358043.webp"
+  },
+  {
+    "name": "Mirin Dajo",
+    "isWorthy": false,
+    "episode": 132,
+    "season": 3,
+    "image": "/1681213232947.webp"
+  },
+  {
+    "name": "Rob Roy MacGregor",
+    "isWorthy": false,
+    "episode": 133,
+    "season": 3,
+    "image": "/1681740345234.webp"
+  },
+  {
+    "name": "José María Jarabo",
+    "isWorthy": false,
+    "episode": 134,
+    "season": 3,
+    "image": "/1681823734534.webp"
+  },
+  {
+    "name": "Arthur Guinness",
+    "isWorthy": false,
+    "episode": 135,
+    "season": 3,
+    "image": "/1681896970535.webp"
+  },
+  {
+    "name": "William Buckley",
+    "isWorthy": false,
+    "episode": 136,
+    "season": 3,
+    "image": "/1681990837695.webp"
+  },
+  {
+    "name": "Wladyslaw Szpilman",
+    "isWorthy": false,
+    "episode": 137,
+    "season": 3,
+    "image": "/1682346074002.webp"
+  },
+  {
+    "name": "Billy Milligan",
+    "isWorthy": false,
+    "episode": 138,
+    "season": 3,
+    "image": "/1682493956776.webp"
+  },
+  {
+    "name": "Charles Dickens",
+    "isWorthy": false,
+    "episode": 139,
+    "season": 3,
+    "image": "/1682495405714.webp"
+  },
+  {
+    "name": "Helen Keller",
+    "isWorthy": false,
+    "episode": 140,
+    "season": 3,
+    "image": "/1682593281640.webp"
+  },
+  {
+    "name": "Galvarino",
+    "isWorthy": false,
+    "episode": 141,
+    "season": 3,
+    "image": "/1682694637592.webp"
+  },
+  {
+    "name": "Gustavo Adolfo Bécquer",
+    "isWorthy": false,
+    "episode": 142,
+    "season": 3,
+    "image": "/1683033637213.webp"
+  },
+  {
+    "name": "Leonid Rogozov",
+    "isWorthy": false,
+    "episode": 143,
+    "season": 3,
+    "image": "/1683123627475.webp"
+  },
+  {
+    "name": "Steve Jobs",
+    "isWorthy": false,
+    "episode": 144,
+    "season": 3,
+    "image": "/1683202240874.webp"
+  },
+  {
+    "name": "Joseph Mortimer Granville",
+    "isWorthy": false,
+    "episode": 145,
+    "season": 3,
+    "image": "/1683553853095.webp"
+  },
+  {
+    "name": "Nelson Mandela",
+    "isWorthy": false,
+    "episode": 146,
+    "season": 3,
+    "image": "/1683625235590.webp"
+  },
+  {
+    "name": "Anneliese Michel",
+    "isWorthy": false,
+    "episode": 147,
+    "season": 3,
+    "image": "/1683714313014.webp"
+  },
+  {
+    "name": "Frank Cannonball Richards",
+    "isWorthy": false,
+    "episode": 148,
+    "season": 3,
+    "image": "/1683817561664.webp"
+  },
+  {
+    "name": "Kurt Cobain",
+    "isWorthy": false,
+    "episode": 149,
+    "season": 3,
+    "image": "/1684158042983.webp"
+  },
+  {
+    "name": "Charles Cullen",
+    "isWorthy": false,
+    "episode": 150,
+    "season": 3,
+    "image": "/1684230018597.webp"
+  },
+  {
+    "name": "Pichichi",
+    "isWorthy": false,
+    "episode": 151,
+    "season": 3,
+    "image": "/1684319156969.webp"
+  },
+  {
+    "name": "Josep I de Portugal",
+    "isWorthy": false,
+    "episode": 152,
+    "season": 3,
+    "image": "/1684408831629.webp"
+  },
+  {
+    "name": "Tom Cruise",
+    "isWorthy": false,
+    "episode": 153,
+    "season": 3,
+    "image": "/1684767360584.webp"
+  },
+  {
+    "name": "Oda Nobunaga",
+    "isWorthy": false,
+    "episode": 154,
+    "season": 3,
+    "image": "/1684833646482.webp"
+  },
+  {
+    "name": "Herminio de la gallina",
+    "isWorthy": false,
+    "episode": 155,
+    "season": 3,
+    "image": "/1684936523133.webp"
+  },
+  {
+    "name": "Mariam Nabatanzi",
+    "isWorthy": false,
+    "episode": 156,
+    "season": 3,
+    "image": "/1685011864815.webp"
+  },
+  {
+    "name": "Tina Muñoz",
+    "isWorthy": false,
+    "episode": 157,
+    "season": 3,
+    "image": "/1685442686664.webp"
+  },
+  {
+    "name": "Amelia Dyer",
+    "isWorthy": false,
+    "episode": 158,
+    "season": 3,
+    "image": "/1685444319698.webp"
+  },
+  {
+    "name": "Jean-Michel Basquiat",
+    "isWorthy": false,
+    "episode": 159,
+    "season": 3,
+    "image": "/1685444283695.webp"
+  },
+  {
+    "name": "Oswald Spengler",
+    "isWorthy": false,
+    "episode": 160,
+    "season": 3,
+    "image": "/1685444249106.webp"
+  },
+  {
+    "name": "Sally McNeil",
+    "isWorthy": false,
+    "episode": 161,
+    "season": 3,
+    "image": "/1685981837065.webp"
+  },
+  {
+    "name": "Sobhuza II",
+    "isWorthy": false,
+    "episode": 162,
+    "season": 3,
+    "image": "/1686066571594.webp"
+  },
+  {
+    "name": "Eugene O’Neill",
+    "isWorthy": false,
+    "episode": 163,
+    "season": 3,
+    "image": "/1686147621327.webp"
+  },
+  {
+    "name": "Gabriel Malagrida",
+    "isWorthy": false,
+    "episode": 164,
+    "season": 3,
+    "image": "/1686240004569.webp"
+  },
+  {
+    "name": "Ma Barker",
+    "isWorthy": false,
+    "episode": 165,
+    "season": 3,
+    "image": "/1686579387083.webp"
+  },
+  {
+    "name": "Mary Ann Bevan",
+    "isWorthy": false,
+    "episode": 166,
+    "season": 3,
+    "image": "/1686651949492.webp"
+  },
+  {
+    "name": "Salvador Puig Antich",
+    "isWorthy": false,
+    "episode": 167,
+    "season": 3,
+    "image": "/1686746769678.webp"
+  },
+  {
+    "name": "Jeffrey Dahmer",
+    "isWorthy": false,
+    "episode": 168,
+    "season": 3,
+    "image": "/1686817575106.webp"
+  },
+  {
+    "name": "Juan Crisóstomo de Arriaga",
+    "isWorthy": false,
+    "episode": 169,
+    "season": 3,
+    "image": "/1687194358310.webp"
+  },
+  {
+    "name": "Cameron Willingham",
+    "isWorthy": false,
+    "episode": 170,
+    "season": 3,
+    "image": "/1687253477084.webp"
+  },
+  {
+    "name": "Triboulet",
+    "isWorthy": false,
+    "episode": 171,
+    "season": 3,
+    "image": "/1687253757664.webp"
+  },
+  {
+    "name": "Chris McCandless",
+    "isWorthy": false,
+    "episode": 172,
+    "season": 3,
+    "image": "/1687455064439.webp"
+  },
+  {
+    "name": "El Tempranillo",
+    "isWorthy": false,
+    "episode": 173,
+    "season": 3,
+    "image": "/1687787748006.webp"
+  },
+  {
+    "name": "Lev Tolstoi",
+    "isWorthy": false,
+    "episode": 174,
+    "season": 3,
+    "image": "/1687859784040.webp"
+  },
+  {
+    "name": "Yoo Young-Chul",
+    "isWorthy": false,
+    "episode": 175,
+    "season": 3,
+    "image": "/1687943757345.webp"
+  },
+  {
+    "name": "Tragabuches",
+    "isWorthy": false,
+    "episode": 176,
+    "season": 3,
+    "image": "/1688038558203.webp"
+  },
+  {
+    "name": "Per Yngve Ohlin",
+    "isWorthy": false,
+    "episode": 177,
+    "season": 3,
+    "image": "/1688398299344.webp"
+  },
+  {
+    "name": "Jean-François Pilâtre de Rozier",
+    "isWorthy": false,
+    "episode": 178,
+    "season": 3,
+    "image": "/1688468773098.webp"
+  },
+  {
+    "name": "Mary Fields",
+    "isWorthy": false,
+    "episode": 179,
+    "season": 3,
+    "image": "/1688547342510.webp"
+  },
+  {
+    "name": "Antonio López Sierra",
+    "isWorthy": false,
+    "episode": 180,
+    "season": 3,
+    "image": "/1688677279077.webp"
+  },
+  {
+    "name": "Helen Bishop",
+    "isWorthy": false,
+    "episode": 1,
+    "season": 4,
+    "image": "/1693839671610.webp"
+  },
+  {
+    "name": "Pavel Gorgulov",
+    "isWorthy": false,
+    "episode": 2,
+    "season": 4,
+    "image": "/1693926929271.webp"
+  },
+  {
+    "name": "Archibald Armstrong",
+    "isWorthy": false,
+    "episode": 3,
+    "season": 4,
+    "image": "/1694007652231.webp"
+  },
+  {
+    "name": "Gogea Mitu",
+    "isWorthy": false,
+    "episode": 4,
+    "season": 4,
+    "image": "/1694080248986.webp"
+  },
+  {
+    "name": "Lik Simelum",
+    "isWorthy": false,
+    "episode": 5,
+    "season": 4,
+    "image": "/1694184044424.webp"
+  },
+  {
+    "name": "Leni Riefenstahl",
+    "isWorthy": false,
+    "episode": 6,
+    "season": 4,
+    "image": "/1694525717041.webp"
+  },
+  {
+    "name": "Balduí IV de Jerusalem",
+    "isWorthy": false,
+    "episode": 7,
+    "season": 4,
+    "image": "/1694594105122.webp"
+  },
+  {
+    "name": "Manuel Malagrida",
+    "isWorthy": false,
+    "episode": 8,
+    "season": 4,
+    "image": "/1694691048405.webp"
+  },
+  {
+    "name": "Clara Schumann",
+    "isWorthy": false,
+    "episode": 9,
+    "season": 4,
+    "image": "/1695039344986.webp"
+  },
+  {
+    "name": "Thomas Midgley",
+    "isWorthy": false,
+    "episode": 10,
+    "season": 4,
+    "image": "/1695123930395.webp"
+  },
+  {
+    "name": "Tupac Amaru II",
+    "isWorthy": false,
+    "episode": 11,
+    "season": 4,
+    "image": "/1695201936866.webp"
+  },
+  {
+    "name": "David Bowie",
+    "isWorthy": false,
+    "episode": 12,
+    "season": 4,
+    "image": "/1695289235364.webp"
+  },
+  {
+    "name": "Bessie Coleman",
+    "isWorthy": false,
+    "episode": 13,
+    "season": 4,
+    "image": "/1695649819546.webp"
+  },
+  {
+    "name": "Alphonse Laurencic",
+    "isWorthy": false,
+    "episode": 14,
+    "season": 4,
+    "image": "/1695650120475.webp"
+  },
+  {
+    "name": "Shōkō Asahara",
+    "isWorthy": false,
+    "episode": 15,
+    "season": 4,
+    "image": "/1695814565123.webp"
+  },
+  {
+    "name": "Florence Foster Jenkins",
+    "isWorthy": false,
+    "episode": 16,
+    "season": 4,
+    "image": "/1695895516973.webp"
+  },
+  {
+    "name": "Eugene Falleni",
+    "isWorthy": false,
+    "episode": 17,
+    "season": 4,
+    "image": "/1696257336193.webp"
+  },
+  {
+    "name": "YangDi",
+    "isWorthy": false,
+    "episode": 18,
+    "season": 4,
+    "image": "/1696334768049.webp"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "isWorthy": false,
+    "episode": 19,
+    "season": 4,
+    "image": "/1696417243415.webp"
+  },
+  {
+    "name": "Carmen Polo",
+    "isWorthy": false,
+    "episode": 20,
+    "season": 4,
+    "image": "/1696495569710.webp"
+  },
+  {
+    "name": "Maria Rosenthal",
+    "isWorthy": false,
+    "episode": 21,
+    "season": 4,
+    "image": "/1696856401871.webp"
+  },
+  {
+    "name": "William James Sidis",
+    "isWorthy": false,
+    "episode": 22,
+    "season": 4,
+    "image": "/1696939249819.webp"
+  },
+  {
+    "name": "Johan Cruyff",
+    "isWorthy": false,
+    "episode": 23,
+    "season": 4,
+    "image": "/1696939841924.webp"
+  },
+  {
+    "name": "Charlotte Corday",
+    "isWorthy": false,
+    "episode": 24,
+    "season": 4,
+    "image": "/1697024169742.webp"
+  },
+  {
+    "name": "George Bryan Brummell",
+    "isWorthy": false,
+    "episode": 25,
+    "season": 4,
+    "image": "/1697456433846.webp"
+  },
+  {
+    "name": "Peppino Impastato",
+    "isWorthy": false,
+    "episode": 26,
+    "season": 4,
+    "image": "/1697544019556.webp"
+  },
+  {
+    "name": "Gordon Goody",
+    "isWorthy": false,
+    "episode": 27,
+    "season": 4,
+    "image": "/1697619352645.webp"
+  },
+  {
+    "name": "Erwin Rommel",
+    "isWorthy": false,
+    "episode": 28,
+    "season": 4,
+    "image": "/1697704822075.webp"
+  },
+  {
+    "name": "Baba Vanga",
+    "isWorthy": false,
+    "episode": 29,
+    "season": 4,
+    "image": "/1698069933376.webp"
+  },
+  {
+    "name": "Joan Salvat Papasseit",
+    "isWorthy": false,
+    "episode": 30,
+    "season": 4,
+    "image": "/1698137706242.webp"
+  },
+  {
+    "name": "Mansa Musa I",
+    "isWorthy": false,
+    "episode": 31,
+    "season": 4,
+    "image": "/1698224458988.webp"
+  },
+  {
+    "name": "Antonio Vivaldi",
+    "isWorthy": false,
+    "episode": 32,
+    "season": 4,
+    "image": "/1698310504940.webp"
+  },
+  {
+    "name": "Charles Domery",
+    "isWorthy": false,
+    "episode": 33,
+    "season": 4,
+    "image": "/1698683718564.webp"
+  },
+  {
+    "name": "Lucio Urtubia",
+    "isWorthy": false,
+    "episode": 34,
+    "season": 4,
+    "image": "/1698744917433.webp"
+  },
+  {
+    "name": "Derek Bentley",
+    "isWorthy": false,
+    "episode": 35,
+    "season": 4,
+    "image": "/1698745236802.webp"
+  },
+  {
+    "name": "Carrie Nation",
+    "isWorthy": false,
+    "episode": 36,
+    "season": 4,
+    "image": "/1698922832471.webp"
+  },
+  {
+    "name": "Charles Hatfield",
+    "isWorthy": false,
+    "episode": 37,
+    "season": 4,
+    "image": "/1699286705876.webp"
+  },
+  {
+    "name": "Tutankamon",
+    "isWorthy": false,
+    "episode": 38,
+    "season": 4,
+    "image": "/1699351268526.webp"
+  },
+  {
+    "name": "Bruce Lee",
+    "isWorthy": false,
+    "episode": 39,
+    "season": 4,
+    "image": "/1699438260130.webp"
+  },
+  {
+    "name": "Josephine Baker",
+    "isWorthy": false,
+    "episode": 40,
+    "season": 4,
+    "image": "/1699523708382.webp"
+  },
+  {
+    "name": "Daniel Montbars",
+    "isWorthy": false,
+    "episode": 41,
+    "season": 4,
+    "image": "/1699888236074.webp"
+  },
+  {
+    "name": "Giovanni Aldini",
+    "isWorthy": false,
+    "episode": 42,
+    "season": 4,
+    "image": "/1699964170598.webp"
+  },
+  {
+    "name": "Emiliano Zapata",
+    "isWorthy": false,
+    "episode": 43,
+    "season": 4,
+    "image": "/1700043335093.webp"
+  },
+  {
+    "name": "Howard Marks",
+    "isWorthy": false,
+    "episode": 44,
+    "season": 4,
+    "image": "/1700129419228.webp"
+  },
+  {
+    "name": "Robert Wadlow",
+    "isWorthy": false,
+    "episode": 45,
+    "season": 4,
+    "image": "/1700502332941.webp"
+  },
+  {
+    "name": "Margaret Dickson",
+    "isWorthy": false,
+    "episode": 46,
+    "season": 4,
+    "image": "/1700580309455.webp"
+  },
+  {
+    "name": "Malintzin",
+    "isWorthy": false,
+    "episode": 47,
+    "season": 4,
+    "image": "/1700647846205.webp"
+  },
+  {
+    "name": "Willi Herold",
+    "isWorthy": false,
+    "episode": 48,
+    "season": 4,
+    "image": "/1700739972412.webp"
+  },
+  {
+    "name": "Jack Churchill",
+    "isWorthy": false,
+    "episode": 49,
+    "season": 4,
+    "image": "/1701098137901.webp"
+  },
+  {
+    "name": "Carlo Ponzi",
+    "isWorthy": false,
+    "episode": 50,
+    "season": 4,
+    "image": "/1701167740990.webp"
+  },
+  {
+    "name": "Hernán Cortés",
+    "isWorthy": false,
+    "episode": 51,
+    "season": 4,
+    "image": "/1701247548721.webp"
+  },
+  {
+    "name": "Victor d’Avairon",
+    "isWorthy": false,
+    "episode": 52,
+    "season": 4,
+    "image": "/1701339635114.webp"
+  },
+  {
+    "name": "Lord Carnarvon",
+    "isWorthy": false,
+    "episode": 53,
+    "season": 4,
+    "image": "/1701697558082.webp"
+  },
+  {
+    "name": "Adam Rainer",
+    "isWorthy": false,
+    "episode": 54,
+    "season": 4,
+    "image": "/1701709556553.webp"
+  },
+  {
+    "name": "Joshua Norton",
+    "isWorthy": false,
+    "episode": 55,
+    "season": 4,
+    "image": "/1701709556186.webp"
+  },
+  {
+    "name": "Adolphe Sax",
+    "isWorthy": false,
+    "episode": 56,
+    "season": 4,
+    "image": "/1701710164120.webp"
+  },
+  {
+    "name": "Camille Claudel",
+    "isWorthy": false,
+    "episode": 57,
+    "season": 4,
+    "image": "/1702301156160.webp"
+  },
+  {
+    "name": "Douglas Brent Hegdahl III",
+    "isWorthy": false,
+    "episode": 58,
+    "season": 4,
+    "image": "/1702382719066.webp"
+  },
+  {
+    "name": "Jack Daniels",
+    "isWorthy": false,
+    "episode": 59,
+    "season": 4,
+    "image": "/1702469739295.webp"
+  },
+  {
+    "name": "Henry Paget",
+    "isWorthy": false,
+    "episode": 60,
+    "season": 4,
+    "image": "/1702553744893.webp"
+  },
+  {
+    "name": "Jim Thorpe",
+    "isWorthy": false,
+    "episode": 61,
+    "season": 4,
+    "image": "/1702916449131.webp"
+  },
+  {
+    "name": "Lise Meitner",
+    "isWorthy": false,
+    "episode": 62,
+    "season": 4,
+    "image": "/1702990565845.webp"
+  },
+  {
+    "name": "Hadji Ali",
+    "isWorthy": false,
+    "episode": 63,
+    "season": 4,
+    "image": "/1703075433785.webp"
+  },
+  {
+    "name": "Oliver Cromwell",
+    "isWorthy": false,
+    "episode": 64,
+    "season": 4,
+    "image": "/1703167527935.webp"
+  },
+  {
+    "name": "Marshall Applewhite",
+    "isWorthy": false,
+    "episode": 65,
+    "season": 4,
+    "image": "/1703268024461.webp"
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "isWorthy": false,
+    "episode": 66,
+    "season": 4,
+    "image": "/1703268024924.webp"
+  },
+  {
+    "name": "Gesche Gottfried",
+    "isWorthy": false,
+    "episode": 67,
+    "season": 4,
+    "image": "/1703673326437.webp"
+  },
+  {
+    "name": "Bob, el gat de carrer",
+    "isWorthy": false,
+    "episode": 68,
+    "season": 4,
+    "image": "/1703763031276.webp"
+  },
+  {
+    "name": "Frank Sinatra",
+    "isWorthy": false,
+    "episode": 69,
+    "season": 4,
+    "image": "/1703765130472.webp"
+  },
+  {
+    "name": "Gerda Taro",
+    "isWorthy": false,
+    "episode": 70,
+    "season": 4,
+    "image": "/1704191166354.webp"
+  },
+  {
+    "name": "Krishna Venta",
+    "isWorthy": false,
+    "episode": 71,
+    "season": 4,
+    "image": "/1704276916437.webp"
+  },
+  {
+    "name": "William Henry, Black death, Johnson",
+    "isWorthy": false,
+    "episode": 72,
+    "season": 4,
+    "image": "/1704374427547.webp"
+  },
+  {
+    "name": "Aly Dia",
+    "isWorthy": false,
+    "episode": 73,
+    "season": 4,
+    "image": "/1704721863309.webp"
+  },
+  {
+    "name": "Newton Knight",
+    "isWorthy": false,
+    "episode": 74,
+    "season": 4,
+    "image": "/1704732368403.webp"
+  },
+  {
+    "name": "Drukpa Kunley",
+    "isWorthy": false,
+    "episode": 75,
+    "season": 4,
+    "image": "/1704882632143.webp"
+  },
+  {
+    "name": "Gypsy Blanchard",
+    "isWorthy": false,
+    "episode": 76,
+    "season": 4,
+    "image": "/1704969958281.webp"
+  },
+  {
+    "name": "Robert Baden-Powell",
+    "isWorthy": false,
+    "episode": 77,
+    "season": 4,
+    "image": "/1705335051928.webp"
+  },
+  {
+    "name": "Papa Formós I",
+    "isWorthy": false,
+    "episode": 78,
+    "season": 4,
+    "image": "/1705404640056.webp"
+  },
+  {
+    "name": "Tsutomu Miyazaki",
+    "isWorthy": false,
+    "episode": 79,
+    "season": 4,
+    "image": "/1705485364172.webp"
+  },
+  {
+    "name": "Germanes Rapunzel",
+    "isWorthy": false,
+    "episode": 80,
+    "season": 4,
+    "image": "/1705581331223.webp"
+  },
+  {
+    "name": "Serge Voronoff",
+    "isWorthy": false,
+    "episode": 81,
+    "season": 4,
+    "image": "/1705935351660.webp"
+  },
+  {
+    "name": "Conxita Grangé",
+    "isWorthy": false,
+    "episode": 82,
+    "season": 4,
+    "image": "/1706022317864.webp"
+  },
+  {
+    "name": "Annie Edson Taylor",
+    "isWorthy": false,
+    "episode": 83,
+    "season": 4,
+    "image": "/1706099839925.webp"
+  },
+  {
+    "name": "Arnold Schwarzenegger",
+    "isWorthy": false,
+    "episode": 84,
+    "season": 4,
+    "image": "/1706177760913.webp"
+  },
+  {
+    "name": "Jeffrey Hudson",
+    "isWorthy": false,
+    "episode": 85,
+    "season": 4,
+    "image": "/1706539262426.webp"
+  },
+  {
+    "name": "Jean-Paul Marat",
+    "isWorthy": false,
+    "episode": 86,
+    "season": 4,
+    "image": "/1706625046877.webp"
+  },
+  {
+    "name": "Robert McGee",
+    "isWorthy": false,
+    "episode": 87,
+    "season": 4,
+    "image": "/1706714418310.webp"
+  },
+  {
+    "name": "Irma Grese",
+    "isWorthy": false,
+    "episode": 88,
+    "season": 4,
+    "image": "/1706780778951.webp"
+  },
+  {
+    "name": "Jack Gilbert Graham",
+    "isWorthy": false,
+    "episode": 89,
+    "season": 4,
+    "image": "/1707138662830.webp"
+  },
+  {
+    "name": "Frédéric Bourdin",
+    "isWorthy": false,
+    "episode": 90,
+    "season": 4,
+    "image": "/1707222622558.webp"
+  },
+  {
+    "name": "Alexandre I de Grècia",
+    "isWorthy": false,
+    "episode": 91,
+    "season": 4,
+    "image": "/1707299144461.webp"
+  },
+  {
+    "name": "Jon Brower Minnoch",
+    "isWorthy": false,
+    "episode": 92,
+    "season": 4,
+    "image": "/1707385808827.webp"
+  },
+  {
+    "name": "Joe Carstairs",
+    "isWorthy": false,
+    "episode": 93,
+    "season": 4,
+    "image": "/1707741977724.webp"
+  },
+  {
+    "name": "Francesc Macià",
+    "isWorthy": false,
+    "episode": 94,
+    "season": 4,
+    "image": "/1707836135242.webp"
+  },
+  {
+    "name": "François l\"Olonnais",
+    "isWorthy": false,
+    "episode": 95,
+    "season": 4,
+    "image": "/1707914747684.webp"
+  },
+  {
+    "name": "Eben Byers",
+    "isWorthy": false,
+    "episode": 96,
+    "season": 4,
+    "image": "/1707999065281.webp"
+  },
+  {
+    "name": "Zinaïda Portnova",
+    "isWorthy": false,
+    "episode": 97,
+    "season": 4,
+    "image": "/1708347015374.webp"
+  },
+  {
+    "name": "Shi Pei Pu",
+    "isWorthy": false,
+    "episode": 98,
+    "season": 4,
+    "image": "/1708424458928.webp"
+  },
+  {
+    "name": "Tiradentes",
+    "isWorthy": false,
+    "episode": 99,
+    "season": 4,
+    "image": "/1708606515430.webp"
+  },
+  {
+    "name": "Matthias Buchinger",
+    "isWorthy": false,
+    "episode": 100,
+    "season": 4,
+    "image": "/1708606912599.webp"
+  },
+  {
+    "name": "Gabriel Dante Rossetti",
+    "isWorthy": false,
+    "episode": 101,
+    "season": 4,
+    "image": "/1708960224402.webp"
+  },
+  {
+    "name": "Madonna",
+    "isWorthy": false,
+    "episode": 102,
+    "season": 4,
+    "image": "/1709045169010.webp"
+  },
+  {
+    "name": "John Harvey Kellogg",
+    "isWorthy": false,
+    "episode": 103,
+    "season": 4,
+    "image": "/1709127957385.webp"
+  },
+  {
+    "name": "Erwin Schrödinger",
+    "isWorthy": false,
+    "episode": 104,
+    "season": 4,
+    "image": "/1709211319876.webp"
+  },
+  {
+    "name": "Marga d’Andurain",
+    "isWorthy": false,
+    "episode": 105,
+    "season": 4,
+    "image": "/1709565038325.webp"
+  },
+  {
+    "name": "Lopez Lomong",
+    "isWorthy": false,
+    "episode": 106,
+    "season": 4,
+    "image": "/1709632266148.webp"
+  },
+  {
+    "name": "Amar Bharati",
+    "isWorthy": false,
+    "episode": 107,
+    "season": 4,
+    "image": "/1709726738556.webp"
+  },
+  {
+    "name": "Tura Satana",
+    "isWorthy": false,
+    "episode": 108,
+    "season": 4,
+    "image": "/1709803261514.webp"
+  },
+  {
+    "name": "Èric el Roig",
+    "isWorthy": false,
+    "episode": 109,
+    "season": 4,
+    "image": "/1710170753556.webp"
+  },
+  {
+    "name": "Genie Wiley",
+    "isWorthy": false,
+    "episode": 110,
+    "season": 4,
+    "image": "/1710241257510.webp"
+  },
+  {
+    "name": "El Tarzan d’Argelaguer",
+    "isWorthy": false,
+    "episode": 111,
+    "season": 4,
+    "image": "/1710336927034.webp"
+  },
+  {
+    "name": "Eddie Slovik",
+    "isWorthy": false,
+    "episode": 112,
+    "season": 4,
+    "image": "/1710418546227.webp"
+  },
+  {
+    "name": "Timothy Dexter",
+    "isWorthy": false,
+    "episode": 113,
+    "season": 4,
+    "image": "/1710761740001.webp"
+  },
+  {
+    "name": "Jacques-Louis David",
+    "isWorthy": false,
+    "episode": 114,
+    "season": 4,
+    "image": "/1710850571981.webp"
+  },
+  {
+    "name": "Martin A. Couney",
+    "isWorthy": false,
+    "episode": 115,
+    "season": 4,
+    "image": "/1710934565235.webp"
+  },
+  {
+    "name": "Andy Fordham",
+    "isWorthy": false,
+    "episode": 116,
+    "season": 4,
+    "image": "/1711033265663.webp"
+  },
+  {
+    "name": "Timothy Treadwell",
+    "isWorthy": false,
+    "episode": 117,
+    "season": 4,
+    "image": "/1711381237487.webp"
+  },
+  {
+    "name": "Aimo Koivunen",
+    "isWorthy": false,
+    "episode": 118,
+    "season": 4,
+    "image": "/1711446381682.webp"
+  },
+  {
+    "name": "Rossa Matilda Richter",
+    "isWorthy": false,
+    "episode": 119,
+    "season": 4,
+    "image": "/1711533925187.webp"
+  },
+  {
+    "name": "Herbert Mullin",
+    "isWorthy": false,
+    "episode": 120,
+    "season": 4,
+    "image": "/1711554367543.webp"
+  },
+  {
+    "name": "Ilya Ivanovich Ivanov",
+    "isWorthy": false,
+    "episode": 121,
+    "season": 4,
+    "image": "/1711637261058.webp"
+  },
+  {
+    "name": "Maria Anna Mozart",
+    "isWorthy": false,
+    "episode": 122,
+    "season": 4,
+    "image": "/1712055915976.webp"
+  },
+  {
+    "name": "Lao Tse",
+    "isWorthy": false,
+    "episode": 123,
+    "season": 4,
+    "image": "/1712140842857.webp"
+  },
+  {
+    "name": "Becerrillo",
+    "isWorthy": false,
+    "episode": 124,
+    "season": 4,
+    "image": "/1712221285794.webp"
+  },
+  {
+    "name": "Heinrich Schliemann",
+    "isWorthy": false,
+    "episode": 125,
+    "season": 4,
+    "image": "/1712584546735.webp"
+  },
+  {
+    "name": "Francesc Darder",
+    "isWorthy": false,
+    "episode": 126,
+    "season": 4,
+    "image": "/1712652962703.webp"
+  },
+  {
+    "name": "George Orwell",
+    "isWorthy": false,
+    "episode": 127,
+    "season": 4,
+    "image": "/1712748344615.webp"
+  },
+  {
+    "name": "Douglas Corrigan",
+    "isWorthy": false,
+    "episode": 128,
+    "season": 4,
+    "image": "/1712827272922.webp"
+  },
+  {
+    "name": "Marco Polo",
+    "isWorthy": false,
+    "episode": 129,
+    "season": 4,
+    "image": "/1713183652467.webp"
+  },
+  {
+    "name": "Edward Colston",
+    "isWorthy": false,
+    "episode": 130,
+    "season": 4,
+    "image": "/1713267931707.webp"
+  },
+  {
+    "name": "Antonina Makàrova",
+    "isWorthy": false,
+    "episode": 131,
+    "season": 4,
+    "image": "/1713363365918.webp"
+  },
+  {
+    "name": "Pompeu Fabra",
+    "isWorthy": false,
+    "episode": 132,
+    "season": 4,
+    "image": "/1713438917115.webp"
+  },
+  {
+    "name": "Brigitte Hoss",
+    "isWorthy": false,
+    "episode": 133,
+    "season": 4,
+    "image": "/1713787526340.webp"
+  },
+  {
+    "name": "Alejandra Pizarnik",
+    "isWorthy": false,
+    "episode": 134,
+    "season": 4,
+    "image": "/1713866458100.webp"
+  },
+  {
+    "name": "Griselda Blanco",
+    "isWorthy": false,
+    "episode": 135,
+    "season": 4,
+    "image": "/1713957632690.webp"
+  },
+  {
+    "name": "Anne Perry",
+    "isWorthy": false,
+    "episode": 136,
+    "season": 4,
+    "image": "/1714040733433.webp"
+  },
+  {
+    "name": "Florencio Pla Meseguer",
+    "isWorthy": false,
+    "episode": 137,
+    "season": 4,
+    "image": "/1714391735917.webp"
+  },
+  {
+    "name": "Natti Natti Nattramn",
+    "isWorthy": false,
+    "episode": 138,
+    "season": 4,
+    "image": "/1714473982319.webp"
+  },
+  {
+    "name": "Pauline de Montmorin",
+    "isWorthy": false,
+    "episode": 139,
+    "season": 4,
+    "image": "/1714473981801.webp"
+  },
+  {
+    "name": "Locusta",
+    "isWorthy": false,
+    "episode": 140,
+    "season": 4,
+    "image": "/1714660275381.webp"
+  },
+  {
+    "name": "Camberley Kate",
+    "isWorthy": false,
+    "episode": 141,
+    "season": 4,
+    "image": "/1715003276577.webp"
+  },
+  {
+    "name": "Serguei Brukhonenko",
+    "isWorthy": false,
+    "episode": 142,
+    "season": 4,
+    "image": "/1715076627454.webp"
+  },
+  {
+    "name": "María del Pilar Teresa Cayetana de Silva Álvarez de Toledo",
+    "isWorthy": false,
+    "episode": 143,
+    "season": 4,
+    "image": "/1715179279562.webp"
+  },
+  {
+    "name": "Salvador Fàbrega",
+    "isWorthy": false,
+    "episode": 144,
+    "season": 4,
+    "image": "/1715184324723.webp"
+  },
+  {
+    "name": "Svetlana Al·lilúieva",
+    "isWorthy": false,
+    "episode": 145,
+    "season": 4,
+    "image": "/1715600130027.webp"
+  },
+  {
+    "name": "Henry Gunther, George Price i Augustin Trébuchon",
+    "isWorthy": false,
+    "episode": 146,
+    "season": 4,
+    "image": "/1715683858531.webp"
+  },
+  {
+    "name": "Nellie Bly",
+    "isWorthy": false,
+    "episode": 147,
+    "season": 4,
+    "image": "/1715768423003.webp"
+  },
+  {
+    "name": "Li Bai",
+    "isWorthy": false,
+    "episode": 148,
+    "season": 4,
+    "image": "/1715850065979.webp"
+  },
+  {
+    "name": "Gino Bartali",
+    "isWorthy": false,
+    "episode": 149,
+    "season": 4,
+    "image": "/1715955331808.webp"
+  },
+  {
+    "name": "Monty Clift",
+    "isWorthy": false,
+    "episode": 150,
+    "season": 4,
+    "image": "/1716284170197.webp"
+  },
+  {
+    "name": "Julian Assange",
+    "isWorthy": false,
+    "episode": 151,
+    "season": 4,
+    "image": "/1716368724197.webp"
+  },
+  {
+    "name": "Greyfriars Bobby",
+    "isWorthy": false,
+    "episode": 152,
+    "season": 4,
+    "image": "/1716453960615.webp"
+  },
+  {
+    "name": "Nishimura Mako",
+    "isWorthy": false,
+    "episode": 153,
+    "season": 4,
+    "image": "/1716811234269.webp"
+  },
+  {
+    "name": "George Psalmanazar",
+    "isWorthy": false,
+    "episode": 154,
+    "season": 4,
+    "image": "/1716893752590.webp"
+  },
+  {
+    "name": "Freddie Mercury",
+    "isWorthy": false,
+    "episode": 155,
+    "season": 4,
+    "image": "/1716985528744.webp"
+  },
+  {
+    "name": "Thomas Quick",
+    "isWorthy": false,
+    "episode": 156,
+    "season": 4,
+    "image": "/1716993925690.webp"
+  },
+  {
+    "name": "Vjeran Tomic",
+    "isWorthy": false,
+    "episode": 157,
+    "season": 4,
+    "image": "/1717423229433.webp"
+  },
+  {
+    "name": "Enric Tomàs Urpí",
+    "isWorthy": false,
+    "episode": 158,
+    "season": 4,
+    "image": "/1717518683752.webp"
+  },
+  {
+    "name": "Elizabeth Bisland",
+    "isWorthy": false,
+    "episode": 159,
+    "season": 4,
+    "image": "/1717577768790.webp"
+  },
+  {
+    "name": "Robert Cornish",
+    "isWorthy": false,
+    "episode": 160,
+    "season": 4,
+    "image": "/1717664121006.webp"
+  },
+  {
+    "name": "Jules Verreaux",
+    "isWorthy": false,
+    "episode": 161,
+    "season": 4,
+    "image": "/1718027204044.webp"
+  },
+  {
+    "name": "Khutulun",
+    "isWorthy": false,
+    "episode": 162,
+    "season": 4,
+    "image": "/1718096432731.webp"
+  },
+  {
+    "name": "Kim Ung-yong",
+    "isWorthy": false,
+    "episode": 163,
+    "season": 4,
+    "image": "/1718185256126.webp"
+  },
+  {
+    "name": "Larry Walters",
+    "isWorthy": false,
+    "episode": 164,
+    "season": 4,
+    "image": "/1718271058205.webp"
+  },
+  {
+    "name": "Els bessons Jim",
+    "isWorthy": false,
+    "episode": 165,
+    "season": 4,
+    "image": "/1718624757156.webp"
+  },
+  {
+    "name": "Luz Amparo Cuevas",
+    "isWorthy": false,
+    "episode": 166,
+    "season": 4,
+    "image": "/1718713875701.webp"
+  },
+  {
+    "name": "Pierre Lottier",
+    "isWorthy": false,
+    "episode": 167,
+    "season": 4,
+    "image": "/1718790360685.webp"
+  },
+  {
+    "name": "Phyllis Penzo i Robert Cunningham",
+    "isWorthy": true,
+    "episode": 168,
+    "season": 4,
+    "image": "/1718791578254.webp"
+  },
+  {
+    "name": "Bertín Osborne",
+    "isWorthy": false,
+    "episode": 169,
+    "season": 4,
+    "image": "/1718976913501.webp"
+  },
+  {
+    "name": "Andy Warhol",
+    "isWorthy": false,
+    "episode": 170,
+    "season": 4,
+    "image": "/1719315621210.webp"
+  },
+  {
+    "name": "Robert White",
+    "isWorthy": false,
+    "episode": 171,
+    "season": 4,
+    "image": "/1719393615899.webp"
+  },
+  {
+    "name": "Sinéad O\"Connor",
+    "isWorthy": false,
+    "episode": 172,
+    "season": 4,
+    "image": "/1719489309119.webp"
+  },
+  {
+    "name": "Vicenç Coma",
+    "isWorthy": false,
+    "episode": 173,
+    "season": 4,
+    "image": "/1719848159818.webp"
+  },
+  {
+    "name": "Policarpa Salavarrieta",
+    "isWorthy": false,
+    "episode": 174,
+    "season": 4,
+    "image": "/1719907848060.webp"
+  },
+  {
+    "name": "Josef Mengele",
+    "isWorthy": false,
+    "episode": 175,
+    "season": 4,
+    "image": "/1719908450196.webp"
+  },
+  {
+    "name": "Thomas Alva Edison",
+    "isWorthy": false,
+    "episode": 176,
+    "season": 4,
+    "image": "/1720194098248.webp"
+  },
+  {
+    "name": "Diogo Alves",
+    "isWorthy": false,
+    "episode": 177,
+    "season": 4,
+    "image": "/1721647848675.webp"
+  },
+  {
+    "name": "Milena Quaglini",
+    "isWorthy": false,
+    "episode": 178,
+    "season": 4,
+    "image": "/1720601731562.webp"
+  },
+  {
+    "name": "David Berkowitz",
+    "isWorthy": false,
+    "episode": 179,
+    "season": 4,
+    "image": "/1721647855797.webp"
+  },
+  {
+    "name": "Herbert Baumeister",
+    "isWorthy": false,
+    "episode": 180,
+    "season": 4,
+    "image": "/1720602051496.webp"
+  },
+  {
+    "name": "Aileen Wuornos",
+    "isWorthy": false,
+    "episode": 181,
+    "season": 4,
+    "image": "/1720603245614.webp"
+  },
+  {
+    "name": "Pierre Basson",
+    "isWorthy": false,
+    "episode": 182,
+    "season": 4,
+    "image": "/1720602941755.webp"
+  },
+  {
+    "name": "Richard Williams",
+    "isWorthy": false,
+    "episode": 1,
+    "season": 5,
+    "image": "/1725031513383.webp"
+  },
+  {
+    "name": "Peter Hurkos",
+    "isWorthy": false,
+    "episode": 2,
+    "season": 5,
+    "image": "/1725285356521.webp"
+  },
+  {
+    "name": "Vesna Vulović",
+    "isWorthy": false,
+    "episode": 3,
+    "season": 5,
+    "image": "/1725285701571.webp"
+  },
+  {
+    "name": "Louis Braille",
+    "isWorthy": false,
+    "episode": 4,
+    "season": 5,
+    "image": "/1725464121565.webp"
+  },
+  {
+    "name": "Tim Samaras",
+    "isWorthy": false,
+    "episode": 5,
+    "season": 5,
+    "image": "/1725633029275.webp"
+  },
+  {
+    "name": "Julio Iglesias",
+    "isWorthy": true,
+    "episode": 6,
+    "season": 5,
+    "image": "/1725896736727.webp"
+  }
 ]

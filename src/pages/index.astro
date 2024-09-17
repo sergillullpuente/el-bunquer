@@ -3,8 +3,9 @@ import characters from '@/data/characters.json'
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import Search from "../components/Search.astro";
-import Briefcase from "../components/icons/Briefcase.astro";
-import AddressBook from "../components/icons/AddressBook.astro";
+import Gun from "../components/icons/Gun.astro";
+import Horse from "../components/icons/Horse.astro";
+import Estelada from "../components/icons/Estelada.astro";
 ---
 
 <style>
@@ -32,7 +33,7 @@ import AddressBook from "../components/icons/AddressBook.astro";
 			font-size: 0.8rem;
 			padding: 0.5rem 1rem;
 			background-color: var(--accent);
-			border-radius: 900px;
+			border-radius: 25px;
 			cursor: pointer;
 			transition: background-color 0.3s ease;
 		}
@@ -47,10 +48,9 @@ import AddressBook from "../components/icons/AddressBook.astro";
 		<h1>El Búnquer</h1>
 		<Search placeholder="Buscar personatge..." />
 		<div class="filters">
-			<Briefcase class="pill"/>
-			<AddressBook class="pill"/>
-			<Briefcase class="pill"/>
-			<Briefcase class="pill"/>
+			<Gun class="pill"/>
+			<Horse class="pill"/>
+			<Estelada class="pill"/>
 		</div>
 		<div class="card-grid">
 			{ characters.map(cItem => <Card {...cItem} />) }

@@ -5,10 +5,11 @@ import { nameToSlug } from '@/pages/characters/[character].astro';
 export interface Props {
 	name: string;
 	season: number;
+	episode: number;
 	isWorthy: boolean;
 	image: string;
 }
-const { name, season, isWorthy, image } = Astro.props;
+const { name, season, episode, isWorthy, image } = Astro.props;
 ---
 
 <style>
@@ -88,7 +89,7 @@ const { name, season, isWorthy, image } = Astro.props;
 				{name}
 			</div>
 			<div class="subtitle">
-				Temporada {season}
+				Temporada {season} Capítol {episode}
 			</div>
 		</div>
 </div>
