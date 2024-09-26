@@ -4,5158 +4,6632 @@
     "isWorthy": true,
     "episode": 1,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Frederick Fleet"
   },
   {
     "name": "Michael Collins",
     "isWorthy": true,
     "episode": 2,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Michael Collins"
   },
   {
     "name": "James Bowman",
     "isWorthy": true,
     "episode": 3,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "James Bowman"
   },
   {
     "name": "Isadora Duncan",
     "isWorthy": true,
     "episode": 4,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Isadora Duncan"
   },
   {
     "name": "Roy Sullivan",
     "isWorthy": true,
     "episode": 5,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Roy Sullivan"
   },
   {
     "name": "Mao Zedong",
     "isWorthy": false,
     "episode": 6,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mao Zedong"
   },
   {
     "name": "Richard Jewell",
     "isWorthy": false,
     "episode": 7,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Richard Jewell"
   },
   {
     "name": "Aleksandr Bogdanov",
     "isWorthy": false,
     "episode": 8,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Aleksandr Bogdanov"
   },
   {
     "name": "Haruo Hirota",
     "isWorthy": false,
     "episode": 9,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Haruo Hirota"
   },
   {
     "name": "Vincent Van Gogh",
     "isWorthy": false,
     "episode": 10,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Vincent Van Gogh"
   },
   {
     "name": "Charles Justice",
     "isWorthy": false,
     "episode": 11,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Charles Justice"
   },
   {
     "name": "Joana d\"Arc",
     "isWorthy": false,
     "episode": 12,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joana d\"Arc"
   },
   {
     "name": "Horace de Vere Cole",
     "isWorthy": false,
     "episode": 13,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Horace de Vere Cole"
   },
   {
     "name": "Frida Kahlo",
     "isWorthy": false,
     "episode": 14,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Frida Kahlo"
   },
   {
     "name": "Hunter S. Thompson",
     "isWorthy": false,
     "episode": 15,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Hunter S. Thompson"
   },
   {
     "name": "Édith Piaf",
     "isWorthy": false,
     "episode": 16,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Édith Piaf"
   },
   {
     "name": "Otto Lilienthal",
     "isWorthy": false,
     "episode": 17,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Otto Lilienthal"
   },
   {
     "name": "Edgar Allan Poe",
     "isWorthy": false,
     "episode": 18,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Edgar Allan Poe"
   },
   {
     "name": "George Best",
     "isWorthy": false,
     "episode": 19,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "George Best"
   },
   {
     "name": "Paula Wolf",
     "isWorthy": false,
     "episode": 20,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Paula Wolf"
   },
   {
     "name": "Claudi Cèsar August",
     "isWorthy": false,
     "episode": 21,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Claudi Cèsar August"
   },
   {
     "name": "Marie Curie",
     "isWorthy": false,
     "episode": 22,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Marie Curie"
   },
   {
     "name": "Amy Winehouse",
     "isWorthy": false,
     "episode": 23,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Amy Winehouse"
   },
   {
     "name": "Phineas Gage",
     "isWorthy": false,
     "episode": 24,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Phineas Gage"
   },
   {
     "name": "Neró",
     "isWorthy": false,
     "episode": 25,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Neró"
   },
   {
     "name": "Carlos Sainz",
     "isWorthy": false,
     "episode": 26,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Carlos Sainz"
   },
   {
     "name": "Jesse Tafero",
     "isWorthy": false,
     "episode": 27,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jesse Tafero"
   },
   {
     "name": "Violet Jessop",
     "isWorthy": false,
     "episode": 28,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Violet Jessop"
   },
   {
     "name": "Jean-Claude Romand",
     "isWorthy": false,
     "episode": 29,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jean-Claude Romand"
   },
   {
     "name": "Ranavalona I",
     "isWorthy": false,
     "episode": 30,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ranavalona I"
   },
   {
     "name": "Wilhelm Voigt",
     "isWorthy": false,
     "episode": 31,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Wilhelm Voigt"
   },
   {
     "name": "Yoko Ono",
     "isWorthy": false,
     "episode": 32,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Yoko Ono"
   },
   {
     "name": "Lamar Odom",
     "isWorthy": false,
     "episode": 33,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lamar Odom"
   },
   {
     "name": "Houdini",
     "isWorthy": false,
     "episode": 34,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Houdini"
   },
   {
     "name": "Ritchie Valens",
     "isWorthy": false,
     "episode": 35,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ritchie Valens"
   },
   {
     "name": "Ana Frank",
     "isWorthy": false,
     "episode": 36,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ana Frank"
   },
   {
     "name": "Robert Todd Lincoln",
     "isWorthy": false,
     "episode": 37,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Robert Todd Lincoln"
   },
   {
     "name": "Digby Taham-Warter",
     "isWorthy": false,
     "episode": 38,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Digby Taham-Warter"
   },
   {
     "name": "Grigori Rasputin",
     "isWorthy": false,
     "episode": 39,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Grigori Rasputin"
   },
   {
     "name": "Horace Lawson Hunley",
     "isWorthy": false,
     "episode": 40,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Horace Lawson Hunley"
   },
   {
     "name": "Krystyna Skarbek",
     "isWorthy": false,
     "episode": 41,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Krystyna Skarbek"
   },
   {
     "name": "Antonio Meucci",
     "isWorthy": false,
     "episode": 42,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Antonio Meucci"
   },
   {
     "name": "Jean-Baptiste Lully",
     "isWorthy": false,
     "episode": 43,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jean-Baptiste Lully"
   },
   {
     "name": "Victor Lustig",
     "isWorthy": false,
     "episode": 44,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Victor Lustig"
   },
   {
     "name": "Vlad III",
     "isWorthy": false,
     "episode": 45,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Vlad III"
   },
   {
     "name": "Whitney Houston",
     "isWorthy": false,
     "episode": 46,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Whitney Houston"
   },
   {
     "name": "Horacio Quiroga",
     "isWorthy": false,
     "episode": 47,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Horacio Quiroga"
   },
   {
     "name": "Billy el Nen",
     "isWorthy": false,
     "episode": 48,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Billy el Nen"
   },
   {
     "name": "Robert Schumann",
     "isWorthy": false,
     "episode": 49,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Robert Schumann"
   },
   {
     "name": "Hedy Lamarr",
     "isWorthy": false,
     "episode": 50,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Hedy Lamarr"
   },
   {
     "name": "Caravaggio",
     "isWorthy": false,
     "episode": 51,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Caravaggio"
   },
   {
     "name": "Franz Kafka",
     "isWorthy": false,
     "episode": 52,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Franz Kafka"
   },
   {
     "name": "Macaulay Culkin",
     "isWorthy": false,
     "episode": 53,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Macaulay Culkin"
   },
   {
     "name": "Elizabeth Barret",
     "isWorthy": false,
     "episode": 54,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Elizabeth Barret"
   },
   {
     "name": "Honoré de Balzac",
     "isWorthy": false,
     "episode": 55,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Honoré de Balzac"
   },
   {
     "name": "Manolete",
     "isWorthy": false,
     "episode": 56,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Manolete"
   },
   {
     "name": "Janis Joplin",
     "isWorthy": false,
     "episode": 57,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Janis Joplin"
   },
   {
     "name": "Catalina de Erauso",
     "isWorthy": false,
     "episode": 58,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Catalina de Erauso"
   },
   {
     "name": "Joseph Pujol, Le Pétomane",
     "isWorthy": false,
     "episode": 59,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joseph Pujol, Le Pétomane"
   },
   {
     "name": "Anna Anderson",
     "isWorthy": false,
     "episode": 60,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Anna Anderson"
   },
   {
     "name": "Frane Selak",
     "isWorthy": false,
     "episode": 61,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Frane Selak"
   },
   {
     "name": "Sarah Bernhardt",
     "isWorthy": false,
     "episode": 62,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Sarah Bernhardt"
   },
   {
     "name": "Ibrahim I",
     "isWorthy": false,
     "episode": 63,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ibrahim I"
   },
   {
     "name": "Irena Sendler",
     "isWorthy": false,
     "episode": 64,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Irena Sendler"
   },
   {
     "name": "Jim Jones",
     "isWorthy": false,
     "episode": 65,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jim Jones"
   },
   {
     "name": "Boris I d’Andorra",
     "isWorthy": false,
     "episode": 66,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Boris I d’Andorra"
   },
   {
     "name": "Lluís II de Baviera",
     "isWorthy": false,
     "episode": 67,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lluís II de Baviera"
   },
   {
     "name": "Bokassa",
     "isWorthy": false,
     "episode": 68,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Bokassa"
   },
   {
     "name": "La vampira del Raval",
     "isWorthy": false,
     "episode": 69,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "La vampira del Raval"
   },
   {
     "name": "Hildegart Rodríguez",
     "isWorthy": false,
     "episode": 70,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Hildegart Rodríguez"
   },
   {
     "name": "George Michael",
     "isWorthy": false,
     "episode": 71,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "George Michael"
   },
   {
     "name": "Ned Kelly",
     "isWorthy": false,
     "episode": 72,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ned Kelly"
   },
   {
     "name": "Max Stirner",
     "isWorthy": false,
     "episode": 73,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Max Stirner"
   },
   {
     "name": "John McAfee",
     "isWorthy": false,
     "episode": 74,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "John McAfee"
   },
   {
     "name": "Princesa Caraboo",
     "isWorthy": false,
     "episode": 75,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Princesa Caraboo"
   },
   {
     "name": "Nikola Tesla",
     "isWorthy": false,
     "episode": 76,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Nikola Tesla"
   },
   {
     "name": "Alexandre el Gran",
     "isWorthy": false,
     "episode": 77,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Alexandre el Gran"
   },
   {
     "name": "John R. Brinkley",
     "isWorthy": false,
     "episode": 78,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "John R. Brinkley"
   },
   {
     "name": "Yukio Mishima",
     "isWorthy": false,
     "episode": 79,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Yukio Mishima"
   },
   {
     "name": "Keith Moon",
     "isWorthy": false,
     "episode": 80,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Keith Moon"
   },
   {
     "name": "Agafia Lykova",
     "isWorthy": false,
     "episode": 81,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Agafia Lykova"
   },
   {
     "name": "Xavier Cugat",
     "isWorthy": false,
     "episode": 82,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Xavier Cugat"
   },
   {
     "name": "Ivan el Terrible",
     "isWorthy": false,
     "episode": 83,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ivan el Terrible"
   },
   {
     "name": "Sir Robert Charlton",
     "isWorthy": false,
     "episode": 84,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Sir Robert Charlton"
   },
   {
     "name": "Victor Hugo",
     "isWorthy": false,
     "episode": 85,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Victor Hugo"
   },
   {
     "name": "Alícia Esteve Head / Tania Head",
     "isWorthy": false,
     "episode": 86,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Alícia Esteve Head / Tania Head"
   },
   {
     "name": "Franz Reichelt",
     "isWorthy": false,
     "episode": 87,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Franz Reichelt"
   },
   {
     "name": "Patrick Roy Bates",
     "isWorthy": false,
     "episode": 88,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Patrick Roy Bates"
   },
   {
     "name": "Lewis Carroll",
     "isWorthy": false,
     "episode": 89,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lewis Carroll"
   },
   {
     "name": "Ós Wojtek",
     "isWorthy": false,
     "episode": 90,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ós Wojtek"
   },
   {
     "name": "Mileva Marić",
     "isWorthy": false,
     "episode": 91,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mileva Marić"
   },
   {
     "name": "Pancho Villa",
     "isWorthy": false,
     "episode": 92,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Pancho Villa"
   },
   {
     "name": "Lena Baker",
     "isWorthy": false,
     "episode": 93,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lena Baker"
   },
   {
     "name": "Aleister Crowley",
     "isWorthy": false,
     "episode": 94,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Aleister Crowley"
   },
   {
     "name": "Oskar Schindler",
     "isWorthy": false,
     "episode": 95,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Oskar Schindler"
   },
   {
     "name": "Michael Jackson",
     "isWorthy": false,
     "episode": 96,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Michael Jackson"
   },
   {
     "name": "Nicholas Senn",
     "isWorthy": false,
     "episode": 97,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Nicholas Senn"
   },
   {
     "name": "Guillermo Marconi",
     "isWorthy": true,
     "episode": 98,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Guillermo Marconi"
   },
   {
     "name": "José Manuel Urtain",
     "isWorthy": false,
     "episode": 99,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "José Manuel Urtain"
   },
   {
     "name": "Giacomo Casanova",
     "isWorthy": false,
     "episode": 100,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Giacomo Casanova"
   },
   {
     "name": "Maria Teresinha Gomes",
     "isWorthy": false,
     "episode": 101,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Maria Teresinha Gomes"
   },
   {
     "name": "Ernest Hemingway",
     "isWorthy": false,
     "episode": 102,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Ernest Hemingway"
   },
   {
     "name": "Leah Feldman",
     "isWorthy": false,
     "episode": 103,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Leah Feldman"
   },
   {
     "name": "Billie Holiday",
     "isWorthy": false,
     "episode": 104,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Billie Holiday"
   },
   {
     "name": "Klaus Kinski",
     "isWorthy": false,
     "episode": 105,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Klaus Kinski"
   },
   {
     "name": "Joseph Merrick",
     "isWorthy": false,
     "episode": 106,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joseph Merrick"
   },
   {
     "name": "Phil Spector",
     "isWorthy": false,
     "episode": 107,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Phil Spector"
   },
   {
     "name": "Carlos de Viana",
     "isWorthy": false,
     "episode": 108,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Carlos de Viana"
   },
   {
     "name": "Joe Exotic",
     "isWorthy": false,
     "episode": 109,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joe Exotic"
   },
   {
     "name": "Erzebet Bathory",
     "isWorthy": false,
     "episode": 110,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Erzebet Bathory"
   },
   {
     "name": "Josephine Corbin",
     "isWorthy": false,
     "episode": 111,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Josephine Corbin"
   },
   {
     "name": "Fritz Honka",
     "isWorthy": false,
     "episode": 112,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Fritz Honka"
   },
   {
     "name": "Tomás de Torquemada",
     "isWorthy": false,
     "episode": 113,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Tomás de Torquemada"
   },
   {
     "name": "Allen Clayton West",
     "isWorthy": false,
     "episode": 114,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Allen Clayton West"
   },
   {
     "name": "Mary Ann Cotton",
     "isWorthy": false,
     "episode": 115,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mary Ann Cotton"
   },
   {
     "name": "Noor Inayat Khan",
     "isWorthy": false,
     "episode": 116,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Noor Inayat Khan"
   },
   {
     "name": "Karl-Adolf Schlitt",
     "isWorthy": false,
     "episode": 117,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Karl-Adolf Schlitt"
   },
   {
     "name": "Marlon Brando",
     "isWorthy": false,
     "episode": 118,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Marlon Brando"
   },
   {
     "name": "Antonin Artaud",
     "isWorthy": false,
     "episode": 119,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Antonin Artaud"
   },
   {
     "name": "Barba Roja",
     "isWorthy": false,
     "episode": 120,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Barba Roja"
   },
   {
     "name": "Charles Manson",
     "isWorthy": false,
     "episode": 121,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Charles Manson"
   },
   {
     "name": "Charley Parkhurst",
     "isWorthy": false,
     "episode": 122,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Charley Parkhurst"
   },
   {
     "name": "Miguel Hernández",
     "isWorthy": false,
     "episode": 123,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Miguel Hernández"
   },
   {
     "name": "Oscar Pistorius",
     "isWorthy": false,
     "episode": 124,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Oscar Pistorius"
   },
   {
     "name": "Agustín Luengo",
     "isWorthy": false,
     "episode": 125,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Agustín Luengo"
   },
   {
     "name": "Hugh Glass",
     "isWorthy": false,
     "episode": 126,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Hugh Glass"
   },
   {
     "name": "Oskar Speck",
     "isWorthy": false,
     "episode": 127,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Oskar Speck"
   },
   {
     "name": "Vaslav Nijinsky",
     "isWorthy": false,
     "episode": 128,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Vaslav Nijinsky"
   },
   {
     "name": "Els germans McDonald",
     "isWorthy": false,
     "episode": 129,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Els germans McDonald"
   },
   {
     "name": "Caritat Mercader",
     "isWorthy": false,
     "episode": 130,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Caritat Mercader"
   },
   {
     "name": "Sojourner Truth",
     "isWorthy": false,
     "episode": 131,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Sojourner Truth"
   },
   {
     "name": "Lemmy Kilmister",
     "isWorthy": false,
     "episode": 132,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lemmy Kilmister"
   },
   {
     "name": "Alfons XIII",
     "isWorthy": false,
     "episode": 133,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Alfons XIII"
   },
   {
     "name": "Mary Mallon",
     "isWorthy": false,
     "episode": 134,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mary Mallon"
   },
   {
     "name": "Truman Capote",
     "isWorthy": false,
     "episode": 135,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Truman Capote"
   },
   {
     "name": "Charles Bukowski",
     "isWorthy": false,
     "episode": 136,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Charles Bukowski"
   },
   {
     "name": "Charlotte Brontë",
     "isWorthy": false,
     "episode": 137,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Charlotte Brontë"
   },
   {
     "name": "Tiger Woods",
     "isWorthy": false,
     "episode": 138,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Tiger Woods"
   },
   {
     "name": "Karl Marx",
     "isWorthy": false,
     "episode": 139,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Karl Marx"
   },
   {
     "name": "Jordan Belfort",
     "isWorthy": false,
     "episode": 140,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jordan Belfort"
   },
   {
     "name": "Antonio Brown",
     "isWorthy": false,
     "episode": 141,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Antonio Brown"
   },
   {
     "name": "Elisabeth Nietzsche",
     "isWorthy": false,
     "episode": 142,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Elisabeth Nietzsche"
   },
   {
     "name": "Quico Sabaté",
     "isWorthy": false,
     "episode": 143,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Quico Sabaté"
   },
   {
     "name": "Germans Collyer",
     "isWorthy": false,
     "episode": 144,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Germans Collyer"
   },
   {
     "name": "Juliane Koepcke",
     "isWorthy": false,
     "episode": 145,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Juliane Koepcke"
   },
   {
     "name": "Julia Pastrana",
     "isWorthy": false,
     "episode": 146,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Julia Pastrana"
   },
   {
     "name": "Richard Feynman",
     "isWorthy": false,
     "episode": 147,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Richard Feynman"
   },
   {
     "name": "Molière",
     "isWorthy": false,
     "episode": 148,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Molière"
   },
   {
     "name": "Mari Pepa Colomer",
     "isWorthy": false,
     "episode": 149,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mari Pepa Colomer"
   },
   {
     "name": "Jimi Hendrix",
     "isWorthy": false,
     "episode": 150,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jimi Hendrix"
   },
   {
     "name": "Manuel Vázquez Montalbán",
     "isWorthy": false,
     "episode": 151,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Manuel Vázquez Montalbán"
   },
   {
     "name": "Elagàbal",
     "isWorthy": false,
     "episode": 152,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Elagàbal"
   },
   {
     "name": "Bette Davis",
     "isWorthy": false,
     "episode": 153,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Bette Davis"
   },
   {
     "name": "Mikhaïl Bakunin",
     "isWorthy": false,
     "episode": 154,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Mikhaïl Bakunin"
   },
   {
     "name": "Eva Perón",
     "isWorthy": false,
     "episode": 155,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Eva Perón"
   },
   {
     "name": "Bou assegut",
     "isWorthy": false,
     "episode": 156,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Bou assegut"
   },
   {
     "name": "Antoni Gaudí",
     "isWorthy": false,
     "episode": 157,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Antoni Gaudí"
   },
   {
     "name": "Família Bender",
     "isWorthy": false,
     "episode": 158,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Família Bender"
   },
   {
     "name": "Éric Cantona",
     "isWorthy": false,
     "episode": 159,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Éric Cantona"
   },
   {
     "name": "Edmund Hillary",
     "isWorthy": false,
     "episode": 160,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Edmund Hillary"
   },
   {
     "name": "Joan Crawford",
     "isWorthy": false,
     "episode": 161,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joan Crawford"
   },
   {
     "name": "Anton Txékhov",
     "isWorthy": false,
     "episode": 162,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Anton Txékhov"
   },
   {
     "name": "Hugh Hefner",
     "isWorthy": false,
     "episode": 163,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Hugh Hefner"
   },
   {
     "name": "Marius Jacob",
     "isWorthy": false,
     "episode": 164,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Marius Jacob"
   },
   {
     "name": "Nina Simone",
     "isWorthy": false,
     "episode": 165,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Nina Simone"
   },
   {
     "name": "O. J. Simpson",
     "isWorthy": false,
     "episode": 166,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "O. J. Simpson"
   },
   {
     "name": "Dmitry Baksheev",
     "isWorthy": false,
     "episode": 167,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Dmitry Baksheev"
   },
   {
     "name": "Lope de Aguirre",
     "isWorthy": false,
     "episode": 168,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Lope de Aguirre"
   },
   {
     "name": "Al Capone",
     "isWorthy": false,
     "episode": 169,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Al Capone"
   },
   {
     "name": "Zelda Fitzgerald",
     "isWorthy": false,
     "episode": 170,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Zelda Fitzgerald"
   },
   {
     "name": "Calígula",
     "isWorthy": false,
     "episode": 171,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Calígula"
   },
   {
     "name": "Floquet de Neu",
     "isWorthy": false,
     "episode": 172,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Floquet de Neu"
   },
   {
     "name": "H.H. Holmes",
     "isWorthy": false,
     "episode": 173,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "H.H. Holmes"
   },
   {
     "name": "Sammy Davis Jr.",
     "isWorthy": false,
     "episode": 174,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Sammy Davis Jr."
   },
   {
     "name": "Genguis Kan",
     "isWorthy": false,
     "episode": 175,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Genguis Kan"
   },
   {
     "name": "Thomas More",
     "isWorthy": false,
     "episode": 176,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Thomas More"
   },
   {
     "name": "Maria Callas",
     "isWorthy": false,
     "episode": 177,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Maria Callas"
   },
   {
     "name": "Donald Crowhurst",
     "isWorthy": false,
     "episode": 178,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Donald Crowhurst"
   },
   {
     "name": "Baldomera Larra",
     "isWorthy": false,
     "episode": 179,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Baldomera Larra"
   },
   {
     "name": "Alfred Jarry",
     "isWorthy": false,
     "episode": 180,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Alfred Jarry"
   },
   {
     "name": "Luz Long",
     "isWorthy": false,
     "episode": 181,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Luz Long"
   },
   {
     "name": "William Wallace",
     "isWorthy": false,
     "episode": 182,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "William Wallace"
   },
   {
     "name": "Chris Kyle",
     "isWorthy": false,
     "episode": 183,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Chris Kyle"
   },
   {
     "name": "Joan Primer d’Anglaterra",
     "isWorthy": false,
     "episode": 184,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Joan Primer d’Anglaterra"
   },
   {
     "name": "Jesus de Natzaret",
     "isWorthy": false,
     "episode": 185,
     "season": 1,
-    "image": "/1626437136757.webp"
+    "image": "/1626437136757.webp",
+    "description": "",
+    "title": "Jesus de Natzaret"
   },
   {
     "name": "Frederick Barrett",
     "isWorthy": false,
     "episode": 1,
     "season": 2,
-    "image": "/1630513558051.webp"
+    "image": "/1630513558051.webp",
+    "description": "",
+    "title": "Frederick Barrett, el fogoner del Titanic"
   },
   {
     "name": "David Hahn",
     "isWorthy": false,
     "episode": 2,
     "season": 2,
-    "image": "/1630513625400.webp"
+    "image": "/1630513625400.webp",
+    "description": "",
+    "title": "David Hahn, el boy scout radioactiu"
   },
   {
     "name": "Shi Jian Qiao",
     "isWorthy": false,
     "episode": 3,
     "season": 2,
-    "image": "/1630513651828.webp"
+    "image": "/1630513651828.webp",
+    "description": "",
+    "title": "Shi Jian Qiao, la venjança se serveix freda"
   },
   {
     "name": "Carlos Gardel",
     "isWorthy": false,
     "episode": 4,
     "season": 2,
-    "image": "/1630574138568.webp"
+    "image": "/1630574138568.webp",
+    "description": "",
+    "title": "Carlos Gardel, el rei del tango"
   },
   {
     "name": "Walter Summerford",
     "isWorthy": false,
     "episode": 5,
     "season": 2,
-    "image": "/1630935938266.webp"
+    "image": "/1630935938266.webp",
+    "description": "",
+    "title": "Walter Summerford, perseguit pels llamps"
   },
   {
     "name": "Garbo",
     "isWorthy": false,
     "episode": 6,
     "season": 2,
-    "image": "/1631008861486.webp"
+    "image": "/1631008861486.webp",
+    "description": "",
+    "title": "Garbo, el James Bond a la catalana"
   },
   {
     "name": "Isabel II d’Espanya",
     "isWorthy": false,
     "episode": 7,
     "season": 2,
-    "image": "/1631097952439.webp"
+    "image": "/1631097952439.webp",
+    "description": "",
+    "title": "Isabel II d'Espanya, com més cosins, més endins"
   },
   {
     "name": "Patty Hearst",
     "isWorthy": false,
     "episode": 8,
     "season": 2,
-    "image": "/1631181634008.webp"
+    "image": "/1631181634008.webp",
+    "description": "",
+    "title": "Patty Hearst, la milionària hippy revolucionària comunista"
   },
   {
     "name": "Varg Vikernes",
     "isWorthy": false,
     "episode": 9,
     "season": 2,
-    "image": "/1631559323177.webp"
+    "image": "/1631559323177.webp",
+    "description": "",
+    "title": "Varg Vikernes, el pioner del Black Metall"
   },
   {
     "name": "Pol Pot",
     "isWorthy": false,
     "episode": 10,
     "season": 2,
-    "image": "/1631614542657.webp"
+    "image": "/1631614542657.webp",
+    "description": "",
+    "title": "Pol Pot, el dictador amb nom de grup d'animació infantil"
   },
   {
     "name": "Bonnie and Clyde",
     "isWorthy": false,
     "episode": 11,
     "season": 2,
-    "image": "/1631697360033.webp"
+    "image": "/1631697360033.webp",
+    "description": "",
+    "title": "Bonnie and Clyde, un amor de pel·lícula"
   },
   {
     "name": "Heinz Stücke",
     "isWorthy": false,
     "episode": 12,
     "season": 2,
-    "image": "/1631790653558.webp"
+    "image": "/1631790653558.webp",
+    "description": "",
+    "title": "Heinz Stücke, el boig de la bicicleta"
   },
   {
     "name": "Charles Goodyear",
     "isWorthy": false,
     "episode": 13,
     "season": 2,
-    "image": "/1632134761569.webp"
+    "image": "/1632134761569.webp",
+    "description": "",
+    "title": "Charles Goodyear, el del neumàtics Goodyear... més o menys"
   },
   {
     "name": "Rosa Luxemburg",
     "isWorthy": false,
     "episode": 14,
     "season": 2,
-    "image": "/1632219927331.webp"
+    "image": "/1632219927331.webp",
+    "description": "",
+    "title": "Rosa Luxemburg, la Rosa Roja"
   },
   {
     "name": "Ivan Milat",
     "isWorthy": false,
     "episode": 15,
     "season": 2,
-    "image": "/1632308140008.webp"
+    "image": "/1632308140008.webp",
+    "description": "",
+    "title": "Ivan Milat, l'assassí de motxillers"
   },
   {
     "name": "Anna Nicole Smith",
     "isWorthy": false,
     "episode": 16,
     "season": 2,
-    "image": "/1632313524259.webp"
+    "image": "/1632313524259.webp",
+    "description": "",
+    "title": "Anna Nicole Smith, una playmate de Texas"
   },
   {
     "name": "Francis Galton",
     "isWorthy": false,
     "episode": 17,
     "season": 2,
-    "image": "/1632745523623.webp"
+    "image": "/1632745523623.webp",
+    "description": "",
+    "title": "Francis Galton, l'home que ho mesurava tot"
   },
   {
     "name": "Primo Carnera",
     "isWorthy": false,
     "episode": 18,
     "season": 2,
-    "image": "/1632822062735.webp"
+    "image": "/1632822062735.webp",
+    "description": "",
+    "title": "Primo Carnera, el gegant assassí"
   },
   {
     "name": "Buffalo Bill",
     "isWorthy": false,
     "episode": 19,
     "season": 2,
-    "image": "/1632922807950.webp"
+    "image": "/1632922807950.webp",
+    "description": "",
+    "title": "Buffalo Bill, conegut pels catalans com a Bufa-li l'ull"
   },
   {
     "name": "Ramón Franco",
     "isWorthy": false,
     "episode": 20,
     "season": 2,
-    "image": "/1632918956276.webp"
+    "image": "/1632918956276.webp",
+    "description": "",
+    "title": "Ramón Franco, el germà d'Esquerra Republicana de Francisco Franco"
   },
   {
     "name": "Jiang Qing",
     "isWorthy": false,
     "episode": 21,
     "season": 2,
-    "image": "/1633355442492.webp"
+    "image": "/1633355442492.webp",
+    "description": "",
+    "title": "Jiang Qing, actriu frustrada, revolucionària maoista"
   },
   {
     "name": "Henri Désiré Landru",
     "isWorthy": false,
     "episode": 22,
     "season": 2,
-    "image": "/1633427753850.webp"
+    "image": "/1633427753850.webp",
+    "description": "",
+    "title": "Henri Désiré Landru, l'assassí de viudes"
   },
   {
     "name": "Papa Joan XII",
     "isWorthy": false,
     "episode": 23,
     "season": 2,
-    "image": "/1633518637480.webp"
+    "image": "/1633518637480.webp",
+    "description": "",
+    "title": "Papa Joan XII, prostitució i orgies al Vaticà"
   },
   {
     "name": "Phoolan Devi",
     "isWorthy": false,
     "episode": 24,
     "season": 2,
-    "image": "/1633606247339.webp"
+    "image": "/1633606247339.webp",
+    "description": "",
+    "title": "Phoolan Devi, la reina dels bandolers"
   },
   {
     "name": "Syd Barrett",
     "isWorthy": false,
     "episode": 25,
     "season": 2,
-    "image": "/1633951236029.webp"
+    "image": "/1633951236029.webp",
+    "description": "",
+    "title": "Syd Barrett, el Pink Floyd original"
   },
   {
     "name": "Simone de Beauvoir",
     "isWorthy": false,
     "episode": 26,
     "season": 2,
-    "image": "/1633951542530.webp"
+    "image": "/1633951542530.webp",
+    "description": "",
+    "title": "Simone de Beauvoir, relacions sexuals amb alumnes menors"
   },
   {
     "name": "Tom Thumb",
     "isWorthy": false,
     "episode": 27,
     "season": 2,
-    "image": "/1634119860418.webp"
+    "image": "/1634119860418.webp",
+    "description": "",
+    "title": "General Tom Thumb, un petit gran home"
   },
   {
     "name": "Girolamo Cardano",
     "isWorthy": false,
     "episode": 28,
     "season": 2,
-    "image": "/1634208059373.webp"
+    "image": "/1634208059373.webp",
+    "description": "",
+    "title": "Girolamo Cardano, un home del Renaixement"
   },
   {
     "name": "Yoshie Shiratori",
     "isWorthy": false,
     "episode": 29,
     "season": 2,
-    "image": "/1634580617924.webp"
+    "image": "/1634580617924.webp",
+    "description": "",
+    "title": "Yoshie Shiratori, escapar-se de la presó gràcies a una sopa"
   },
   {
     "name": "Chet Baker",
     "isWorthy": false,
     "episode": 30,
     "season": 2,
-    "image": "/1634639872404.webp"
+    "image": "/1634639872404.webp",
+    "description": "",
+    "title": "Chet Baker, el trompetista sense dents"
   },
   {
     "name": "James Wide",
     "isWorthy": false,
     "episode": 31,
     "season": 2,
-    "image": "/1634728846753.webp"
+    "image": "/1634728846753.webp",
+    "description": "",
+    "title": "James Wide, el Saltador, un home sense cames"
   },
   {
     "name": "Mildred Lisette Norman",
     "isWorthy": false,
     "episode": 32,
     "season": 2,
-    "image": "/1634813420186.webp"
+    "image": "/1634813420186.webp",
+    "description": "",
+    "title": "Mildred Lisette Norman, la iaia caminadora"
   },
   {
     "name": "Tarrare",
     "isWorthy": false,
     "episode": 33,
     "season": 2,
-    "image": "/1635168340764.webp"
+    "image": "/1635168340764.webp",
+    "description": "",
+    "title": "Tarrare, l'home que es menjava els gats i en vomitava la pell"
   },
   {
     "name": "Dorothea Puente",
     "isWorthy": false,
     "episode": 34,
     "season": 2,
-    "image": "/1635240700077.webp"
+    "image": "/1635240700077.webp",
+    "description": "",
+    "title": "Dorothea Puente, l'assassina de pensionistes"
   },
   {
     "name": "Àtila, rei dels huns",
     "isWorthy": false,
     "episode": 35,
     "season": 2,
-    "image": "/1635331260979.webp"
+    "image": "/1635331260979.webp",
+    "description": "",
+    "title": "Àtila, el rei dels huns. L'espasa de Mart"
   },
   {
     "name": "Trucanini",
     "isWorthy": false,
     "episode": 36,
     "season": 2,
-    "image": "/1635413430442.webp"
+    "image": "/1635413430442.webp",
+    "description": "",
+    "title": "Trucanini, l'última indígena tasmaniana"
   },
   {
     "name": "Cleòpatra",
     "isWorthy": false,
     "episode": 37,
     "season": 2,
-    "image": "/1635770441458.webp"
+    "image": "/1635770441458.webp",
+    "description": "",
+    "title": "Cleòpatra, l'última faraona d'Egipte"
   },
   {
     "name": "Mata Hari",
     "isWorthy": false,
     "episode": 38,
     "season": 2,
-    "image": "/1635858917728.webp"
+    "image": "/1635858917728.webp",
+    "description": "",
+    "title": "Mata Hari, l'espia dels balls exòtics"
   },
   {
     "name": "Troy Davis",
     "isWorthy": false,
     "episode": 39,
     "season": 2,
-    "image": "/1635936925816.webp"
+    "image": "/1635936925816.webp",
+    "description": "",
+    "title": "Troy Davis, tiroteig a la festa de la piscina"
   },
   {
     "name": "André el Gegant",
     "isWorthy": false,
     "episode": 40,
     "season": 2,
-    "image": "/1636020614361.webp"
+    "image": "/1636020614361.webp",
+    "description": "",
+    "title": "André el Gegant, el dolent més estimat de la WWWF"
   },
   {
     "name": "Bobby Fischer",
     "isWorthy": false,
     "episode": 41,
     "season": 2,
-    "image": "/1636377910926.webp"
+    "image": "/1636377910926.webp",
+    "description": "",
+    "title": "Booby Fischer, guerra freda al món dels escacs"
   },
   {
     "name": "Joana de Belleville",
     "isWorthy": false,
     "episode": 42,
     "season": 2,
-    "image": "/1636452937958.webp"
+    "image": "/1636452937958.webp",
+    "description": "",
+    "title": "Joana de Belleville, la Tigressa Bretona"
   },
   {
     "name": "Richard Ramirez",
     "isWorthy": false,
     "episode": 43,
     "season": 2,
-    "image": "/1636544419300.webp"
+    "image": "/1636544419300.webp",
+    "description": "",
+    "title": "Richard Ramírez, el protegit de Satanàs o The Night Stalker"
   },
   {
     "name": "Carlo Gesualdo",
     "isWorthy": false,
     "episode": 44,
     "season": 2,
-    "image": "/1636981522370.webp"
+    "image": "/1636981522370.webp",
+    "description": "",
+    "title": "Carlo Gesualdo, un home del Renaixement que va esquarterar la seva dona"
   },
   {
     "name": "George Armstrong Custer",
     "isWorthy": false,
     "episode": 45,
     "season": 2,
-    "image": "/1637061644787.webp"
+    "image": "/1637061644787.webp",
+    "description": "",
+    "title": "George Armstrong Custer va morir amb les botes posades"
   },
   {
     "name": "Roonie Brunswijk",
     "isWorthy": false,
     "episode": 46,
     "season": 2,
-    "image": "/1637148350147.webp"
+    "image": "/1637148350147.webp",
+    "description": "",
+    "title": "Ronnie Brunswijk, el Robin Hood de la selva"
   },
   {
     "name": "Shavarsh Karapetyan",
     "isWorthy": false,
     "episode": 47,
     "season": 2,
-    "image": "/1637161818374.webp"
+    "image": "/1637161818374.webp",
+    "description": "",
+    "title": "Shavarsh Karapetyan, un heroi armeni"
   },
   {
     "name": "Federico García Lorca",
     "isWorthy": false,
     "episode": 48,
     "season": 2,
-    "image": "/1636543874829.webp"
+    "image": "/1636543874829.webp",
+    "description": "",
+    "title": "Federico García Lorca, quan maten l'alcalde del poble, comencem a fer la maleta..."
   },
   {
     "name": "Fatty Arbuckle",
     "isWorthy": false,
     "episode": 49,
     "season": 2,
-    "image": "/1637595650825.webp"
+    "image": "/1637595650825.webp",
+    "description": "",
+    "title": "Fatty Arbuckle, el primer cas d'assassinat de l'star-system de Hollywood"
   },
   {
     "name": "William Shakespeare",
     "isWorthy": false,
     "episode": 50,
     "season": 2,
-    "image": "/1637595957206.webp"
+    "image": "/1637595957206.webp",
+    "description": "",
+    "title": "William Shakespeare, ser o no ser, aquest és el dilema"
   },
   {
     "name": "Nicolae Minovici",
     "isWorthy": false,
     "episode": 51,
     "season": 2,
-    "image": "/1637752239814.webp"
+    "image": "/1637752239814.webp",
+    "description": "",
+    "title": "Nicolae Minovici, estrangular-se de la manera més segura possible"
   },
   {
     "name": "Germanes Mirabal",
     "isWorthy": false,
     "episode": 52,
     "season": 2,
-    "image": "/1637836822234.webp"
+    "image": "/1637836822234.webp",
+    "description": "",
+    "title": "Germanes Mirabal, l'origen del Dia Internacional per a l'Eliminació de la Violència contra les Dones"
   },
   {
     "name": "Zhang Zongchang",
     "isWorthy": false,
     "episode": 53,
     "season": 2,
-    "image": "/1638189057623.webp"
+    "image": "/1638189057623.webp",
+    "description": "",
+    "title": "Zhang Zongchang, el del canó del 72"
   },
   {
     "name": "Sid Vicious",
     "isWorthy": false,
     "episode": 54,
     "season": 2,
-    "image": "/1638268527678.webp"
+    "image": "/1638268527678.webp",
+    "description": "",
+    "title": "Sid Vicious, el punk original"
   },
   {
     "name": "Annie Jones",
     "isWorthy": false,
     "episode": 55,
     "season": 2,
-    "image": "/1638355552837.webp"
+    "image": "/1638355552837.webp",
+    "description": "",
+    "title": "Annie Jones, amb tots vostès... la dona barbuda!"
   },
   {
     "name": "Karl Tanzler",
     "isWorthy": false,
     "episode": 56,
     "season": 2,
-    "image": "/1638374126812.webp"
+    "image": "/1638374126812.webp",
+    "description": "",
+    "title": "Karl Tansler, aparicions d'una tieta morta"
   },
   {
     "name": "Cayetano Santos Godino",
     "isWorthy": false,
     "episode": 57,
     "season": 2,
-    "image": "/1638796566955.webp"
+    "image": "/1638796566955.webp",
+    "description": "",
+    "title": "Cayetano Santos Godino, el Petiso Orejudo"
   },
   {
     "name": "Barbanegra",
     "isWorthy": false,
     "episode": 58,
     "season": 2,
-    "image": "/1638796860484.webp"
+    "image": "/1638796860484.webp",
+    "description": "",
+    "title": "Barbanegra s'encenia la barba durant els combats"
   },
   {
     "name": "Liudmila Pavlitxenko",
     "isWorthy": false,
     "episode": 59,
     "season": 2,
-    "image": "/1638896485389.webp"
+    "image": "/1638896485389.webp",
+    "description": "",
+    "title": "Liudmila Pavlitxenko, la franctiradora russa més letal"
   },
   {
     "name": "Kary Mullis",
     "isWorthy": false,
     "episode": 60,
     "season": 2,
-    "image": "/1639048838601.webp"
+    "image": "/1639048838601.webp",
+    "description": "",
+    "title": "Kary Mullis, inventor de la PCR"
   },
   {
     "name": "Pablo Escobar",
     "isWorthy": false,
     "episode": 61,
     "season": 2,
-    "image": "/1639406414582.webp"
+    "image": "/1639406414582.webp",
+    "description": "",
+    "title": "Pablo Escobar, plata o plom"
   },
   {
     "name": "Lindy Chamberlain",
     "isWorthy": false,
     "episode": 62,
     "season": 2,
-    "image": "/1639406741001.webp"
+    "image": "/1639406741001.webp",
+    "description": "",
+    "title": "Lindy Chamberlain: A dingo ate my baby!"
   },
   {
     "name": "Sam l’Insubmergible",
     "isWorthy": false,
     "episode": 63,
     "season": 2,
-    "image": "/1639653008082.webp"
+    "image": "/1639653008082.webp",
+    "description": "",
+    "title": "Sam l'Insubmergible, protagonista d'una cançó d'Albert Pla"
   },
   {
     "name": "Walt Disney",
     "isWorthy": false,
     "episode": 64,
     "season": 2,
-    "image": "/1639565710610.webp"
+    "image": "/1639565710610.webp",
+    "description": "",
+    "title": "Walt Disney, no, no està criogenitzat"
   },
   {
     "name": "Caterina de Mèdici",
     "isWorthy": false,
     "episode": 65,
     "season": 2,
-    "image": "/1640015123951.webp"
+    "image": "/1640015123951.webp",
+    "description": "",
+    "title": "Caterina de Mèdici, l'òrfena de Florència"
   },
   {
     "name": "Anne Bonny",
     "isWorthy": false,
     "episode": 66,
     "season": 2,
-    "image": "/1640179259273.webp"
+    "image": "/1640179259273.webp",
+    "description": "",
+    "title": "Anne Bonny, la pirata esnob"
   },
   {
     "name": "Vissarion",
     "isWorthy": false,
     "episode": 67,
     "season": 2,
-    "image": "/1640179259736.webp"
+    "image": "/1640179259736.webp",
+    "description": "",
+    "title": "Vissarion, el Jesucrist rus"
   },
   {
     "name": "Hajime Fuji",
     "isWorthy": false,
     "episode": 68,
     "season": 2,
-    "image": "/1640021455248.webp"
+    "image": "/1640021455248.webp",
+    "description": "",
+    "title": "Hajime Fuji, el noi que volia volar"
   },
   {
     "name": "Mary Read",
     "isWorthy": false,
     "episode": 69,
     "season": 2,
-    "image": "/1640616042881.webp"
+    "image": "/1640616042881.webp",
+    "description": "",
+    "title": "Mary Read, l'amiga de la pirata esnob"
   },
   {
-    "name": "Maria I d\"Escòcia",
+    "name": "Maria I d'Escòcia",
     "isWorthy": false,
     "episode": 70,
     "season": 2,
-    "image": "/1640693743383.webp"
+    "image": "/1640693743383.webp",
+    "description": "",
+    "title": "Maria I d'Escòcia, Queen of Scots (no s'ha de confondre amb la Bloody Mary, que també la farem)"
   },
   {
     "name": "John Corcoran",
     "isWorthy": false,
     "episode": 71,
     "season": 2,
-    "image": "/1640773829809.webp"
+    "image": "/1640773829809.webp",
+    "description": "",
+    "title": "John Corcoran, el professor analfabet"
   },
   {
     "name": "Joan Gamper",
     "isWorthy": false,
     "episode": 72,
     "season": 2,
-    "image": "/1640860813979.webp"
+    "image": "/1640860813979.webp",
+    "description": "",
+    "title": "Joan Gamper: fundador, capità i davanter del FCB"
   },
   {
     "name": "Alfred Dreyfus",
     "isWorthy": false,
     "episode": 73,
     "season": 2,
-    "image": "/1641226848864.webp"
+    "image": "/1641226848864.webp",
+    "description": "",
+    "title": "Alfred Dreyfus, el del famós cas Dreyfus"
   },
   {
     "name": "Paul Schäfer",
     "isWorthy": false,
     "episode": 74,
     "season": 2,
-    "image": "/1641228360987.webp"
+    "image": "/1641228360987.webp",
+    "description": "",
+    "title": "Paul Schäfer, bàsicament, un nazi pedòfil"
   },
   {
     "name": "Puyi",
     "isWorthy": false,
     "episode": 75,
     "season": 2,
-    "image": "/1641300013654.webp"
+    "image": "/1641300013654.webp",
+    "description": "",
+    "title": "Puyi, l'últim emperador de la Xina"
   },
   {
     "name": "Harland Sanders",
     "isWorthy": false,
     "episode": 76,
     "season": 2,
-    "image": "/1641299709313.webp"
+    "image": "/1641299709313.webp",
+    "description": "",
+    "title": "Harland Sanders, el fundador de KFC"
   },
   {
     "name": "Frank Lentini",
     "isWorthy": false,
     "episode": 77,
     "season": 2,
-    "image": "/1641830715207.webp"
+    "image": "/1641830715207.webp",
+    "description": "",
+    "title": "Frank Lentini, el trípode humà"
   },
   {
     "name": "Dorothy Lawrence",
     "isWorthy": false,
     "episode": 78,
     "season": 2,
-    "image": "/1641899107176.webp"
+    "image": "/1641899107176.webp",
+    "description": "",
+    "title": "Dorothy Lawrence, reportera de guerra independent"
   },
   {
     "name": "Greta Garbo",
     "isWorthy": false,
     "episode": 79,
     "season": 2,
-    "image": "/1641981362769.webp"
+    "image": "/1641981362769.webp",
+    "description": "",
+    "title": "Greta Garbo, la diva de Hollywood"
   },
   {
     "name": "Roger de Flor",
     "isWorthy": false,
     "episode": 80,
     "season": 2,
-    "image": "/1642071364545.webp"
+    "image": "/1642071364545.webp",
+    "description": "",
+    "title": "Roger de Flor, desperta ferro!"
   },
   {
     "name": "Isaac Newton",
     "isWorthy": false,
     "episode": 81,
     "season": 2,
-    "image": "/1642419350194.webp"
+    "image": "/1642419350194.webp",
+    "description": "",
+    "title": "Isaac Newton, per què ha caigut la poma?"
   },
   {
     "name": "Calamity Jane",
     "isWorthy": false,
     "episode": 82,
     "season": 2,
-    "image": "/1642434606994.webp"
+    "image": "/1642434606994.webp",
+    "description": "",
+    "title": "Calamity Jane, una autèntica calamitat"
   },
   {
     "name": "Pedro González de Velasco",
     "isWorthy": false,
     "episode": 83,
     "season": 2,
-    "image": "/1642597849451.webp"
+    "image": "/1642597849451.webp",
+    "description": "",
+    "title": "Pedro González de Velasco, un estudiós de l'anatomia humana"
   },
   {
     "name": "Germans Bogdanoff",
     "isWorthy": false,
     "episode": 84,
     "season": 2,
-    "image": "/1642597553245.webp"
+    "image": "/1642597553245.webp",
+    "description": "",
+    "title": "Germans Bogdanoff, els germans antiagulles"
   },
   {
     "name": "Joan de Serrallonga",
     "isWorthy": false,
     "episode": 85,
     "season": 2,
-    "image": "/1643037935580.webp"
+    "image": "/1643037935580.webp",
+    "description": "",
+    "title": "Joan de Serrallonga, el bandoler més temut de Catalunya"
   },
   {
     "name": "Mehran Karimi Nasseri",
     "isWorthy": false,
     "episode": 86,
     "season": 2,
-    "image": "/1643108748016.webp"
+    "image": "/1643108748016.webp",
+    "description": "",
+    "title": "Mehran Karimi Nasseri, 18 anys vivint en un aeroport"
   },
   {
     "name": "Emmeline Pankhurst",
     "isWorthy": false,
     "episode": 87,
     "season": 2,
-    "image": "/1643196629335.webp"
+    "image": "/1643196629335.webp",
+    "description": "",
+    "title": "Emmeline Pankhurst, la líder de les suffragettes"
   },
   {
     "name": "Mariya Oktyabrskaya",
     "isWorthy": false,
     "episode": 88,
     "season": 2,
-    "image": "/1643279121848.webp"
+    "image": "/1643279121848.webp",
+    "description": "",
+    "title": "Mariya Oktyabrskaya, Mariya la del tanc"
   },
   {
     "name": "Mike Miracle",
     "isWorthy": false,
     "episode": 89,
     "season": 2,
-    "image": "/1643649624285.webp"
+    "image": "/1643649624285.webp",
+    "description": "",
+    "title": "Mike Miracle, el pollastre sense cap"
   },
   {
     "name": "La Pasionaria",
     "isWorthy": false,
     "episode": 90,
     "season": 2,
-    "image": "/1643714114486.webp"
+    "image": "/1643714114486.webp",
+    "description": "",
+    "title": "La Pasionaria, no passaran!"
   },
   {
     "name": "Miyamoto Musashi",
     "isWorthy": false,
     "episode": 91,
     "season": 2,
-    "image": "/1643802045024.webp"
+    "image": "/1643802045024.webp",
+    "description": "",
+    "title": "Miyamoto Musashi, el samurai de la catana de fusta"
   },
   {
     "name": "Johann Trollman",
     "isWorthy": false,
     "episode": 92,
     "season": 2,
-    "image": "/1643886062718.webp"
+    "image": "/1643886062718.webp",
+    "description": "",
+    "title": "Johann Trollmann, Rukeli, el boxejador que es va burlar dels nazis"
   },
   {
     "name": "Miki Dora",
     "isWorthy": false,
     "episode": 93,
     "season": 2,
-    "image": "/1644244259577.webp"
+    "image": "/1644244259577.webp",
+    "description": "",
+    "title": "Miki Dora, el surfista nazi"
   },
   {
     "name": "Osho",
     "isWorthy": false,
     "episode": 94,
     "season": 2,
-    "image": "/1644244546745.webp"
+    "image": "/1644244546745.webp",
+    "description": "",
+    "title": "Osho, el guru del sexe"
   },
   {
     "name": "Charles Albright",
     "isWorthy": false,
     "episode": 95,
     "season": 2,
-    "image": "/1644245186388.webp"
+    "image": "/1644245186388.webp",
+    "description": "",
+    "title": "Charles Albright, Eyeball Killer"
   },
   {
     "name": "Josep Maria Tarradellas",
     "isWorthy": false,
     "episode": 96,
     "season": 2,
-    "image": "/1644577835694.webp"
+    "image": "/1644577835694.webp",
+    "description": "",
+    "title": "Josep Maria Tarradellas, l'inventor de la ràdio era CATALÀ!"
   },
   {
     "name": "Ángel Alcázar de Velasco",
     "isWorthy": false,
     "episode": 97,
     "season": 2,
-    "image": "/1644845420131.webp"
+    "image": "/1644845420131.webp",
+    "description": "",
+    "title": "Ángel Alcázar de Velasco, l'espia feixista que va intentar assassinar Francisco Franco"
   },
   {
     "name": "Dylan Thomas",
     "isWorthy": false,
     "episode": 98,
     "season": 2,
-    "image": "/1644920452279.webp"
+    "image": "/1644920452279.webp",
+    "description": "",
+    "title": "Dylan Thomas, el gal·lès més borratxo de tots (que ja és dir)"
   },
   {
     "name": "Luka Magnotta",
     "isWorthy": false,
     "episode": 99,
     "season": 2,
-    "image": "/1645017027241.webp"
+    "image": "/1645017027241.webp",
+    "description": "",
+    "title": "Luka Magnotta, one lunatic, one ice peak"
   },
   {
     "name": "Idi Amin",
     "isWorthy": false,
     "episode": 100,
     "season": 2,
-    "image": "/1645017027636.webp"
+    "image": "/1645017027636.webp",
+    "description": "",
+    "title": "Idi Amin, el dictador caníbal d'Uganda"
   },
   {
     "name": "Daniel Lambert",
     "isWorthy": false,
     "episode": 101,
     "season": 2,
-    "image": "/1645463132513.webp"
+    "image": "/1645463132513.webp",
+    "description": "",
+    "title": "Daniel Lambert, l'home més gras del món"
   },
   {
     "name": "Georgia Tann",
     "isWorthy": false,
     "episode": 102,
     "season": 2,
-    "image": "/1645528230771.webp"
+    "image": "/1645528230771.webp",
+    "description": "",
+    "title": "Georgia Tann, el monstre de l'orfenat"
   },
   {
     "name": "Dustin Diamond",
     "isWorthy": false,
     "episode": 103,
     "season": 2,
-    "image": "/1645619761190.webp"
+    "image": "/1645619761190.webp",
+    "description": "",
+    "title": "Dustin Diamond, el boig de Salvados por la campana"
   },
   {
     "name": "Napoleó Bonaparte",
     "isWorthy": false,
     "episode": 104,
     "season": 2,
-    "image": "/1645699836193.webp"
+    "image": "/1645699836193.webp",
+    "description": "",
+    "title": "Napoleó Bonaparte, el petit gran home"
   },
   {
     "name": "El Vaquilla",
     "isWorthy": false,
     "episode": 105,
     "season": 2,
-    "image": "/1646086831063.webp"
+    "image": "/1646086831063.webp",
+    "description": "",
+    "title": "El Vaquilla, el terror de Barcelona, l'inspirador del cinema quinqui"
   },
   {
     "name": "Ricard III d’Anglaterra",
     "isWorthy": false,
     "episode": 106,
     "season": 2,
-    "image": "/1646126723537.webp"
+    "image": "/1646126723537.webp",
+    "description": "",
+    "title": "Ricard III d'Anglaterra, el rei amb escoliosi, el botxí dels Lancaster"
   },
   {
     "name": "Ulrike Meinhof",
     "isWorthy": false,
     "episode": 107,
     "season": 2,
-    "image": "/1646221809159.webp"
+    "image": "/1646221809159.webp",
+    "description": "",
+    "title": "Ulrike Meinhof, la líder del grup terrorista Fracció de l'Exèrcit Roig"
   },
   {
     "name": "Wild Bill Hickok",
     "isWorthy": false,
     "episode": 108,
     "season": 2,
-    "image": "/1646305542597.webp"
+    "image": "/1646305542597.webp",
+    "description": "",
+    "title": "Wild Bill Hickok, dos vuits i dos asos: la mà de l'home mort"
   },
   {
     "name": "Claude François",
     "isWorthy": false,
     "episode": 109,
     "season": 2,
-    "image": "/1646658930246.webp"
+    "image": "/1646658930246.webp",
+    "description": "",
+    "title": "Claude François, el personatge amb la mort més absurda que hem vist fins ara"
   },
   {
     "name": "Valerie Solanas",
     "isWorthy": false,
     "episode": 110,
     "season": 2,
-    "image": "/1646736353747.webp"
+    "image": "/1646736353747.webp",
+    "description": "",
+    "title": "Valerie Solanas, la ultrafeminista que va disparar a Andy Warhol"
   },
   {
     "name": "Pedro Rodrigues Filho",
     "isWorthy": false,
     "episode": 111,
     "season": 2,
-    "image": "/1646834766174.webp"
+    "image": "/1646834766174.webp",
+    "description": "",
+    "title": "Pedro Rodrigues Filho, Pedrinho matador. L'assassí d'assassins"
   },
   {
     "name": "Ignaz Semmelweis",
     "isWorthy": false,
     "episode": 112,
     "season": 2,
-    "image": "/1646908815210.webp"
+    "image": "/1646908815210.webp",
+    "description": "",
+    "title": "Ignaz Semmelweis, el promotor del rentat de mans als quiròfans"
   },
   {
     "name": "Isaac William Sprague",
     "isWorthy": false,
     "episode": 113,
     "season": 2,
-    "image": "/1647274817753.webp"
+    "image": "/1647274817753.webp",
+    "description": "",
+    "title": "Isaac William Sprague, l'increïble esquelet vivent!"
   },
   {
     "name": "Leopold II",
     "isWorthy": false,
     "episode": 114,
     "season": 2,
-    "image": "/1647275116690.webp"
+    "image": "/1647275116690.webp",
+    "description": "",
+    "title": "Leopold II, l'imperi de les mans tallades"
   },
   {
     "name": "Alvin Karpis",
     "isWorthy": false,
     "episode": 115,
     "season": 2,
-    "image": "/1647428177105.webp"
+    "image": "/1647428177105.webp",
+    "description": "",
+    "title": "Alvin Karpis, el gàngster canadenc que va morir a Torremolinos"
   },
   {
     "name": "Cicciolina",
     "isWorthy": false,
     "episode": 116,
     "season": 2,
-    "image": "/1647516064267.webp"
+    "image": "/1647516064267.webp",
+    "description": "",
+    "title": "Cicciolina, la diputada que va oferir sexe a Bin Laden a canvi de la pau mundial"
   },
   {
     "name": "Grady Stiles",
     "isWorthy": false,
     "episode": 117,
     "season": 2,
-    "image": "/1647879921464.webp"
+    "image": "/1647879921464.webp",
+    "description": "",
+    "title": "Grady Stiles, l'assassí mans de llagosta!"
   },
   {
     "name": "Pablo Picasso",
     "isWorthy": false,
     "episode": 118,
     "season": 2,
-    "image": "/1647888651682.webp"
+    "image": "/1647888651682.webp",
+    "description": "",
+    "title": "Pablo Picasso, ereccions que duraven hores, sfx miracle 2"
   },
   {
     "name": "Boudica",
     "isWorthy": false,
     "episode": 119,
     "season": 2,
-    "image": "/1648033831927.webp"
+    "image": "/1648033831927.webp",
+    "description": "",
+    "title": "Boudica, feia servir una llebre per planejar les batalles"
   },
   {
     "name": "Mercy Brown",
     "isWorthy": false,
     "episode": 120,
     "season": 2,
-    "image": "/1648119669218.webp"
+    "image": "/1648119669218.webp",
+    "description": "",
+    "title": "Mercy Brown, la família de vampirs tuberculosos de Rhode Island"
   },
   {
     "name": "Lewis Howard Latimer",
     "isWorthy": false,
     "episode": 121,
     "season": 2,
-    "image": "/1648467059168.webp"
+    "image": "/1648467059168.webp",
+    "description": "",
+    "title": "Lewis Howard Latimer, l'inventor d'una increïble màquina per guardar barrets!"
   },
   {
     "name": "Wolfgang Amadeus Mozart",
     "isWorthy": false,
     "episode": 122,
     "season": 2,
-    "image": "/1648547748285.webp"
+    "image": "/1648547748285.webp",
+    "description": "",
+    "title": "Mozart, va gastar més diners enterrant el seu estimat ocell que el seu pare"
   },
   {
     "name": "Francis Bacon",
     "isWorthy": false,
     "episode": 123,
     "season": 2,
-    "image": "/1648635027488.webp"
+    "image": "/1648635027488.webp",
+    "description": "",
+    "title": "Francis Bacon va morir per culpa d'un pollastre congelat"
   },
   {
     "name": "Frederica Montseny",
     "isWorthy": false,
     "episode": 124,
     "season": 2,
-    "image": "/1705074926451.webp"
+    "image": "/1705074926451.webp",
+    "description": "",
+    "title": "Frederica Montseny, ministra de Sanitat durant la Guerra Civil, anarquista i llibertària"
   },
   {
     "name": "Hellé Nice",
     "isWorthy": false,
     "episode": 125,
     "season": 2,
-    "image": "/1649071869991.webp"
+    "image": "/1649071869991.webp",
+    "description": "",
+    "title": "Hellé Nice, la pilot de Bugatti que va acabar barallant-se amb gats de carrer"
   },
   {
     "name": "Caterina la Gran",
     "isWorthy": false,
     "episode": 126,
     "season": 2,
-    "image": "/1649153122666.webp"
+    "image": "/1649153122666.webp",
+    "description": "",
+    "title": "Caterina la Gran, la inventora de la muntanya russa!"
   },
   {
     "name": "Patrice Lumumba",
     "isWorthy": false,
     "episode": 127,
     "season": 2,
-    "image": "/1649238021349.webp"
+    "image": "/1649238021349.webp",
+    "description": "",
+    "title": "Patrice Lumumba, independentista congolès i anticolonialista, cruelment assassinat"
   },
   {
     "name": "Dina Sanichar",
     "isWorthy": false,
     "episode": 128,
     "season": 2,
-    "image": "/1649326531145.webp"
+    "image": "/1649326531145.webp",
+    "description": "",
+    "title": "Dina Sanichar, el nen llop!"
   },
   {
     "name": "John Dillinger",
     "isWorthy": false,
     "episode": 129,
     "season": 2,
-    "image": "/1649691955484.webp"
+    "image": "/1649691955484.webp",
+    "description": "",
+    "title": "ohn Dillinger, misteri al voltant de la seva mort. L'home que van cosir a trets potser no era ell"
   },
   {
     "name": "Évariste Galois",
     "isWorthy": false,
     "episode": 130,
     "season": 2,
-    "image": "/1650378313497.webp"
+    "image": "/1650378313497.webp",
+    "description": "",
+    "title": "Évariste Galois, el matemàtic que va morir en un duel"
   },
   {
     "name": "Tsutomu Yamaguchi",
     "isWorthy": false,
     "episode": 131,
     "season": 2,
-    "image": "/1649757924552.webp"
+    "image": "/1649757924552.webp",
+    "description": "",
+    "title": "Tsutomu Yamaguchi, supervivent de les dues bombes atòmiques"
   },
   {
     "name": "Salvador Dalí",
     "isWorthy": false,
     "episode": 132,
     "season": 2,
-    "image": "/1649863849854.webp"
+    "image": "/1649863849854.webp",
+    "description": "",
+    "title": "Salvador Dalí, el de les formigues a la tita, segons en Peyu"
   },
   {
     "name": "John Bobbit",
     "isWorthy": false,
     "episode": 133,
     "season": 2,
-    "image": "/1649859618431.webp"
+    "image": "/1649859618431.webp",
+    "description": "",
+    "title": "John Bobbit, l'actor porno del penis tallat"
   },
   {
     "name": "Nathan Hale",
     "isWorthy": false,
     "episode": 134,
     "season": 2,
-    "image": "/1649962849438.webp"
+    "image": "/1649962849438.webp",
+    "description": "",
+    "title": "Nathan Hale, l'espia que es va sacrificar pel seu país"
   },
   {
     "name": "Cher Ami",
     "isWorthy": false,
     "episode": 135,
     "season": 2,
-    "image": "/1650461475980.webp"
+    "image": "/1650461475980.webp",
+    "description": "",
+    "title": "Cher Ami, el soldat més valent de la Signal Corps"
   },
   {
     "name": "Fiódor Dostoievski",
     "isWorthy": false,
     "episode": 136,
     "season": 2,
-    "image": "/1650534044854.webp"
+    "image": "/1650534044854.webp",
+    "description": "",
+    "title": "Fiódor Dostoievski, a punt de ser afusellat i empresonat a Sibèria"
   },
   {
     "name": "Dora Ratjen",
     "isWorthy": false,
     "episode": 137,
     "season": 2,
-    "image": "/1650890133721.webp"
+    "image": "/1650890133721.webp",
+    "description": "",
+    "title": "Dora Ratjen, l'atleta transvestit del Tercer Reich"
   },
   {
     "name": "Kéops",
     "isWorthy": false,
     "episode": 138,
     "season": 2,
-    "image": "/1651075547810.webp"
+    "image": "/1651075547810.webp",
+    "description": "",
+    "title": "Kéops, el faraó quinqui"
   },
   {
     "name": "Henry Morgan",
     "isWorthy": false,
     "episode": 139,
     "season": 2,
-    "image": "/1651056935472.webp"
+    "image": "/1651056935472.webp",
+    "description": "",
+    "title": "Henry Morgan, el pirata més odiat pels espanyols"
   },
   {
     "name": "Anatoly Moskvin",
     "isWorthy": false,
     "episode": 140,
     "season": 2,
-    "image": "/1651136162452.webp"
+    "image": "/1651136162452.webp",
+    "description": "",
+    "title": "Anatoly Moskvin, casat amb una morta quan tenia 11 anys"
   },
   {
     "name": "Anna Bolena",
     "isWorthy": false,
     "episode": 141,
     "season": 2,
-    "image": "/1651498235196.webp"
+    "image": "/1651498235196.webp",
+    "description": "",
+    "title": "Anna Bolena, decapitada per adulteri, incest i traïció"
   },
   {
     "name": "William Johnson, Zip the Pinhead",
     "isWorthy": false,
     "episode": 142,
     "season": 2,
-    "image": "/1651573222723.webp"
+    "image": "/1651573222723.webp",
+    "description": "",
+    "title": "William Johnson, Zip the Pinhead"
   },
   {
     "name": "Mariam Sulakiotis",
     "isWorthy": false,
     "episode": 143,
     "season": 2,
-    "image": "/1651665348858.webp"
+    "image": "/1651665348858.webp",
+    "description": "",
+    "title": "Mariam Soulakiotis, la monja grega líder d'una secta que cuidava tuberculosos"
   },
   {
     "name": "Marilyn Manson",
     "isWorthy": false,
     "episode": 144,
     "season": 2,
-    "image": "/1651748128695.webp"
+    "image": "/1651748128695.webp",
+    "description": "",
+    "title": "Marilyn Manson, és veritat que es va arrencar l'ull amb una cullera?"
   },
   {
     "name": "Stefania Podgorska",
     "isWorthy": false,
     "episode": 145,
     "season": 2,
-    "image": "/1652098851542.webp"
+    "image": "/1652098851542.webp",
+    "description": "",
+    "title": "Stefania Podgorska va amagar 13 jueus a l'àtic i el seu veí era un oficial de les SS"
   },
   {
     "name": "Abebe Bikila",
     "isWorthy": false,
     "episode": 146,
     "season": 2,
-    "image": "/1652174758609.webp"
+    "image": "/1652174758609.webp",
+    "description": "",
+    "title": "Abebe Bikila guanya la marató i fa or olímpic corrent sense sabates"
   },
   {
     "name": "Walter Freeman",
     "isWorthy": false,
     "episode": 147,
     "season": 2,
-    "image": "/1652268346248.webp"
+    "image": "/1652268346248.webp",
+    "description": "",
+    "title": "Walter Freeman, el doctor picagel"
   },
   {
     "name": "Giorgio Rosa",
     "isWorthy": false,
     "episode": 148,
     "season": 2,
-    "image": "/1652349950979.webp"
+    "image": "/1652349950979.webp",
+    "description": "",
+    "title": "Giorgio Rosa, l'empresari italià propietari d'una illa artificial independent"
   },
   {
     "name": "Ana Mendieta",
     "isWorthy": false,
     "episode": 149,
     "season": 2,
-    "image": "/1652710242992.webp"
+    "image": "/1652710242992.webp",
+    "description": "",
+    "title": "Ana Mendieta, The staircase, però sense escales"
   },
   {
     "name": "Ed Gein",
     "isWorthy": false,
     "episode": 150,
     "season": 2,
-    "image": "/1652780762817.webp"
+    "image": "/1652780762817.webp",
+    "description": "",
+    "title": "Ed Gein: La matança de Texas es va inspirar en aquest senyor"
   },
   {
     "name": "Carlos Henrique Raposo",
     "isWorthy": false,
     "episode": 151,
     "season": 2,
-    "image": "/1652870770843.webp"
+    "image": "/1652870770843.webp",
+    "description": "",
+    "title": "Carlos Enrique Raposo, el futbolista brasiler que no sabia jugar a futbol"
   },
   {
     "name": "Marcos Rodríguez Pantoja",
     "isWorthy": false,
     "episode": 152,
     "season": 2,
-    "image": "/1653474641495.webp"
+    "image": "/1653474641495.webp",
+    "description": "",
+    "title": "Marcos Rodríguez Pantoja, el nen llop espanyol!"
   },
   {
     "name": "Ernest Shackleton",
     "isWorthy": false,
     "episode": 153,
     "season": 2,
-    "image": "/1652951767601.webp"
+    "image": "/1652951767601.webp",
+    "description": "",
+    "title": "Ernest Shackleton, l'explorador irlandès borratxo"
   },
   {
     "name": "Baby Face Nelson",
     "isWorthy": false,
     "episode": 154,
     "season": 2,
-    "image": "/1653304231412.webp"
+    "image": "/1653304231412.webp",
+    "description": "",
+    "title": "Baby Face Nelson, l'últim home dempeus. sfx tommy gun"
   },
   {
     "name": "Emperadriu Sissí",
     "isWorthy": false,
     "episode": 155,
     "season": 2,
-    "image": "/1653385805859.webp"
+    "image": "/1653385805859.webp",
+    "description": "",
+    "title": "Emperadriu Sissí, un anarquista li va trencar el cor, literalment"
   },
   {
     "name": "Charles Ingram",
     "isWorthy": false,
     "episode": 156,
     "season": 2,
-    "image": "/1653561331638.webp"
+    "image": "/1653561331638.webp",
+    "description": "",
+    "title": "Charles Ingram, exsoldat britànic i estafador televisiu"
   },
   {
     "name": "Robert Durst",
     "isWorthy": false,
     "episode": 157,
     "season": 2,
-    "image": "/1653928262218.webp"
+    "image": "/1653928262218.webp",
+    "description": "",
+    "title": "Robert Durst, condemnat perquè es va deixar el micròfon de corbata obert"
   },
   {
     "name": "Hildegarda de Bingen",
     "isWorthy": false,
     "episode": 158,
     "season": 2,
-    "image": "/1653991828555.webp"
+    "image": "/1653991828555.webp",
+    "description": "",
+    "title": "Hildegarda de Bingen, la santa que veia visions celestials"
   },
   {
     "name": "Samuel Gilbert Scott",
     "isWorthy": false,
     "episode": 159,
     "season": 2,
-    "image": "/1654081229473.webp"
+    "image": "/1654081229473.webp",
+    "description": "",
+    "title": "Samuel Gilbert Scott saltava ponts amb una corda lligada al coll?"
   },
   {
     "name": "Papusza",
     "isWorthy": false,
     "episode": 160,
     "season": 2,
-    "image": "/1654164948261.webp"
+    "image": "/1654164948261.webp",
+    "description": "",
+    "title": "Papusza, la primera poeta gitana"
   },
   {
     "name": "Barbara La Marr",
     "isWorthy": false,
     "episode": 161,
     "season": 2,
-    "image": "/1654263318836.webp"
+    "image": "/1654263318836.webp",
+    "description": "",
+    "title": "Barbara La Marr es va menjar el cuc de la solitària per aprimar-se"
   },
   {
     "name": "Kenneth Bianchi",
     "isWorthy": false,
     "episode": 162,
     "season": 2,
-    "image": "/1654616117049.webp"
+    "image": "/1654616117049.webp",
+    "description": "",
+    "title": "Kenneth Bianchi, l'estrangulador de Hillside"
   },
   {
     "name": "Carlos Fitzcarrald",
     "isWorthy": false,
     "episode": 163,
     "season": 2,
-    "image": "/1654679430892.webp"
+    "image": "/1654679430892.webp",
+    "description": "",
+    "title": "Carlos Fitzcarrald, el rei del cautxú"
   },
   {
     "name": "Prince Randian",
     "isWorthy": false,
     "episode": 164,
     "season": 2,
-    "image": "/1654770028601.webp"
+    "image": "/1654770028601.webp",
+    "description": "",
+    "title": "Prince Randian, el tors humà! sfx cop trompeta circ"
   },
   {
     "name": "Lovett Fort-Whiteman",
     "isWorthy": false,
     "episode": 165,
     "season": 2,
-    "image": "/1655132449303.webp"
+    "image": "/1655132449303.webp",
+    "description": "",
+    "title": "Lovett Fort-Whiteman, El més roig dels negres, segons la revista Time"
   },
   {
     "name": "Zogú I d’Albània",
     "isWorthy": false,
     "episode": 166,
     "season": 2,
-    "image": "/1655201107772.webp"
+    "image": "/1655201107772.webp",
+    "description": "",
+    "title": "Zogú I d'Albània, el rei dels albanesos. 600 enemics i 55 intents d'assassinat"
   },
   {
     "name": "La Nacha",
     "isWorthy": false,
     "episode": 167,
     "season": 2,
-    "image": "/1655289959538.webp"
+    "image": "/1655289959538.webp",
+    "description": "",
+    "title": "La Nacha, l'àvia narcotraficant"
   },
   {
     "name": "Jack Lucas",
     "isWorthy": false,
     "episode": 168,
     "season": 2,
-    "image": "/1655371514983.webp"
+    "image": "/1655371514983.webp",
+    "description": "",
+    "title": "Jack Lucas es va fotre sobre una granada per salvar els seus companys. Va sobreviure"
   },
   {
     "name": "Bela Lugosi",
     "isWorthy": false,
     "episode": 169,
     "season": 2,
-    "image": "/1655737234786.webp"
+    "image": "/1655737234786.webp",
+    "description": "",
+    "title": "Bela Lugosi, l'actor més encasellat de tots els temps"
   },
   {
     "name": "Mary Bell",
     "isWorthy": false,
     "episode": 170,
     "season": 2,
-    "image": "/1655807732640.webp"
+    "image": "/1655807732640.webp",
+    "description": "",
+    "title": "Mary Bell, la nena assassina"
   },
   {
     "name": "Vo Thi Mo",
     "isWorthy": false,
     "episode": 171,
     "season": 2,
-    "image": "/1655900419830.webp"
+    "image": "/1655900419830.webp",
+    "description": "",
+    "title": "Vo Thi Mo, la coronel del batalló C3"
   },
   {
     "name": "William Seward Burroughs",
     "isWorthy": false,
     "episode": 172,
     "season": 2,
-    "image": "/1655979333185.webp"
+    "image": "/1655979333185.webp",
+    "description": "",
+    "title": "William Seward Burroughs, guru de la generació Beat"
   },
   {
     "name": "Lluís I d’Espanya",
     "isWorthy": false,
     "episode": 173,
     "season": 2,
-    "image": "/1656330352578.webp"
+    "image": "/1656330352578.webp",
+    "description": "",
+    "title": "Lluís I d'Espanya, el liberal, el breu"
   },
   {
     "name": "Pauline Cushman",
     "isWorthy": false,
     "episode": 174,
     "season": 2,
-    "image": "/1656424869975.webp"
+    "image": "/1656424869975.webp",
+    "description": "",
+    "title": "Pauline Cushman, l'actriu de teatre que es va fer espia"
   },
   {
     "name": "Francesc de Verntallat",
     "isWorthy": false,
     "episode": 175,
     "season": 2,
-    "image": "/1656424903966.webp"
+    "image": "/1656424903966.webp",
+    "description": "",
+    "title": "Francesc de Verntallat, un patriota català"
   },
   {
     "name": "Bela Kiss",
     "isWorthy": false,
     "episode": 176,
     "season": 2,
-    "image": "/1656424903671.webp"
+    "image": "/1656424903671.webp",
+    "description": "",
+    "title": "Bela Kiss, el vampir de Cinkota"
   },
   {
     "name": "Roy Benavidez",
     "isWorthy": false,
     "episode": 177,
     "season": 2,
-    "image": "/1656936047351.webp"
+    "image": "/1656936047351.webp",
+    "description": "",
+    "title": "Roy Benavidez, el soldat que va ressuscitar de dins de la bossa de plàstic per a cadàvers"
   },
   {
     "name": "Lola Montez",
     "isWorthy": false,
     "episode": 178,
     "season": 2,
-    "image": "/1657014913329.webp"
+    "image": "/1657014913329.webp",
+    "description": "",
+    "title": "Lola Montez, la ballarina exòtica irlandesa i... sifilítica"
   },
   {
     "name": "Josep Mir Rocafort",
     "isWorthy": false,
     "episode": 179,
     "season": 2,
-    "image": "/1657102223881.webp"
+    "image": "/1657102223881.webp",
+    "description": "",
+    "title": "Josep Mir Rocafort, Fassman, un mentalista autèntic"
   },
   {
     "name": "Chang i Eng Búnquer",
     "isWorthy": false,
     "episode": 180,
     "season": 2,
-    "image": "/1657188947682.webp"
+    "image": "/1657188947682.webp",
+    "description": "",
+    "title": "Chang i Eng Búnquer, els germans siamesos de Siam!"
   },
   {
     "name": "Denholm Elliott",
     "isWorthy": false,
     "episode": 181,
     "season": 2,
-    "image": "/1657539938998.webp"
+    "image": "/1657539938998.webp",
+    "description": "",
+    "title": "Denholm Elliott, actor britànic, fet presoner pels nazis"
   },
   {
     "name": "Gilles de Rais",
     "isWorthy": false,
     "episode": 182,
     "season": 2,
-    "image": "/1657617940081.webp"
+    "image": "/1657617940081.webp",
+    "description": "",
+    "title": "Gilles de Rais, el noble francès més sàdic de tots"
   },
   {
     "name": "György Silberstein",
     "isWorthy": false,
     "episode": 183,
     "season": 2,
-    "image": "/1657722955976.webp"
+    "image": "/1657722955976.webp",
+    "description": "",
+    "title": "Gyorgy Silverstein, jugador del FCB, víctima de l'Holocaust nazi"
   },
   {
     "name": "Phineas Taylor Barnum",
     "isWorthy": false,
     "episode": 184,
     "season": 2,
-    "image": "/1657795537196.webp"
+    "image": "/1657795537196.webp",
+    "description": "",
+    "title": "Phineas Taylor Barnum"
   },
   {
     "name": "Henry Clay Frick",
     "isWorthy": false,
     "episode": 1,
     "season": 3,
-    "image": "/1661778631197.webp"
+    "image": "/1661778631197.webp",
+    "description": "",
+    "title": "Henry Clay Frick, l'home més odiat d'Amèrica"
   },
   {
     "name": "Hosono Masabumi",
     "isWorthy": false,
     "episode": 2,
     "season": 3,
-    "image": "/1661857854508.webp"
+    "image": "/1661857854508.webp",
+    "description": "",
+    "title": "Hosono Masabumi, un noiet japonès amb sort"
   },
   {
     "name": "Beulah May Annan",
     "isWorthy": false,
     "episode": 3,
     "season": 3,
-    "image": "/1661944545402.webp"
+    "image": "/1661944545402.webp",
+    "description": "",
+    "title": "Beulah May Annan, l'assassina més maca del món"
   },
   {
     "name": "Virginia Woolf",
     "isWorthy": false,
     "episode": 4,
     "season": 3,
-    "image": "/1662030308570.webp"
+    "image": "/1662030308570.webp",
+    "description": "",
+    "title": "Virginia Woolf, depressió i pedres a les butxaques, mala combinació"
   },
   {
     "name": "Melanie Martinez",
     "isWorthy": false,
     "episode": 5,
     "season": 3,
-    "image": "/1662380417403.webp"
+    "image": "/1662380417403.webp",
+    "description": "",
+    "title": "Melanie Martinez, la dona amb més mala sort d'Amèrica"
   },
   {
     "name": "Benito Panchamé i Busquets",
     "isWorthy": false,
     "episode": 6,
     "season": 3,
-    "image": "/1662462032064.webp"
+    "image": "/1662462032064.webp",
+    "description": "",
+    "title": "Benito Panchamé i Busquets, un català republicà, el terror dels nazis"
   },
   {
     "name": "Ngola Mbandi Zibga",
     "isWorthy": false,
     "episode": 7,
     "season": 3,
-    "image": "/1662547830633.webp"
+    "image": "/1662547830633.webp",
+    "description": "",
+    "title": "Ngola Mbandi Zibga, la reina caníbal d'Angola"
   },
   {
     "name": "GG Allin",
     "isWorthy": false,
     "episode": 8,
     "season": 3,
-    "image": "/1662633342877.webp"
+    "image": "/1662633342877.webp",
+    "description": "",
+    "title": "GG Allin, es cagava a l'escenari i tirava la merda al públic"
   },
   {
     "name": "Martin Guerre",
     "isWorthy": false,
     "episode": 9,
     "season": 3,
-    "image": "/1662994534786.webp"
+    "image": "/1662994534786.webp",
+    "description": "",
+    "title": "Martin Guerre, qui és el de veritat i qui l'impostor?"
   },
   {
     "name": "Sófia Kovalévskaia",
     "isWorthy": false,
     "episode": 10,
     "season": 3,
-    "image": "/1663065352191.webp"
+    "image": "/1663065352191.webp",
+    "description": "",
+    "title": "Sófia Kovalévskaia, la princesa de les matemàtiques"
   },
   {
     "name": "Amelia Earhart",
     "isWorthy": false,
     "episode": 11,
     "season": 3,
-    "image": "/1663161627215.webp"
+    "image": "/1663161627215.webp",
+    "description": "",
+    "title": "Amelia Earhart, la reina de l'aire"
   },
   {
     "name": "Roman Polanski",
     "isWorthy": false,
     "episode": 12,
     "season": 3,
-    "image": "/1663242616160.webp"
+    "image": "/1663242616160.webp",
+    "description": "",
+    "title": "Roman Polanski, el director de cine, el fugitiu de la justícia"
   },
   {
     "name": "Espàrtac",
     "isWorthy": false,
     "episode": 13,
     "season": 3,
-    "image": "/1663587607636.webp"
+    "image": "/1663587607636.webp",
+    "description": "",
+    "title": "Espàrtac, el gladiador rebel"
   },
   {
     "name": "John Wayne Gacy",
     "isWorthy": false,
     "episode": 14,
     "season": 3,
-    "image": "/1663669547381.webp"
+    "image": "/1663669547381.webp",
+    "description": "",
+    "title": "John Wayne Gacy, Pogo, el pallasso assassí"
   },
   {
     "name": "Bernadette Soubirous",
     "isWorthy": false,
     "episode": 15,
     "season": 3,
-    "image": "/1663763129150.webp"
+    "image": "/1663763129150.webp",
+    "description": "",
+    "title": "Bernadette Soubirous, la dels viatges a Lurdes"
   },
   {
     "name": "Ada Blackjack",
     "isWorthy": false,
     "episode": 16,
     "season": 3,
-    "image": "/1663843256036.webp"
+    "image": "/1663843256036.webp",
+    "description": "",
+    "title": "Ada Blackjack, la Robinson Crusoe esquimal"
   },
   {
     "name": "Ludwig van Beethoven",
     "isWorthy": false,
     "episode": 17,
     "season": 3,
-    "image": "/1664194815697.webp"
+    "image": "/1664194815697.webp",
+    "description": "",
+    "title": "Ludwig van Beethoven, el compositor sord"
   },
   {
     "name": "Ching Shih",
     "isWorthy": false,
     "episode": 18,
     "season": 3,
-    "image": "/1664275852237.webp"
+    "image": "/1664275852237.webp",
+    "description": "",
+    "title": "Chin Shih, la reina dels pirates asiàtics"
   },
   {
     "name": "Porfirio Rubirosa",
     "isWorthy": false,
     "episode": 19,
     "season": 3,
-    "image": "/1664360173780.webp"
+    "image": "/1664360173780.webp",
+    "description": "",
+    "title": "Porfirio Rubirosa, el playboy dominicà"
   },
   {
     "name": "Eva Braun",
     "isWorthy": false,
     "episode": 20,
     "season": 3,
-    "image": "/1664449264412.webp"
+    "image": "/1664449264412.webp",
+    "description": "",
+    "title": "Eva Braun, la xicota del Führer"
   },
   {
     "name": "Judy Garland",
     "isWorthy": false,
     "episode": 21,
     "season": 3,
-    "image": "/1664804462465.webp"
+    "image": "/1664804462465.webp",
+    "description": "",
+    "title": "Judy Garland, caldo de pollastre i Ducados"
   },
   {
     "name": "Maurice Tillet",
     "isWorthy": false,
     "episode": 22,
     "season": 3,
-    "image": "/1664877020683.webp"
+    "image": "/1664877020683.webp",
+    "description": "",
+    "title": "Maurice Tillet, l'Shrek de carn i ossos"
   },
   {
     "name": "Yayoi Kusama",
     "isWorthy": false,
     "episode": 23,
     "season": 3,
-    "image": "/1664966436120.webp"
+    "image": "/1664966436120.webp",
+    "description": "",
+    "title": "Yayoi Kusama, tites i cercles"
   },
   {
     "name": "Gavrilo Princip",
     "isWorthy": false,
     "episode": 24,
     "season": 3,
-    "image": "/1665053119677.webp"
+    "image": "/1665053119677.webp",
+    "description": "",
+    "title": "Gavrilo Princip, el revolucionari de l'entrepà de salsitxes"
   },
   {
     "name": "Ramon Llull",
     "isWorthy": false,
     "episode": 25,
     "season": 3,
-    "image": "/1665404406072.webp"
+    "image": "/1665404406072.webp",
+    "description": "",
+    "title": "Ramon Llull, puter i íntim amic del seu esclau Mohammed"
   },
   {
     "name": "Madalyn Murray O’Hair",
     "isWorthy": false,
     "episode": 26,
     "season": 3,
-    "image": "/1665484820805.webp"
+    "image": "/1665484820805.webp",
+    "description": "",
+    "title": "Madalyn Murray O'Hair, la dona que volia prohibir el Nadal"
   },
   {
     "name": "Anna Sorokin",
     "isWorthy": false,
     "episode": 27,
     "season": 3,
-    "image": "/1665491488037.webp"
+    "image": "/1665491488037.webp",
+    "description": "",
+    "title": "Anna Sorokin, milionària d'esperit i fashion victim de naixement"
   },
   {
     "name": "Dolours Price",
     "isWorthy": false,
     "episode": 28,
     "season": 3,
-    "image": "/1665654626227.webp"
+    "image": "/1665654626227.webp",
+    "description": "",
+    "title": "Dolours Price, membre de l'IRA. Ni un paper a terra"
   },
   {
     "name": "Niccolò Paganini",
     "isWorthy": false,
     "episode": 29,
     "season": 3,
-    "image": "/1666005941308.webp"
+    "image": "/1666005941308.webp",
+    "description": "",
+    "title": "Niccolò Paganini, el violinista endimoniat"
   },
   {
     "name": "Ramón Oliva Márquez (Monchito)",
     "isWorthy": false,
     "episode": 30,
     "season": 3,
-    "image": "/1666093542676.webp"
+    "image": "/1666093542676.webp",
+    "description": "",
+    "title": "Ramón Oliva Márquez, un pobre noi amb un acordió i ganes de casar-se"
   },
   {
     "name": "Blanche Monnier",
     "isWorthy": false,
     "episode": 31,
     "season": 3,
-    "image": "/1666093846241.webp"
+    "image": "/1666093846241.webp",
+    "description": "",
+    "title": "Blanche Monnier, 25 anys tancada a les golfes"
   },
   {
     "name": "Johnny Cash",
     "isWorthy": false,
     "episode": 32,
     "season": 3,
-    "image": "/1666259121920.webp"
+    "image": "/1666259121920.webp",
+    "description": "",
+    "title": "Johnny Cash, tota la vida carregant la culpa de la mort del seu germà"
   },
   {
     "name": "Robert Liston",
     "isWorthy": false,
     "episode": 33,
     "season": 3,
-    "image": "/1666618533320.webp"
+    "image": "/1666618533320.webp",
+    "description": "",
+    "title": "Robert Liston, una operació quirúrgica amb el 300% de mortalitat"
   },
   {
     "name": "Mariozza",
     "isWorthy": false,
     "episode": 34,
     "season": 3,
-    "image": "/1666693872362.webp"
+    "image": "/1666693872362.webp",
+    "description": "",
+    "title": "Mariozza, mare i amant de papes de Roma"
   },
   {
     "name": "Tupac Shakur",
     "isWorthy": false,
     "episode": 35,
     "season": 3,
-    "image": "/1666780539744.webp"
+    "image": "/1666780539744.webp",
+    "description": "",
+    "title": "Tupac Shakur, The Original G!"
   },
   {
     "name": "Egil Skallagrímsson",
     "isWorthy": false,
     "episode": 36,
     "season": 3,
-    "image": "/1666862423822.webp"
+    "image": "/1666862423822.webp",
+    "description": "",
+    "title": "Egil Skallagrímsson, el guerrer viking"
   },
   {
     "name": "Joseph Pilates",
     "isWorthy": false,
     "episode": 37,
     "season": 3,
-    "image": "/1667227820975.webp"
+    "image": "/1667227820975.webp",
+    "description": "",
+    "title": "Joseph Pilates, l'inventor del mètode Pilates!"
   },
   {
     "name": "Sarah Good",
     "isWorthy": false,
     "episode": 38,
     "season": 3,
-    "image": "/1667227820489.webp"
+    "image": "/1667227820489.webp",
+    "description": "",
+    "title": "Sarah Good, acusada de bruixeria per demanar almoina i tenir mala bava"
   },
   {
-    "name": "Ota Benga 3x39)",
+    "name": "Ota Benga",
     "isWorthy": false,
     "episode": 39,
     "season": 3,
-    "image": "/1667392529555.webp"
+    "image": "/1667392529555.webp",
+    "description": "",
+    "title": "Ota Benga, el nen congolès de les dents de punta"
   },
   {
     "name": "Dieguito el Malo",
     "isWorthy": false,
     "episode": 40,
     "season": 3,
-    "image": "/1667404836183.webp"
+    "image": "/1667404836183.webp",
+    "description": "",
+    "title": "Dieguito el Malo, Si tu me matas, yo te mato"
   },
   {
     "name": "El Chapo Guzmán",
     "isWorthy": false,
     "episode": 41,
     "season": 3,
-    "image": "/1667837724691.webp"
+    "image": "/1667837724691.webp",
+    "description": "",
+    "title": "El Chapo Guzmán, el rei dels túnels"
   },
   {
     "name": "Ken Smith",
     "isWorthy": false,
     "episode": 42,
     "season": 3,
-    "image": "/1667912524391.webp"
+    "image": "/1667912524391.webp",
+    "description": "",
+    "title": "Ken Smith, camí cap a Alaska després de ser apallissat per uns quillos"
   },
   {
     "name": "Solomon Perel",
     "isWorthy": false,
     "episode": 43,
     "season": 3,
-    "image": "/1667992863281.webp"
+    "image": "/1667992863281.webp",
+    "description": "",
+    "title": "Solomon Perel, el jueu de les joventuts hitlerianes"
   },
   {
     "name": "La Papessa Joana",
     "isWorthy": false,
     "episode": 44,
     "season": 3,
-    "image": "/1668077158635.webp"
+    "image": "/1668077158635.webp",
+    "description": "",
+    "title": "La Papessa Joana, la noia que va arribar a ser papa de Roma"
   },
   {
     "name": "The Notorious B.I.G",
     "isWorthy": false,
     "episode": 45,
     "season": 3,
-    "image": "/1668432052815.webp"
+    "image": "/1668432052815.webp",
+    "description": "",
+    "title": "The Notorious B.I.G, West coast 4 life"
   },
   {
     "name": "Katherine Knight",
     "isWorthy": false,
     "episode": 46,
     "season": 3,
-    "image": "/1668508839820.webp"
+    "image": "/1668508839820.webp",
+    "description": "",
+    "title": "Katherine Knight: dormia amb els ganivets de l'escorxador sota el coixí"
   },
   {
     "name": "Peter Freuchen",
     "isWorthy": false,
     "episode": 47,
     "season": 3,
-    "image": "/1668598266529.webp"
+    "image": "/1668598266529.webp",
+    "description": "",
+    "title": "Peter Freuchen, supervivent d'una allau gràcies a una merda congelada"
   },
   {
     "name": "Jim Morrison",
     "isWorthy": false,
     "episode": 48,
     "season": 3,
-    "image": "/1668700240132.webp"
+    "image": "/1668700240132.webp",
+    "description": "",
+    "title": "Jim Morrison, un altre del Club dels 27. El van trobar mort a la banyera"
   },
   {
     "name": "Ramon Casas",
     "isWorthy": false,
     "episode": 49,
     "season": 3,
-    "image": "/1669034158777.webp"
+    "image": "/1669034158777.webp",
+    "description": "",
+    "title": "Ramon Casas, l'impulsor del modernisme català"
   },
   {
     "name": "Hector Hugh Munro",
     "isWorthy": false,
     "episode": 50,
     "season": 3,
-    "image": "/1669116919450.webp"
+    "image": "/1669116919450.webp",
+    "description": "",
+    "title": "Saki, l'escriptor que volia ser soldat"
   },
   {
     "name": "Nakahama Manjirō",
     "isWorthy": false,
     "episode": 51,
     "season": 3,
-    "image": "/1669202451123.webp"
+    "image": "/1669202451123.webp",
+    "description": "",
+    "title": "Nakahama Manjirō, el primer japonès que va trepitjar els Estats Units d'Amèrica"
   },
   {
     "name": "Aleksandra Kol·lontai",
     "isWorthy": false,
     "episode": 52,
     "season": 3,
-    "image": "/1669283735503.webp"
+    "image": "/1669283735503.webp",
+    "description": "",
+    "title": "Aleksandra Kol·lontai, la comunista de casa bona"
   },
   {
     "name": "Ronald Edwin Hunkele",
     "isWorthy": false,
     "episode": 53,
     "season": 3,
-    "image": "/1669639806324.webp"
+    "image": "/1669639806324.webp",
+    "description": "",
+    "title": "Ronald Edwin Hunkele, el nen de L'exorcista"
   },
   {
     "name": "Kudryavka",
     "isWorthy": false,
     "episode": 54,
     "season": 3,
-    "image": "/1669723281541.webp"
+    "image": "/1669723281541.webp",
+    "description": "",
+    "title": "Kudryavka, la primera gossa espacial"
   },
   {
     "name": "Nathan Bedford Forrest",
     "isWorthy": false,
     "episode": 55,
     "season": 3,
-    "image": "/1669813841943.webp"
+    "image": "/1669813841943.webp",
+    "description": "",
+    "title": "Nathan Bedford Forrest, un general sudista, demòcrata i del Ku Klux Klan"
   },
   {
     "name": "La Dolça Neus",
     "isWorthy": false,
     "episode": 56,
     "season": 3,
-    "image": "/1669891840819.webp"
+    "image": "/1669891840819.webp",
+    "description": "",
+    "title": "La Dolça Neus, nissaga de poder en versió osonenca"
   },
   {
     "name": "Ernest Everett Just",
     "isWorthy": false,
     "episode": 57,
     "season": 3,
-    "image": "/1670241006623.webp"
+    "image": "/1670241006623.webp",
+    "description": "",
+    "title": "Ernest Everett Just, el primer gran científic afroamericà"
   },
   {
     "name": "Simón Bolívar",
     "isWorthy": false,
     "episode": 58,
     "season": 3,
-    "image": "/1670244634532.webp"
+    "image": "/1670244634532.webp",
+    "description": "",
+    "title": "Simón Bolívar, el libertador"
   },
   {
     "name": "Marilyn Monroe",
     "isWorthy": false,
     "episode": 59,
     "season": 3,
-    "image": "/1670410228268.webp"
+    "image": "/1670410228268.webp",
+    "description": "",
+    "title": "Marilyn Monroe, la icona pop"
   },
   {
     "name": "Perot Rocaguinarda",
     "isWorthy": false,
     "episode": 60,
     "season": 3,
-    "image": "/1670410845821.webp"
+    "image": "/1670410845821.webp",
+    "description": "",
+    "title": "Perot Rocaguinarda, Perot lo lladre"
   },
   {
     "name": "Jo Girardelli",
     "isWorthy": false,
     "episode": 61,
     "season": 3,
-    "image": "/1670847962970.webp"
+    "image": "/1670847962970.webp",
+    "description": "",
+    "title": "Jo Girardelli, la dona que no es cremava"
   },
   {
     "name": "George Kelly",
     "isWorthy": false,
     "episode": 62,
     "season": 3,
-    "image": "/1670930710763.webp"
+    "image": "/1670930710763.webp",
+    "description": "",
+    "title": "George Kelly, Machine Gun Kelly"
   },
   {
     "name": "Santa Olga de Kíiv",
     "isWorthy": false,
     "episode": 63,
     "season": 3,
-    "image": "/1671017727218.webp"
+    "image": "/1671017727218.webp",
+    "description": "",
+    "title": "Santa Olga de Kíiv, la santa exterminadora"
   },
   {
     "name": "Julio López Guixot",
     "isWorthy": false,
     "episode": 64,
     "season": 3,
-    "image": "/1671107143162.webp"
+    "image": "/1671107143162.webp",
+    "description": "",
+    "title": "Julio López Guixot, l'assassí de la quiniela"
   },
   {
     "name": "Jackie Wilson",
     "isWorthy": false,
     "episode": 65,
     "season": 3,
-    "image": "/1671467112094.webp"
+    "image": "/1671467112094.webp",
+    "description": "",
+    "title": "Jackie Wilson, The black Elvis"
   },
   {
     "name": "Josep Pla",
     "isWorthy": false,
     "episode": 66,
     "season": 3,
-    "image": "/1671467426795.webp"
+    "image": "/1671467426795.webp",
+    "description": "",
+    "title": "Josep Pla, l'escriptor dels adjectius regats amb alcohol"
   },
   {
     "name": "Louis Le Prince",
     "isWorthy": false,
     "episode": 67,
     "season": 3,
-    "image": "/1671467428854.webp"
+    "image": "/1671467428854.webp",
+    "description": "",
+    "title": "Louis Le Prince, el veritable inventor del cinema?"
   },
   {
     "name": "David Koresh",
     "isWorthy": false,
     "episode": 68,
     "season": 3,
-    "image": "/1671722742069.webp"
+    "image": "/1671722742069.webp",
+    "description": "",
+    "title": "David Koresh, el davidià de la massacre de Waco"
   },
   {
     "name": "James Hunt",
     "isWorthy": false,
     "episode": 69,
     "season": 3,
-    "image": "/1671728709091.webp"
+    "image": "/1671728709091.webp",
+    "description": "",
+    "title": "James Hunt, el pilot de Fórmula 1 borratxo"
   },
   {
     "name": "José Epita Mbomo",
     "isWorthy": false,
     "episode": 70,
     "season": 3,
-    "image": "/1671729018344.webp"
+    "image": "/1671729018344.webp",
+    "description": "",
+    "title": "José Epita Mbomo, un senyor de Guinea Equatorial que va lluitar contra el nazisme"
   },
   {
     "name": "Tallulah Bankhead",
     "isWorthy": false,
     "episode": 71,
     "season": 3,
-    "image": "/1672221917994.webp"
+    "image": "/1672221917994.webp",
+    "description": "",
+    "title": "Tallulah Bankhead, la inspiració del personatge de Cruella de Vil"
   },
   {
     "name": "Gregor MacGregor",
     "isWorthy": false,
     "episode": 72,
     "season": 3,
-    "image": "/1672312569945.webp"
+    "image": "/1672312569945.webp",
+    "description": "",
+    "title": "Gregor MacGregor, el príncep del país inventat de Poyais"
   },
   {
     "name": "Juli Cèsar",
     "isWorthy": false,
     "episode": 73,
     "season": 3,
-    "image": "/1672664423532.webp"
+    "image": "/1672664423532.webp",
+    "description": "",
+    "title": "Juli Cèsar, dictator perpetuus i pare de la pàtria"
   },
   {
     "name": "Barbora Skrolva",
     "isWorthy": false,
     "episode": 74,
     "season": 3,
-    "image": "/1672744833332.webp"
+    "image": "/1672744833332.webp",
+    "description": "",
+    "title": "Barbora Skrolva, l'adolescent més problemàtica de Txèquia"
   },
   {
     "name": "William Lamport",
     "isWorthy": false,
     "episode": 75,
     "season": 3,
-    "image": "/1672827636498.webp"
+    "image": "/1672827636498.webp",
+    "description": "",
+    "title": "William Lamport, el pirata irlandès independentista de Nova Espanya"
   },
   {
     "name": "Moammar al-Gaddafi",
     "isWorthy": false,
     "episode": 76,
     "season": 3,
-    "image": "/1672837248682.webp"
+    "image": "/1672837248682.webp",
+    "description": "",
+    "title": "Moammar al-Gaddafi, el gos rabiós del desert"
   },
   {
     "name": "José Luis Pacheco",
     "isWorthy": false,
     "episode": 77,
     "season": 3,
-    "image": "/1673275324924.webp"
+    "image": "/1673275324924.webp",
+    "description": "",
+    "title": "José Luis Pacheco, el boxejador legionari"
   },
   {
     "name": "John DeLorean",
     "isWorthy": false,
     "episode": 78,
     "season": 3,
-    "image": "/1673351165315.webp"
+    "image": "/1673351165315.webp",
+    "description": "",
+    "title": "John DeLorean, creador del cotxe de Back to the future i narcotraficant"
   },
   {
     "name": "Ryan Grantham",
     "isWorthy": false,
     "episode": 79,
     "season": 3,
-    "image": "/1673437227941.webp"
+    "image": "/1673437227941.webp",
+    "description": "",
+    "title": "Ryan Grantham, actor de la sèrie de juvenil Riverdale i parricida"
   },
   {
     "name": "Gaietà Ripoll",
     "isWorthy": false,
     "episode": 80,
     "season": 3,
-    "image": "/1673529671984.webp"
+    "image": "/1673529671984.webp",
+    "description": "",
+    "title": "Gaietà Ripoll, l'últim condemnat per la Santa Inquisició Espanyola"
   },
   {
     "name": "Antoine de Saint-Exupéry",
     "isWorthy": false,
     "episode": 81,
     "season": 3,
-    "image": "/1673881264520.webp"
+    "image": "/1673881264520.webp",
+    "description": "",
+    "title": "Antoine de Saint-Exupéry, autor d'El petit príncep inspirat per un accident d'avió i un germà mort"
   },
   {
     "name": "Armin Meiwes",
     "isWorthy": false,
     "episode": 82,
     "season": 3,
-    "image": "/1673952945907.webp"
+    "image": "/1673952945907.webp",
+    "description": "",
+    "title": "Armin Meiwes, el caníbal de Rotenburg"
   },
   {
     "name": "Joana I de Castella",
     "isWorthy": false,
     "episode": 83,
     "season": 3,
-    "image": "/1674047425371.webp"
+    "image": "/1674047425371.webp",
+    "description": "",
+    "title": "Joana I de Castella, Joana la Boja"
   },
   {
     "name": "Sylvester Stallone",
     "isWorthy": false,
     "episode": 84,
     "season": 3,
-    "image": "/1674132010843.webp"
+    "image": "/1674132010843.webp",
+    "description": "",
+    "title": "Sylvester Stallone, Rocky, Rambo i porno light"
   },
   {
     "name": "Clark Olofsson",
     "isWorthy": false,
     "episode": 85,
     "season": 3,
-    "image": "/1674489033248.webp"
+    "image": "/1674489033248.webp",
+    "description": "",
+    "title": "Clark Olofsson, el suec responsable de la síndrome d'Estocolm"
   },
   {
     "name": "Mattio Lovat",
     "isWorthy": false,
     "episode": 86,
     "season": 3,
-    "image": "/1674555922722.webp"
+    "image": "/1674555922722.webp",
+    "description": "",
+    "title": "Mattio Lovat, el sabater venecià que es va crucificar a si mateix"
   },
   {
     "name": "Peter Sutcliffe",
     "isWorthy": false,
     "episode": 87,
     "season": 3,
-    "image": "/1674647131664.webp"
+    "image": "/1674647131664.webp",
+    "description": "",
+    "title": "Peter Sutcliffe, l'esbudellador de Yorkshire"
   },
   {
     "name": "Josip Broz Tito",
     "isWorthy": false,
     "episode": 88,
     "season": 3,
-    "image": "/1674737155291.webp"
+    "image": "/1674737155291.webp",
+    "description": "",
+    "title": "Josip Broz, Tito, l'home que va expulsar el nazisme de Iugoslàvia"
   },
   {
     "name": "Pedro González",
     "isWorthy": false,
     "episode": 89,
     "season": 3,
-    "image": "/1675084264194.webp"
+    "image": "/1675084264194.webp",
+    "description": "",
+    "title": "Pedro González, l'home llop canari"
   },
   {
     "name": "Demòstenes",
     "isWorthy": false,
     "episode": 90,
     "season": 3,
-    "image": "/1675165819858.webp"
+    "image": "/1675165819858.webp",
+    "description": "",
+    "title": "Demòstenes, l'orador tartamut"
   },
   {
     "name": "Desmond Doss",
     "isWorthy": false,
     "episode": 91,
     "season": 3,
-    "image": "/1675180213783.webp"
+    "image": "/1675180213783.webp",
+    "description": "",
+    "title": "Desmond Doss, el soldat que no tocava armes"
   },
   {
     "name": "James Cook",
     "isWorthy": false,
     "episode": 92,
     "season": 3,
-    "image": "/1675181118367.webp"
+    "image": "/1675181118367.webp",
+    "description": "",
+    "title": "James Cook, l'explorador britànic assassinat en una platja de Hawaii"
   },
   {
     "name": "Carlos Cuarteroni Fernández",
     "isWorthy": false,
     "episode": 93,
     "season": 3,
-    "image": "/1675699850021.webp"
+    "image": "/1675699850021.webp",
+    "description": "",
+    "title": "Carlos Cuarteroni Fernández, el veritable Sandokan"
   },
   {
     "name": "Amedeo Modigliani",
     "isWorthy": false,
     "episode": 94,
     "season": 3,
-    "image": "/1675768567787.webp"
+    "image": "/1675768567787.webp",
+    "description": "",
+    "title": "Amedeo Modigliani, en Modi, l'únic home amb estil que hi havia a París"
   },
   {
     "name": "Sir Nicholas Winton",
     "isWorthy": false,
     "episode": 95,
     "season": 3,
-    "image": "/1675853430464.webp"
+    "image": "/1675853430464.webp",
+    "description": "",
+    "title": "Sir Nicholas Winton, l'Oskar Schindler anglès"
   },
   {
     "name": "Sarah Rector",
     "isWorthy": false,
     "episode": 96,
     "season": 3,
-    "image": "/1675946435456.webp"
+    "image": "/1675946435456.webp",
+    "description": "",
+    "title": "Sarah Rector, la nena que va rebre un tros de terra i es va fer milionària"
   },
   {
     "name": "Orson Welles",
     "isWorthy": false,
     "episode": 97,
     "season": 3,
-    "image": "/1676296213701.webp"
+    "image": "/1676296213701.webp",
+    "description": "",
+    "title": "Orson Welles, l'històric locutor de ràdio que no va tenir cap nominació als Ondas"
   },
   {
     "name": "Yasuke",
     "isWorthy": false,
     "episode": 98,
     "season": 3,
-    "image": "/1676381120763.webp"
+    "image": "/1676381120763.webp",
+    "description": "",
+    "title": "Yasuke, el samurai africà. sfx bastons japonesos"
   },
   {
     "name": "George Fox",
     "isWorthy": false,
     "episode": 99,
     "season": 3,
-    "image": "/1676457660488.webp"
+    "image": "/1676457660488.webp",
+    "description": "",
+    "title": "George Fox, el fundador dels quàquers!"
   },
   {
     "name": "Pilar Prades",
     "isWorthy": false,
     "episode": 100,
     "season": 3,
-    "image": "/1676551263211.webp"
+    "image": "/1676551263211.webp",
+    "description": "",
+    "title": "Pilar Prades, l'enverinadora de València"
   },
   {
     "name": "Bhaktivedanta",
     "isWorthy": false,
     "episode": 101,
     "season": 3,
-    "image": "/1676897158609.webp"
+    "image": "/1676897158609.webp",
+    "description": "",
+    "title": "Bhaktivedanta, el creador del Hare Krixna, Rama Rama"
   },
   {
     "name": "Mary Shelley",
     "isWorthy": false,
     "episode": 102,
     "season": 3,
-    "image": "/1676977836628.webp"
+    "image": "/1676977836628.webp",
+    "description": "",
+    "title": "Mary Shelley feia l'amor amb el seu amant damunt la tomba de la seva mare. sfx cop tensió"
   },
   {
     "name": "Frances Farmer",
     "isWorthy": false,
     "episode": 103,
     "season": 3,
-    "image": "/1677073211868.webp"
+    "image": "/1677073211868.webp",
+    "description": "",
+    "title": "Frances Farmer, l'estrella de Hollywood que brillava pels electroxocs"
   },
   {
     "name": "Pier Paolo Pasolini",
     "isWorthy": false,
     "episode": 104,
     "season": 3,
-    "image": "/1677148829915.webp"
+    "image": "/1677148829915.webp",
+    "description": "",
+    "title": "Pier Paolo Pasolini, el director que va ser víctima de l'extrema dreta italiana"
   },
   {
     "name": "Eddie Jaku",
     "isWorthy": false,
     "episode": 105,
     "season": 3,
-    "image": "/1677503809993.webp"
+    "image": "/1677503809993.webp",
+    "description": "",
+    "title": "Eddie Jaku, l'home que va entrar a Auschwitz d'amagat"
   },
   {
     "name": "Diego Ruiz",
     "isWorthy": false,
     "episode": 106,
     "season": 3,
-    "image": "/1677585309015.webp"
+    "image": "/1677585309015.webp",
+    "description": "",
+    "title": "Diego Ruiz, el director del manicomi de Salt, més llampat que els seus pacients"
   },
   {
     "name": "Ed Kemper",
     "isWorthy": false,
     "episode": 107,
     "season": 3,
-    "image": "/1677672664150.webp"
+    "image": "/1677672664150.webp",
+    "description": "",
+    "title": "Ed Kemper, el caçador de caps, l'assassí de col·legiales"
   },
   {
     "name": "Caterina de Siena",
     "isWorthy": false,
     "episode": 108,
     "season": 3,
-    "image": "/1677760824296.webp"
+    "image": "/1677760824296.webp",
+    "description": "",
+    "title": "Caterina de Siena, la santa que es va casar amb Crist. sfx matrimoni místic jesús"
   },
   {
     "name": "Johannes Vermeer",
     "isWorthy": false,
     "episode": 109,
     "season": 3,
-    "image": "/1678115109599.webp"
+    "image": "/1678115109599.webp",
+    "description": "",
+    "title": "Johannes Vermeer, el pintor dels dos quadres cada any"
   },
   {
     "name": "Gérard Depardieu",
     "isWorthy": false,
     "episode": 110,
     "season": 3,
-    "image": "/1678183839950.webp"
+    "image": "/1678183839950.webp",
+    "description": "",
+    "title": "Gérard Depardieu, de jove es prostituïa i robava en cementiris. De gran va fer d'Obèlix"
   },
   {
     "name": "Jackie Tonawanda",
     "isWorthy": false,
     "episode": 111,
     "season": 3,
-    "image": "/1678270260497.webp"
+    "image": "/1678270260497.webp",
+    "description": "",
+    "title": "Jackie Tonawanda, Lady Ali"
   },
   {
     "name": "Rosaleen Norton",
     "isWorthy": false,
     "episode": 112,
     "season": 3,
-    "image": "/1678365062943.webp"
+    "image": "/1678365062943.webp",
+    "description": "",
+    "title": "Rosaleen Norton, la bruixa de King's Cross"
   },
   {
     "name": "Martin Luther King",
     "isWorthy": false,
     "episode": 113,
     "season": 3,
-    "image": "/1678718169702.webp"
+    "image": "/1678718169702.webp",
+    "description": "",
+    "title": "Martin Luther King, activista afroamericà. Anava més calent que el Sol"
   },
   {
     "name": "James Earl Ray",
     "isWorthy": false,
     "episode": 114,
     "season": 3,
-    "image": "/1678795266489.webp"
+    "image": "/1678795266489.webp",
+    "description": "",
+    "title": "James Earl Ray, supremacista blanc. Un Monchito americà"
   },
   {
     "name": "Maria Antonieta",
     "isWorthy": false,
     "episode": 115,
     "season": 3,
-    "image": "/1678880772957.webp"
+    "image": "/1678880772957.webp",
+    "description": "",
+    "title": "Maria Antonieta, la reina que va acabar sense cap, però amb un collaret preciós"
   },
   {
     "name": "Diògenes",
     "isWorthy": false,
     "episode": 116,
     "season": 3,
-    "image": "/1678965932201.webp"
+    "image": "/1678965932201.webp",
+    "description": "",
+    "title": "Diògenes, el filòsof que curiosament no tenia síndrome de Diògenes"
   },
   {
     "name": "Lord Byron",
     "isWorthy": false,
     "episode": 117,
     "season": 3,
-    "image": "/1679319663275.webp"
+    "image": "/1679319663275.webp",
+    "description": "",
+    "title": "Lord Byron, el poeta maleït"
   },
   {
     "name": "Lucía Zárate",
     "isWorthy": false,
     "episode": 118,
     "season": 3,
-    "image": "/1679409625445.webp"
+    "image": "/1679409625445.webp",
+    "description": "",
+    "title": "Lucía Zárate, la noieta que feia 50 centímetres"
   },
   {
     "name": "Moe Berg",
     "isWorthy": false,
     "episode": 119,
     "season": 3,
-    "image": "/1679410238259.webp"
+    "image": "/1679410238259.webp",
+    "description": "",
+    "title": "Moe Berg, jugador de beisbol de dia, espia de nit"
   },
   {
     "name": "Santa Rosa de Lima",
     "isWorthy": false,
     "episode": 120,
     "season": 3,
-    "image": "/1679410529396.webp"
+    "image": "/1679410529396.webp",
+    "description": "",
+    "title": "Santa Rosa de Lima, la patrona dels tuberculosos"
   },
   {
     "name": "Evan O’Neill Kane",
     "isWorthy": false,
     "episode": 121,
     "season": 3,
-    "image": "/1679920834179.webp"
+    "image": "/1679920834179.webp",
+    "description": "",
+    "title": "Evan O'Neill Kane, el pioner de les autooperacions"
   },
   {
     "name": "Coco Chanel",
     "isWorthy": false,
     "episode": 122,
     "season": 3,
-    "image": "/1680008447463.webp"
+    "image": "/1680008447463.webp",
+    "description": "",
+    "title": "Coco Chanel, dissenyadora de moda i col·laboradora de les SS"
   },
   {
     "name": "Dennis Rodman",
     "isWorthy": false,
     "episode": 123,
     "season": 3,
-    "image": "/1680086764284.webp"
+    "image": "/1680086764284.webp",
+    "description": "",
+    "title": "Dennis Rodman, el jugador de l'NBA que es va intentar suïcidar al pàrquing de l'estadi dels Pistons"
   },
   {
     "name": "Magdalena Castells Pons",
     "isWorthy": false,
     "episode": 124,
     "season": 3,
-    "image": "/1680186947473.webp"
+    "image": "/1680186947473.webp",
+    "description": "",
+    "title": "Magdalena Castells Pons, la curandera assassina de Mallorca"
   },
   {
     "name": "Ada Byron",
     "isWorthy": false,
     "episode": 125,
     "season": 3,
-    "image": "/1680530472822.webp"
+    "image": "/1680530472822.webp",
+    "description": "",
+    "title": "Ada Byron, la primera programadora de la història. Filla del cafre d'en Lord Byron"
   },
   {
     "name": "William Seabrook",
     "isWorthy": false,
     "episode": 126,
     "season": 3,
-    "image": "/1680530475348.webp"
+    "image": "/1680530475348.webp",
+    "description": "",
+    "title": "William Seabrook, l'aventurer borratxo que practicava sadomasoquisme extrem"
   },
   {
     "name": "Ferdinand Cheval",
     "isWorthy": false,
     "episode": 127,
     "season": 3,
-    "image": "/1680599136223.webp"
+    "image": "/1680599136223.webp",
+    "description": "",
+    "title": "Ferdinand Cheval, el carter que recollia pedres"
   },
   {
     "name": "Marvin Gaye",
     "isWorthy": false,
     "episode": 128,
     "season": 3,
-    "image": "/1680599135989.webp"
+    "image": "/1680599135989.webp",
+    "description": "",
+    "title": "Marvin Gaye, el príncep del soul"
   },
   {
     "name": "Paracels",
     "isWorthy": false,
     "episode": 129,
     "season": 3,
-    "image": "/1680780932771.webp"
+    "image": "/1680780932771.webp",
+    "description": "",
+    "title": "Paracels, el pare de la medicina moderna"
   },
   {
     "name": "Lance Armstrong",
     "isWorthy": false,
     "episode": 130,
     "season": 3,
-    "image": "/1681215666746.webp"
+    "image": "/1681215666746.webp",
+    "description": "",
+    "title": "Lance Armstrong, el no guanyador de 7 Tours de França"
   },
   {
     "name": "Hachiko",
     "isWorthy": false,
     "episode": 131,
     "season": 3,
-    "image": "/1681215358043.webp"
+    "image": "/1681215358043.webp",
+    "description": "",
+    "title": "Hachiko, el quisso d'en Richard Gere"
   },
   {
     "name": "Mirin Dajo",
     "isWorthy": false,
     "episode": 132,
     "season": 3,
-    "image": "/1681213232947.webp"
+    "image": "/1681213232947.webp",
+    "description": "",
+    "title": "Mirin Dajo, el faquir que veia morts"
   },
   {
     "name": "Rob Roy MacGregor",
     "isWorthy": false,
     "episode": 133,
     "season": 3,
-    "image": "/1681740345234.webp"
+    "image": "/1681740345234.webp",
+    "description": "",
+    "title": "Rob Roy MacGregor, el Robin Hood escocès. Un William Wallace de segona"
   },
   {
     "name": "José María Jarabo",
     "isWorthy": false,
     "episode": 134,
     "season": 3,
-    "image": "/1681823734534.webp"
+    "image": "/1681823734534.webp",
+    "description": "",
+    "title": "José María Jarabo, l'esnob madrileny assassí"
   },
   {
     "name": "Arthur Guinness",
     "isWorthy": false,
     "episode": 135,
     "season": 3,
-    "image": "/1681896970535.webp"
+    "image": "/1681896970535.webp",
+    "description": "",
+    "title": "Arthur Guinness, el fundador de la cervesa Guinness"
   },
   {
     "name": "William Buckley",
     "isWorthy": false,
     "episode": 136,
     "season": 3,
-    "image": "/1681990837695.webp"
+    "image": "/1681990837695.webp",
+    "description": "",
+    "title": "William Buckley, un fugitiu que es va amagar entre els aborígens australians"
   },
   {
     "name": "Wladyslaw Szpilman",
     "isWorthy": false,
     "episode": 137,
     "season": 3,
-    "image": "/1682346074002.webp"
+    "image": "/1682346074002.webp",
+    "description": "",
+    "title": "Wladyslaw Szpilman, el pianista"
   },
   {
     "name": "Billy Milligan",
     "isWorthy": false,
     "episode": 138,
     "season": 3,
-    "image": "/1682493956776.webp"
+    "image": "/1682493956776.webp",
+    "description": "",
+    "title": "Billy Milligan, l'esquizofrènic de les 24 personalitats"
   },
   {
     "name": "Charles Dickens",
     "isWorthy": false,
     "episode": 139,
     "season": 3,
-    "image": "/1682495405714.webp"
+    "image": "/1682495405714.webp",
+    "description": "",
+    "title": "Charles Dickens, l'escriptor del primer guió d'El búnquer"
   },
   {
     "name": "Helen Keller",
     "isWorthy": false,
     "episode": 140,
     "season": 3,
-    "image": "/1682593281640.webp"
+    "image": "/1682593281640.webp",
+    "description": "",
+    "title": "Helen Keller, cega, sorda i muda, i es va treure més carreres que tots nosaltres plegats"
   },
   {
     "name": "Galvarino",
     "isWorthy": false,
     "episode": 141,
     "season": 3,
-    "image": "/1682694637592.webp"
+    "image": "/1682694637592.webp",
+    "description": "",
+    "title": "Galvarino, el maputxe que tenia fulles d'espasa en lloc de mans. El guerrer definitiu"
   },
   {
     "name": "Gustavo Adolfo Bécquer",
     "isWorthy": false,
     "episode": 142,
     "season": 3,
-    "image": "/1683033637213.webp"
+    "image": "/1683033637213.webp",
+    "description": "",
+    "title": "Gustavo Adolfo Bécquer empaitava dones, però l'únic que va enxampar va ser una tuberculosi"
   },
   {
     "name": "Leonid Rogozov",
     "isWorthy": false,
     "episode": 143,
     "season": 3,
-    "image": "/1683123627475.webp"
+    "image": "/1683123627475.webp",
+    "description": "",
+    "title": "Leonid Rogozov, l'home que es va autooperar d'una apendicitis"
   },
   {
     "name": "Steve Jobs",
     "isWorthy": false,
     "episode": 144,
     "season": 3,
-    "image": "/1683202240874.webp"
+    "image": "/1683202240874.webp",
+    "description": "",
+    "title": "Steve Jobs, el boig de les pomes"
   },
   {
     "name": "Joseph Mortimer Granville",
     "isWorthy": false,
     "episode": 145,
     "season": 3,
-    "image": "/1683553853095.webp"
+    "image": "/1683553853095.webp",
+    "description": "",
+    "title": "Joseph Mortimer Granville, l'inventor del primer vibrador elèctric"
   },
   {
     "name": "Nelson Mandela",
     "isWorthy": false,
     "episode": 146,
     "season": 3,
-    "image": "/1683625235590.webp"
+    "image": "/1683625235590.webp",
+    "description": "",
+    "title": "Nelson Mandela, president de l'ANC"
   },
   {
     "name": "Anneliese Michel",
     "isWorthy": false,
     "episode": 147,
     "season": 3,
-    "image": "/1683714313014.webp"
+    "image": "/1683714313014.webp",
+    "description": "",
+    "title": "Anneliese Michel, tenia l'esperit de Hitler a dins. Menjava aranyes i carbó"
   },
   {
     "name": "Frank Cannonball Richards",
     "isWorthy": false,
     "episode": 148,
     "season": 3,
-    "image": "/1683817561664.webp"
+    "image": "/1683817561664.webp",
+    "description": "",
+    "title": "Frank Cannonball Richards, l'home que parava bales de canó amb la panxa"
   },
   {
     "name": "Kurt Cobain",
     "isWorthy": false,
     "episode": 149,
     "season": 3,
-    "image": "/1684158042983.webp"
+    "image": "/1684158042983.webp",
+    "description": "",
+    "title": "Kurt Cobain, el rei del grunge"
   },
   {
     "name": "Charles Cullen",
     "isWorthy": false,
     "episode": 150,
     "season": 3,
-    "image": "/1684230018597.webp"
+    "image": "/1684230018597.webp",
+    "description": "",
+    "title": "Charles Cullen, el zelador d'Olot, en versió americana"
   },
   {
     "name": "Pichichi",
     "isWorthy": false,
     "episode": 151,
     "season": 3,
-    "image": "/1684319156969.webp"
+    "image": "/1684319156969.webp",
+    "description": "",
+    "title": "Pichichi, un davanter tan letal com les ostres que es va menjar"
   },
   {
     "name": "Josep I de Portugal",
     "isWorthy": false,
     "episode": 152,
     "season": 3,
-    "image": "/1684408831629.webp"
+    "image": "/1684408831629.webp",
+    "description": "",
+    "title": "Josep I de Portugal, vivia en una tenda de campanya per por dels terratrèmols"
   },
   {
     "name": "Tom Cruise",
     "isWorthy": false,
     "episode": 153,
     "season": 3,
-    "image": "/1684767360584.webp"
+    "image": "/1684767360584.webp",
+    "description": "",
+    "title": "Tom Cruise, Top Gun i cienciologia"
   },
   {
     "name": "Oda Nobunaga",
     "isWorthy": false,
     "episode": 154,
     "season": 3,
-    "image": "/1684833646482.webp"
+    "image": "/1684833646482.webp",
+    "description": "",
+    "title": "Oda Nobunaga, el samurai excèntric"
   },
   {
     "name": "Herminio de la gallina",
     "isWorthy": false,
     "episode": 155,
     "season": 3,
-    "image": "/1684936523133.webp"
+    "image": "/1684936523133.webp",
+    "description": "",
+    "title": "Herminio de la gallina, l'home que xiuxiuejava a les gallines"
   },
   {
     "name": "Mariam Nabatanzi",
     "isWorthy": false,
     "episode": 156,
     "season": 3,
-    "image": "/1685011864815.webp"
+    "image": "/1685011864815.webp",
+    "description": "",
+    "title": "Mariam Nabatanzi, la dona més fèrtil del planeta"
   },
   {
     "name": "Tina Muñoz",
     "isWorthy": false,
     "episode": 157,
     "season": 3,
-    "image": "/1685442686664.webp"
+    "image": "/1685442686664.webp",
+    "description": "",
+    "title": "Tina Muñoz, anava com Las Grecas"
   },
   {
     "name": "Amelia Dyer",
     "isWorthy": false,
     "episode": 158,
     "season": 3,
-    "image": "/1685444319698.webp"
+    "image": "/1685444319698.webp",
+    "description": "",
+    "title": "Amelia Dyer, la cuidadora de nens assassina"
   },
   {
     "name": "Jean-Michel Basquiat",
     "isWorthy": false,
     "episode": 159,
     "season": 3,
-    "image": "/1685444283695.webp"
+    "image": "/1685444283695.webp",
+    "description": "",
+    "title": "Jean-Michel Basquiat, anava com Las Grecas"
   },
   {
     "name": "Oswald Spengler",
     "isWorthy": false,
     "episode": 160,
     "season": 3,
-    "image": "/1685444249106.webp"
+    "image": "/1685444249106.webp",
+    "description": "",
+    "title": "Oswald Spengler, més nazi que els nazis"
   },
   {
     "name": "Sally McNeil",
     "isWorthy": false,
     "episode": 161,
     "season": 3,
-    "image": "/1685981837065.webp"
+    "image": "/1685981837065.webp",
+    "description": "",
+    "title": "Sally McNeil, la culturista assassina"
   },
   {
     "name": "Sobhuza II",
     "isWorthy": false,
     "episode": 162,
     "season": 3,
-    "image": "/1686066571594.webp"
+    "image": "/1686066571594.webp",
+    "description": "",
+    "title": "Sobhuza II, Rei de Swazilàndia i pare de família nombrosa"
   },
   {
     "name": "Eugene O’Neill",
     "isWorthy": false,
     "episode": 163,
     "season": 3,
-    "image": "/1686147621327.webp"
+    "image": "/1686147621327.webp",
+    "description": "",
+    "title": "Eugene O'Neill, el dramaturg que s'estimava més els seus Pulitzer que els seus fills"
   },
   {
     "name": "Gabriel Malagrida",
     "isWorthy": false,
     "episode": 164,
     "season": 3,
-    "image": "/1686240004569.webp"
+    "image": "/1686240004569.webp",
+    "description": "",
+    "title": "Gabriel Malagrida, el jesuïta involucrat en l'obscur cas Távora"
   },
   {
     "name": "Ma Barker",
     "isWorthy": false,
     "episode": 165,
     "season": 3,
-    "image": "/1686579387083.webp"
+    "image": "/1686579387083.webp",
+    "description": "",
+    "title": "Ma Barker, mafiosa i millor mare"
   },
   {
     "name": "Mary Ann Bevan",
     "isWorthy": false,
     "episode": 166,
     "season": 3,
-    "image": "/1686651949492.webp"
+    "image": "/1686651949492.webp",
+    "description": "",
+    "title": "Mary Ann Bevan, la dona més lletja del món"
   },
   {
     "name": "Salvador Puig Antich",
     "isWorthy": false,
     "episode": 167,
     "season": 3,
-    "image": "/1686746769678.webp"
+    "image": "/1686746769678.webp",
+    "description": "",
+    "title": "Salvador Puig Antich, membre del MIL. Executat pel franquisme"
   },
   {
     "name": "Jeffrey Dahmer",
     "isWorthy": false,
     "episode": 168,
     "season": 3,
-    "image": "/1686817575106.webp"
+    "image": "/1686817575106.webp",
+    "description": "",
+    "title": "Jeffrey Dahmer, el caníbal de Milwaukee"
   },
   {
     "name": "Juan Crisóstomo de Arriaga",
     "isWorthy": false,
     "episode": 169,
     "season": 3,
-    "image": "/1687194358310.webp"
+    "image": "/1687194358310.webp",
+    "description": "",
+    "title": "Juan Crisóstomo de Arriaga, el Mozart basc"
   },
   {
     "name": "Cameron Willingham",
     "isWorthy": false,
     "episode": 170,
     "season": 3,
-    "image": "/1687253477084.webp"
+    "image": "/1687253477084.webp",
+    "description": "",
+    "title": "Cameron Willingham, va fotre foc a les seves filles? Aquesta és la qüestió"
   },
   {
     "name": "Triboulet",
     "isWorthy": false,
     "episode": 171,
     "season": 3,
-    "image": "/1687253757664.webp"
+    "image": "/1687253757664.webp",
+    "description": "",
+    "title": "Triboulet, el bufó condemnat a mort pel seu humor"
   },
   {
     "name": "Chris McCandless",
     "isWorthy": false,
     "episode": 172,
     "season": 3,
-    "image": "/1687455064439.webp"
+    "image": "/1687455064439.webp",
+    "description": "",
+    "title": "Chris McCandless, un penjat que vivia al bosc (sense gaire traça)"
   },
   {
     "name": "El Tempranillo",
     "isWorthy": false,
     "episode": 173,
     "season": 3,
-    "image": "/1687787748006.webp"
+    "image": "/1687787748006.webp",
+    "description": "",
+    "title": "El Tempranillo, el bandoler més famós de Sierra Morena"
   },
   {
     "name": "Lev Tolstoi",
     "isWorthy": false,
     "episode": 174,
     "season": 3,
-    "image": "/1687859784040.webp"
+    "image": "/1687859784040.webp",
+    "description": "",
+    "title": "Lev Tolstoi, l'aristòcrata que volia ser pobre"
   },
   {
     "name": "Yoo Young-Chul",
     "isWorthy": false,
     "episode": 175,
     "season": 3,
-    "image": "/1687943757345.webp"
+    "image": "/1687943757345.webp",
+    "description": "",
+    "title": "Yoo Young-Chul, l'assassí de l'impermeable"
   },
   {
     "name": "Tragabuches",
     "isWorthy": false,
     "episode": 176,
     "season": 3,
-    "image": "/1688038558203.webp"
+    "image": "/1688038558203.webp",
+    "description": "",
+    "title": "Tragabuches, de torero a bandoler per culpa d'un crim passional"
   },
   {
     "name": "Per Yngve Ohlin",
     "isWorthy": false,
     "episode": 177,
     "season": 3,
-    "image": "/1688398299344.webp"
+    "image": "/1688398299344.webp",
+    "description": "",
+    "title": "Per Yngve Ohlin, el Dead del black metal"
   },
   {
     "name": "Jean-François Pilâtre de Rozier",
     "isWorthy": false,
     "episode": 178,
     "season": 3,
-    "image": "/1688468773098.webp"
+    "image": "/1688468773098.webp",
+    "description": "",
+    "title": "Jean-François Pilâtre de Rozier, el primer accident aeri registrat de la història"
   },
   {
     "name": "Mary Fields",
     "isWorthy": false,
     "episode": 179,
     "season": 3,
-    "image": "/1688547342510.webp"
+    "image": "/1688547342510.webp",
+    "description": "",
+    "title": "Mary Fields, la cartera més ben parida dels Estats Units"
   },
   {
     "name": "Antonio López Sierra",
     "isWorthy": false,
     "episode": 180,
     "season": 3,
-    "image": "/1688677279077.webp"
+    "image": "/1688677279077.webp",
+    "description": "",
+    "title": "Antonio López Sierra, el botxí de capçalera"
   },
   {
     "name": "Helen Bishop",
     "isWorthy": false,
     "episode": 1,
     "season": 4,
-    "image": "/1693839671610.webp"
+    "image": "/1693839671610.webp",
+    "description": "",
+    "title": "Helen Bishop, el que no va aconseguir el Titanic ho va aconseguir una tovallola"
   },
   {
     "name": "Pavel Gorgulov",
     "isWorthy": false,
     "episode": 2,
     "season": 4,
-    "image": "/1693926929271.webp"
+    "image": "/1693926929271.webp",
+    "description": "",
+    "title": "Pavel Gorgulov, un rus boig que va matar el president de França"
   },
   {
     "name": "Archibald Armstrong",
     "isWorthy": false,
     "episode": 3,
     "season": 4,
-    "image": "/1694007652231.webp"
+    "image": "/1694007652231.webp",
+    "description": "",
+    "title": "Archibald Armstrong, el bufó milionari del rei d'Anglaterra"
   },
   {
     "name": "Gogea Mitu",
     "isWorthy": false,
     "episode": 4,
     "season": 4,
-    "image": "/1694080248986.webp"
+    "image": "/1694080248986.webp",
+    "description": "",
+    "title": "Gogea Mitu, el gegant boxejador romanès"
   },
   {
     "name": "Lik Simelum",
     "isWorthy": false,
     "episode": 5,
     "season": 4,
-    "image": "/1694184044424.webp"
+    "image": "/1694184044424.webp",
+    "description": "",
+    "title": "Lik Simelum, l'home que ha sobreviscut a més catàstrofes naturals de la història"
   },
   {
     "name": "Leni Riefenstahl",
     "isWorthy": false,
     "episode": 6,
     "season": 4,
-    "image": "/1694525717041.webp"
+    "image": "/1694525717041.webp",
+    "description": "",
+    "title": "Leni Riefenstahl, la directora del Tercer Reich"
   },
   {
     "name": "Balduí IV de Jerusalem",
     "isWorthy": false,
     "episode": 7,
     "season": 4,
-    "image": "/1694594105122.webp"
+    "image": "/1694594105122.webp",
+    "description": "",
+    "title": "Balduí IV de Jerusalem, el rei leprós"
   },
   {
     "name": "Manuel Malagrida",
     "isWorthy": false,
     "episode": 8,
     "season": 4,
-    "image": "/1694691048405.webp"
+    "image": "/1694691048405.webp",
+    "description": "",
+    "title": "Manuel Malagrida, amb un antic canó de guerra, disparava paquets de tabac a les escoles"
   },
   {
     "name": "Clara Schumann",
     "isWorthy": false,
     "episode": 9,
     "season": 4,
-    "image": "/1695039344986.webp"
+    "image": "/1695039344986.webp",
+    "description": "",
+    "title": "Clara Schumann, un talent a l'ombra del sapastre del seu home"
   },
   {
     "name": "Thomas Midgley",
     "isWorthy": false,
     "episode": 10,
     "season": 4,
-    "image": "/1695123930395.webp"
+    "image": "/1695123930395.webp",
+    "description": "",
+    "title": "Thomas Midgley, l'inventor més desastrós del món sencer. Un perill per a la humanitat"
   },
   {
     "name": "Tupac Amaru II",
     "isWorthy": false,
     "episode": 11,
     "season": 4,
-    "image": "/1695201936866.webp"
+    "image": "/1695201936866.webp",
+    "description": "",
+    "title": "Tupac Amaru II, un convergent peruà que va rebel·lar-se contra els colonitzadors espanyols"
   },
   {
     "name": "David Bowie",
     "isWorthy": false,
     "episode": 12,
     "season": 4,
-    "image": "/1695289235364.webp"
+    "image": "/1695289235364.webp",
+    "description": "",
+    "title": "David Bowie, amb un ull de cada color i 7 grams de cocaïna al dia"
   },
   {
     "name": "Bessie Coleman",
     "isWorthy": false,
     "episode": 13,
     "season": 4,
-    "image": "/1695649819546.webp"
+    "image": "/1695649819546.webp",
+    "description": "",
+    "title": "Bessie Coleman, la primera aviadora afroamericana del món!"
   },
   {
     "name": "Alphonse Laurencic",
     "isWorthy": false,
     "episode": 14,
     "season": 4,
-    "image": "/1695650120475.webp"
+    "image": "/1695650120475.webp",
+    "description": "",
+    "title": "Alphonse Laurencic, el torturador republicà que era franquista"
   },
   {
     "name": "Shōkō Asahara",
     "isWorthy": false,
     "episode": 15,
     "season": 4,
-    "image": "/1695814565123.webp"
+    "image": "/1695814565123.webp",
+    "description": "",
+    "title": "Shoko Asahara, el líder de la Veritat Suprema"
   },
   {
     "name": "Florence Foster Jenkins",
     "isWorthy": false,
     "episode": 16,
     "season": 4,
-    "image": "/1695895516973.webp"
+    "image": "/1695895516973.webp",
+    "description": "",
+    "title": "Florence Foster Jenkins, la millor pitjor cantant d'òpera de tots els temps"
   },
   {
     "name": "Eugene Falleni",
     "isWorthy": false,
     "episode": 17,
     "season": 4,
-    "image": "/1696257336193.webp"
+    "image": "/1696257336193.webp",
+    "description": "",
+    "title": "Eugene Falleni, una persona amb els àtoms fora de lloc"
   },
   {
     "name": "YangDi",
     "isWorthy": false,
     "episode": 18,
     "season": 4,
-    "image": "/1696334768049.webp"
+    "image": "/1696334768049.webp",
+    "description": "",
+    "title": "YangDi, el pitjor emperador xinès de tots els temps"
   },
   {
     "name": "Audrey Hepburn",
     "isWorthy": false,
     "episode": 19,
     "season": 4,
-    "image": "/1696417243415.webp"
+    "image": "/1696417243415.webp",
+    "description": "",
+    "title": "Audrey Hepburn, de netejar lavabos de nazis a estrella de Hollywood"
   },
   {
     "name": "Carmen Polo",
     "isWorthy": false,
     "episode": 20,
     "season": 4,
-    "image": "/1696495569710.webp"
+    "image": "/1696495569710.webp",
+    "description": "",
+    "title": "Carmen Polo, la Collares"
   },
   {
     "name": "Maria Rosenthal",
     "isWorthy": false,
     "episode": 21,
     "season": 4,
-    "image": "/1696856401871.webp"
+    "image": "/1696856401871.webp",
+    "description": "",
+    "title": "Maria Rosenthal, la monja hermafrodita?"
   },
   {
     "name": "William James Sidis",
     "isWorthy": false,
     "episode": 22,
     "season": 4,
-    "image": "/1696939249819.webp"
+    "image": "/1696939249819.webp",
+    "description": "",
+    "title": "William James Sidis, l'inútil més llest del món"
   },
   {
     "name": "Johan Cruyff",
     "isWorthy": false,
     "episode": 23,
     "season": 4,
-    "image": "/1696939841924.webp"
+    "image": "/1696939841924.webp",
+    "description": "",
+    "title": "Johan Cruyff, el pare de l'ADN Barça i del primer Jordi durant la dictadura"
   },
   {
     "name": "Charlotte Corday",
     "isWorthy": false,
     "episode": 24,
     "season": 4,
-    "image": "/1697024169742.webp"
+    "image": "/1697024169742.webp",
+    "description": "",
+    "title": "Charlotte Corday, una rebel moderada. La de la mort de Marat"
   },
   {
     "name": "George Bryan Brummell",
     "isWorthy": false,
     "episode": 25,
     "season": 4,
-    "image": "/1697456433846.webp"
+    "image": "/1697456433846.webp",
+    "description": "",
+    "title": "George Bryan Brummell era tan presumit que tardava una hora a posar-se bé el mocador"
   },
   {
     "name": "Peppino Impastato",
     "isWorthy": false,
     "episode": 26,
     "season": 4,
-    "image": "/1697544019556.webp"
+    "image": "/1697544019556.webp",
+    "description": "",
+    "title": "Peppino Impastato, activista antimàfia, fill d'un clan mafiós sicilià"
   },
   {
     "name": "Gordon Goody",
     "isWorthy": false,
     "episode": 27,
     "season": 4,
-    "image": "/1697619352645.webp"
+    "image": "/1697619352645.webp",
+    "description": "",
+    "title": "Gordon Goody, l'atracador de l'assalt al tren de Glasgow"
   },
   {
     "name": "Erwin Rommel",
     "isWorthy": false,
     "episode": 28,
     "season": 4,
-    "image": "/1697704822075.webp"
+    "image": "/1697704822075.webp",
+    "description": "",
+    "title": "Erwin Rommel, la guineu nazi del desert"
   },
   {
     "name": "Baba Vanga",
     "isWorthy": false,
     "episode": 29,
     "season": 4,
-    "image": "/1698069933376.webp"
+    "image": "/1698069933376.webp",
+    "description": "",
+    "title": "Baba Vanga, la clarivident cega"
   },
   {
     "name": "Joan Salvat Papasseit",
     "isWorthy": false,
     "episode": 30,
     "season": 4,
-    "image": "/1698137706242.webp"
+    "image": "/1698137706242.webp",
+    "description": "",
+    "title": "Joan Salvat-Papasseit, poeta català tuberculós"
   },
   {
     "name": "Mansa Musa I",
     "isWorthy": false,
     "episode": 31,
     "season": 4,
-    "image": "/1698224458988.webp"
+    "image": "/1698224458988.webp",
+    "description": "",
+    "title": "Mansa Musa I, l'emperador més ric de tots els temps"
   },
   {
     "name": "Antonio Vivaldi",
     "isWorthy": false,
     "episode": 32,
     "season": 4,
-    "image": "/1698310504940.webp"
+    "image": "/1698310504940.webp",
+    "description": "",
+    "title": "Antonio Vivaldi, Il Prete Rosso"
   },
   {
     "name": "Charles Domery",
     "isWorthy": false,
     "episode": 33,
     "season": 4,
-    "image": "/1698683718564.webp"
+    "image": "/1698683718564.webp",
+    "description": "",
+    "title": "Charles Domery es menjava els gats (vius) de tres en tres"
   },
   {
     "name": "Lucio Urtubia",
     "isWorthy": false,
     "episode": 34,
     "season": 4,
-    "image": "/1698744917433.webp"
+    "image": "/1698744917433.webp",
+    "description": "",
+    "title": "Lucio Urtubia, l'anarquista navarrès que per poc no ensorra el Citibank"
   },
   {
     "name": "Derek Bentley",
     "isWorthy": false,
     "episode": 35,
     "season": 4,
-    "image": "/1698745236802.webp"
+    "image": "/1698745236802.webp",
+    "description": "",
+    "title": "Derek Bentley, un desgraciat condemnat a mort per una sola frase"
   },
   {
     "name": "Carrie Nation",
     "isWorthy": false,
     "episode": 36,
     "season": 4,
-    "image": "/1698922832471.webp"
+    "image": "/1698922832471.webp",
+    "description": "",
+    "title": "Carrie Nation, la fundadora de l'Associació de Dones Cristianes Abstèmies"
   },
   {
     "name": "Charles Hatfield",
     "isWorthy": false,
     "episode": 37,
     "season": 4,
-    "image": "/1699286705876.webp"
+    "image": "/1699286705876.webp",
+    "description": "",
+    "title": "Charles Hatfield, The rainmaker!"
   },
   {
     "name": "Tutankamon",
     "isWorthy": false,
     "episode": 38,
     "season": 4,
-    "image": "/1699351268526.webp"
+    "image": "/1699351268526.webp",
+    "description": "",
+    "title": "Tutankamon, el faraó nen"
   },
   {
     "name": "Bruce Lee",
     "isWorthy": false,
     "episode": 39,
     "season": 4,
-    "image": "/1699438260130.webp"
+    "image": "/1699438260130.webp",
+    "description": "",
+    "title": "Bruce Lee, l'heroi dels quillos"
   },
   {
     "name": "Josephine Baker",
     "isWorthy": false,
     "episode": 40,
     "season": 4,
-    "image": "/1699523708382.webp"
+    "image": "/1699523708382.webp",
+    "description": "",
+    "title": "Josephine Baker, una vedet milionària de la tribu de l'arc de sant Martí"
   },
   {
     "name": "Daniel Montbars",
     "isWorthy": false,
     "episode": 41,
     "season": 4,
-    "image": "/1699888236074.webp"
+    "image": "/1699888236074.webp",
+    "description": "",
+    "title": "Daniel Montbars, l'exterminador d'espanyols"
   },
   {
     "name": "Giovanni Aldini",
     "isWorthy": false,
     "episode": 42,
     "season": 4,
-    "image": "/1699964170598.webp"
+    "image": "/1699964170598.webp",
+    "description": "",
+    "title": "Giovanni Aldini, intentava ressuscitar els morts aplicant-los electricitat pel recte"
   },
   {
     "name": "Emiliano Zapata",
     "isWorthy": false,
     "episode": 43,
     "season": 4,
-    "image": "/1700043335093.webp"
+    "image": "/1700043335093.webp",
+    "description": "",
+    "title": "Emiliano Zapata: Val més morir dret que viure agenollat!"
   },
   {
     "name": "Howard Marks",
     "isWorthy": false,
     "episode": 44,
     "season": 4,
-    "image": "/1700129419228.webp"
+    "image": "/1700129419228.webp",
+    "description": "",
+    "title": "Howard Marks, Mr Nice, el traficant de marihuana més important de tots"
   },
   {
     "name": "Robert Wadlow",
     "isWorthy": false,
     "episode": 45,
     "season": 4,
-    "image": "/1700502332941.webp"
+    "image": "/1700502332941.webp",
+    "description": "",
+    "title": "Robert Wadlow, el gegant gentil"
   },
   {
     "name": "Margaret Dickson",
     "isWorthy": false,
     "episode": 46,
     "season": 4,
-    "image": "/1700580309455.webp"
+    "image": "/1700580309455.webp",
+    "description": "",
+    "title": "Margaret Dickson, Half Hangit Maggie"
   },
   {
     "name": "Malintzin",
     "isWorthy": false,
     "episode": 47,
     "season": 4,
-    "image": "/1700647846205.webp"
+    "image": "/1700647846205.webp",
+    "description": "",
+    "title": "Malintzin, traïdora o víctima de les circumstàncies?"
   },
   {
     "name": "Willi Herold",
     "isWorthy": false,
     "episode": 48,
     "season": 4,
-    "image": "/1700739972412.webp"
+    "image": "/1700739972412.webp",
+    "description": "",
+    "title": "Willi Herold, el botxí d'Emsland"
   },
   {
     "name": "Jack Churchill",
     "isWorthy": false,
     "episode": 49,
     "season": 4,
-    "image": "/1701098137901.webp"
+    "image": "/1701098137901.webp",
+    "description": "",
+    "title": "Jack Churchill matava nazis amb una espasa, un arc i unes fletxes"
   },
   {
     "name": "Carlo Ponzi",
     "isWorthy": false,
     "episode": 50,
     "season": 4,
-    "image": "/1701167740990.webp"
+    "image": "/1701167740990.webp",
+    "description": "",
+    "title": "Carlo Ponzi, el creador del sistema de Ponzi"
   },
   {
     "name": "Hernán Cortés",
     "isWorthy": false,
     "episode": 51,
     "season": 4,
-    "image": "/1701247548721.webp"
+    "image": "/1701247548721.webp",
+    "description": "",
+    "title": "Hernán Cortés, el colonitzador més sanguinari"
   },
   {
     "name": "Victor d’Avairon",
     "isWorthy": false,
     "episode": 52,
     "season": 4,
-    "image": "/1701339635114.webp"
+    "image": "/1701339635114.webp",
+    "description": "",
+    "title": "Victor d'Avairon, el nen salvatge dels boscos d'Avairon"
   },
   {
     "name": "Lord Carnarvon",
     "isWorthy": false,
     "episode": 53,
     "season": 4,
-    "image": "/1701697558082.webp"
+    "image": "/1701697558082.webp",
+    "description": "",
+    "title": "Lord Carnarvon, un lord anglès que va espoliar mig Egipte"
   },
   {
     "name": "Adam Rainer",
     "isWorthy": false,
     "episode": 54,
     "season": 4,
-    "image": "/1701709556553.webp"
+    "image": "/1701709556553.webp",
+    "description": "",
+    "title": "Adam Rainer, el nan gegant"
   },
   {
     "name": "Joshua Norton",
     "isWorthy": false,
     "episode": 55,
     "season": 4,
-    "image": "/1701709556186.webp"
+    "image": "/1701709556186.webp",
+    "description": "",
+    "title": "Joshua Norton, l'emperador vagabund dels Estats Units"
   },
   {
     "name": "Adolphe Sax",
     "isWorthy": false,
     "episode": 56,
     "season": 4,
-    "image": "/1701710164120.webp"
+    "image": "/1701710164120.webp",
+    "description": "",
+    "title": "Adolphe Sax, l'inventor del saxofon"
   },
   {
     "name": "Camille Claudel",
     "isWorthy": false,
     "episode": 57,
     "season": 4,
-    "image": "/1702301156160.webp"
+    "image": "/1702301156160.webp",
+    "description": "",
+    "title": "Camille Claudel, una artista a l'ombra del patriarcat"
   },
   {
     "name": "Douglas Brent Hegdahl III",
     "isWorthy": false,
     "episode": 58,
     "season": 4,
-    "image": "/1702382719066.webp"
+    "image": "/1702382719066.webp",
+    "description": "",
+    "title": "Douglas Brent Hegdahl III, el soldat americà que va enredar el Vietcong"
   },
   {
     "name": "Jack Daniels",
     "isWorthy": false,
     "episode": 59,
     "season": 4,
-    "image": "/1702469739295.webp"
+    "image": "/1702469739295.webp",
+    "description": "",
+    "title": "Jack Daniels, el de la marca de whisky"
   },
   {
     "name": "Henry Paget",
     "isWorthy": false,
     "episode": 60,
     "season": 4,
-    "image": "/1702553744893.webp"
+    "image": "/1702553744893.webp",
+    "description": "",
+    "title": "Henry Paget, el lord del vodevil (es gastava 3.000 lliures a l'any en calçotets!)"
   },
   {
     "name": "Jim Thorpe",
     "isWorthy": false,
     "episode": 61,
     "season": 4,
-    "image": "/1702916449131.webp"
+    "image": "/1702916449131.webp",
+    "description": "",
+    "title": "Jim Thorpe, medalla d'or als Jocs Olímpics amb un esclop i una espardenya"
   },
   {
     "name": "Lise Meitner",
     "isWorthy": false,
     "episode": 62,
     "season": 4,
-    "image": "/1702990565845.webp"
+    "image": "/1702990565845.webp",
+    "description": "",
+    "title": "Lise Meitner, la mare de la bomba atòmica"
   },
   {
     "name": "Hadji Ali",
     "isWorthy": false,
     "episode": 63,
     "season": 4,
-    "image": "/1703075433785.webp"
+    "image": "/1703075433785.webp",
+    "description": "",
+    "title": "Hadji Ali, l'enigma egipci"
   },
   {
     "name": "Oliver Cromwell",
     "isWorthy": false,
     "episode": 64,
     "season": 4,
-    "image": "/1703167527935.webp"
+    "image": "/1703167527935.webp",
+    "description": "",
+    "title": "Oliver Cromwell, un dictador republicà a Anglaterra"
   },
   {
     "name": "Marshall Applewhite",
     "isWorthy": false,
     "episode": 65,
     "season": 4,
-    "image": "/1703268024461.webp"
+    "image": "/1703268024461.webp",
+    "description": "",
+    "title": "Marshall Applewhite, el líder de la Porta del Cel"
   },
   {
     "name": "Ozzy Osbourne",
     "isWorthy": false,
     "episode": 66,
     "season": 4,
-    "image": "/1703268024924.webp"
+    "image": "/1703268024924.webp",
+    "description": "",
+    "title": "Ozzy Osbourne, el príncep de les tenebres"
   },
   {
     "name": "Gesche Gottfried",
     "isWorthy": false,
     "episode": 67,
     "season": 4,
-    "image": "/1703673326437.webp"
+    "image": "/1703673326437.webp",
+    "description": "",
+    "title": "Gesche Gottfried, l'Àngel de Bremen"
   },
   {
     "name": "Bob, el gat de carrer",
     "isWorthy": false,
     "episode": 68,
     "season": 4,
-    "image": "/1703763031276.webp"
+    "image": "/1703763031276.webp",
+    "description": "",
+    "title": "Bob, el gat de carrer. El gatet més famós de Londres"
   },
   {
     "name": "Frank Sinatra",
     "isWorthy": false,
     "episode": 69,
     "season": 4,
-    "image": "/1703765130472.webp"
+    "image": "/1703765130472.webp",
+    "description": "",
+    "title": "Frank Sinatra, New York, New York, i l'envà nasal de titani"
   },
   {
     "name": "Gerda Taro",
     "isWorthy": false,
     "episode": 70,
     "season": 4,
-    "image": "/1704191166354.webp"
+    "image": "/1704191166354.webp",
+    "description": "",
+    "title": "Gerda Taro, la primera fotògrafa de guerra de la història"
   },
   {
     "name": "Krishna Venta",
     "isWorthy": false,
     "episode": 71,
     "season": 4,
-    "image": "/1704276916437.webp"
+    "image": "/1704276916437.webp",
+    "description": "",
+    "title": "Krishna Venta, el líder de la WKFL Foundation"
   },
   {
     "name": "William Henry, Black death, Johnson",
     "isWorthy": false,
     "episode": 72,
     "season": 4,
-    "image": "/1704374427547.webp"
+    "image": "/1704374427547.webp",
+    "description": "",
+    "title": "William Henry, Black death, Johnson"
   },
   {
     "name": "Aly Dia",
     "isWorthy": false,
     "episode": 73,
     "season": 4,
-    "image": "/1704721863309.webp"
+    "image": "/1704721863309.webp",
+    "description": "",
+    "title": "Ali Dia, el pitjor futbolista de la història"
   },
   {
     "name": "Newton Knight",
     "isWorthy": false,
     "episode": 74,
     "season": 4,
-    "image": "/1704732368403.webp"
+    "image": "/1704732368403.webp",
+    "description": "",
+    "title": "Newton Knight, el sudista antiracista"
   },
   {
     "name": "Drukpa Kunley",
     "isWorthy": false,
     "episode": 75,
     "season": 4,
-    "image": "/1704882632143.webp"
+    "image": "/1704882632143.webp",
+    "description": "",
+    "title": "Drukpa Kunley, fer servir el penis per lluitar contra els dimonis"
   },
   {
     "name": "Gypsy Blanchard",
     "isWorthy": false,
     "episode": 76,
     "season": 4,
-    "image": "/1704969958281.webp"
+    "image": "/1704969958281.webp",
+    "description": "",
+    "title": "Gypsy Blanchard, presonera de la seva mare"
   },
   {
     "name": "Robert Baden-Powell",
     "isWorthy": false,
     "episode": 77,
     "season": 4,
-    "image": "/1705335051928.webp"
+    "image": "/1705335051928.webp",
+    "description": "",
+    "title": "Robert Baden-Powell, el fundador dels Boy Scouts"
   },
   {
     "name": "Papa Formós I",
     "isWorthy": false,
     "episode": 78,
     "season": 4,
-    "image": "/1705404640056.webp"
+    "image": "/1705404640056.webp",
+    "description": "",
+    "title": "Papa Formós I, en van torturar el cadàver i li van negar l'existència"
   },
   {
     "name": "Tsutomu Miyazaki",
     "isWorthy": false,
     "episode": 79,
     "season": 4,
-    "image": "/1705485364172.webp"
+    "image": "/1705485364172.webp",
+    "description": "",
+    "title": "Tsutomu Miyazaki, l'assassí otaku. L'home rata"
   },
   {
     "name": "Germanes Rapunzel",
     "isWorthy": false,
     "episode": 80,
     "season": 4,
-    "image": "/1705581331223.webp"
+    "image": "/1705581331223.webp",
+    "description": "",
+    "title": "Germanes Rapunzel: tenien un tònic miraculós per fer créixer els cabells"
   },
   {
     "name": "Serge Voronoff",
     "isWorthy": false,
     "episode": 81,
     "season": 4,
-    "image": "/1705935351660.webp"
+    "image": "/1705935351660.webp",
+    "description": "",
+    "title": "Serge Voronoff, va descobrir la font de la joventut en els testicles d'un mico"
   },
   {
     "name": "Conxita Grangé",
     "isWorthy": false,
     "episode": 82,
     "season": 4,
-    "image": "/1706022317864.webp"
+    "image": "/1706022317864.webp",
+    "description": "",
+    "title": "Conxita Grangé, una catalana que va combatre i va sobreviure a l'horror nazi"
   },
   {
     "name": "Annie Edson Taylor",
     "isWorthy": false,
     "episode": 83,
     "season": 4,
-    "image": "/1706099839925.webp"
+    "image": "/1706099839925.webp",
+    "description": "",
+    "title": "Annie Edson Taylor, es va tirar amb un barril per les cascades del Niàgara"
   },
   {
     "name": "Arnold Schwarzenegger",
     "isWorthy": false,
     "episode": 84,
     "season": 4,
-    "image": "/1706177760913.webp"
+    "image": "/1706177760913.webp",
+    "description": "",
+    "title": "Arnold Schwarzenegger, la màquina de matar austríaca!"
   },
   {
     "name": "Jeffrey Hudson",
     "isWorthy": false,
     "episode": 85,
     "season": 4,
-    "image": "/1706539262426.webp"
+    "image": "/1706539262426.webp",
+    "description": "",
+    "title": "Jeffrey Hudson, Lord Minimus. Bufó i guerrer (menys a la guerra, sempre anava amb poni)"
   },
   {
     "name": "Jean-Paul Marat",
     "isWorthy": false,
     "episode": 86,
     "season": 4,
-    "image": "/1706625046877.webp"
+    "image": "/1706625046877.webp",
+    "description": "",
+    "title": "Jean-Paul Marat, el de la mort de Marat (en aquest cas, la seva pròpia)"
   },
   {
     "name": "Robert McGee",
     "isWorthy": false,
     "episode": 87,
     "season": 4,
-    "image": "/1706714418310.webp"
+    "image": "/1706714418310.webp",
+    "description": "",
+    "title": "Robert McGee, els indis li van arrencar la cabellera i va sobreviure"
   },
   {
     "name": "Irma Grese",
     "isWorthy": false,
     "episode": 88,
     "season": 4,
-    "image": "/1706780778951.webp"
+    "image": "/1706780778951.webp",
+    "description": "",
+    "title": "Irma Grese, la hiena d'Auschwitz"
   },
   {
     "name": "Jack Gilbert Graham",
     "isWorthy": false,
     "episode": 89,
     "season": 4,
-    "image": "/1707138662830.webp"
+    "image": "/1707138662830.webp",
+    "description": "",
+    "title": "Jack Gilbert Graham, va matar la seva mare per cobrar l'assegurança"
   },
   {
     "name": "Frédéric Bourdin",
     "isWorthy": false,
     "episode": 90,
     "season": 4,
-    "image": "/1707222622558.webp"
+    "image": "/1707222622558.webp",
+    "description": "",
+    "title": "Frédéric Bourdin, el camaleó de les 500 identitats"
   },
   {
     "name": "Alexandre I de Grècia",
     "isWorthy": false,
     "episode": 91,
     "season": 4,
-    "image": "/1707299144461.webp"
+    "image": "/1707299144461.webp",
+    "description": "",
+    "title": "Alexandre I de Grècia va morir per la mossegada de la seva mascota!"
   },
   {
     "name": "Jon Brower Minnoch",
     "isWorthy": false,
     "episode": 92,
     "season": 4,
-    "image": "/1707385808827.webp"
+    "image": "/1707385808827.webp",
+    "description": "",
+    "title": "Jon Brower Minnoch, la persona més grassa de la història"
   },
   {
     "name": "Joe Carstairs",
     "isWorthy": false,
     "episode": 93,
     "season": 4,
-    "image": "/1707741977724.webp"
+    "image": "/1707741977724.webp",
+    "description": "",
+    "title": "Joe Carstairs va caure d'un camell, va picar contra terra i va canviar de personalitat"
   },
   {
     "name": "Francesc Macià",
     "isWorthy": false,
     "episode": 94,
     "season": 4,
-    "image": "/1707836135242.webp"
+    "image": "/1707836135242.webp",
+    "description": "",
+    "title": "Francesc Macià, l'avi de Catalunya"
   },
   {
-    "name": "François l\"Olonnais",
+    "name": "François l'Olonnais",
     "isWorthy": false,
     "episode": 95,
     "season": 4,
-    "image": "/1707914747684.webp"
+    "image": "/1707914747684.webp",
+    "description": "",
+    "title": "François l'Olonnais, el càstig dels espanyols"
   },
   {
     "name": "Eben Byers",
     "isWorthy": false,
     "episode": 96,
     "season": 4,
-    "image": "/1707999065281.webp"
+    "image": "/1707999065281.webp",
+    "description": "",
+    "title": "Eben Byers, un home addicte al Radithor (aigua amb radi)"
   },
   {
     "name": "Zinaïda Portnova",
     "isWorthy": false,
     "episode": 97,
     "season": 4,
-    "image": "/1708347015374.webp"
+    "image": "/1708347015374.webp",
+    "description": "",
+    "title": "Zinaïda Portnova, la matanazis"
   },
   {
     "name": "Shi Pei Pu",
     "isWorthy": false,
     "episode": 98,
     "season": 4,
-    "image": "/1708424458928.webp"
+    "image": "/1708424458928.webp",
+    "description": "",
+    "title": "Shi Pei Pu, cantant d'òpera i espia"
   },
   {
     "name": "Tiradentes",
     "isWorthy": false,
     "episode": 99,
     "season": 4,
-    "image": "/1708606515430.webp"
+    "image": "/1708606515430.webp",
+    "description": "",
+    "title": "Tiradentes, un dentista que es va convertir en un heroi brasiler"
   },
   {
     "name": "Matthias Buchinger",
     "isWorthy": false,
     "episode": 100,
     "season": 4,
-    "image": "/1708606912599.webp"
+    "image": "/1708606912599.webp",
+    "description": "",
+    "title": "Matthias Buchinger, l'homenet de Nuremberg"
   },
   {
     "name": "Gabriel Dante Rossetti",
     "isWorthy": false,
     "episode": 101,
     "season": 4,
-    "image": "/1708960224402.webp"
+    "image": "/1708960224402.webp",
+    "description": "",
+    "title": "Gabriel Dante Rossetti, el poeta cràpula"
   },
   {
     "name": "Madonna",
     "isWorthy": false,
     "episode": 102,
     "season": 4,
-    "image": "/1709045169010.webp"
+    "image": "/1709045169010.webp",
+    "description": "",
+    "title": "Madonna, like a Virgin?"
   },
   {
     "name": "John Harvey Kellogg",
     "isWorthy": false,
     "episode": 103,
     "season": 4,
-    "image": "/1709127957385.webp"
+    "image": "/1709127957385.webp",
+    "description": "",
+    "title": "John Harvey Kellogg, el creador dels cereals Special K"
   },
   {
     "name": "Erwin Schrödinger",
     "isWorthy": false,
     "episode": 104,
     "season": 4,
-    "image": "/1709211319876.webp"
+    "image": "/1709211319876.webp",
+    "description": "",
+    "title": "Erwin Schrödinger, el del gatot mort a dins la capsa"
   },
   {
     "name": "Marga d’Andurain",
     "isWorthy": false,
     "episode": 105,
     "season": 4,
-    "image": "/1709565038325.webp"
+    "image": "/1709565038325.webp",
+    "description": "",
+    "title": "Marga d'Andurain, aventurera, espia, traficant de diamants... una mica de tot"
   },
   {
     "name": "Lopez Lomong",
     "isWorthy": false,
     "episode": 106,
     "season": 4,
-    "image": "/1709632266148.webp"
+    "image": "/1709632266148.webp",
+    "description": "",
+    "title": "Lopez Lomong, de nen soldat a atleta d'elit"
   },
   {
     "name": "Amar Bharati",
     "isWorthy": false,
     "episode": 107,
     "season": 4,
-    "image": "/1709726738556.webp"
+    "image": "/1709726738556.webp",
+    "description": "",
+    "title": "Amar Bharati porta més de 50 anys amb el braç aixecat"
   },
   {
     "name": "Tura Satana",
     "isWorthy": false,
     "episode": 108,
     "season": 4,
-    "image": "/1709803261514.webp"
+    "image": "/1709803261514.webp",
+    "description": "",
+    "title": "Tura Satana, la inspiració de Tarantino per fer Kill Bill"
   },
   {
     "name": "Èric el Roig",
     "isWorthy": false,
     "episode": 109,
     "season": 4,
-    "image": "/1710170753556.webp"
+    "image": "/1710170753556.webp",
+    "description": "",
+    "title": "Èric el Roig, el cabdill de Groenlàndia"
   },
   {
     "name": "Genie Wiley",
     "isWorthy": false,
     "episode": 110,
     "season": 4,
-    "image": "/1710241257510.webp"
+    "image": "/1710241257510.webp",
+    "description": "",
+    "title": "Genie Wiley, el pitjor cas de nena salvatge"
   },
   {
     "name": "El Tarzan d’Argelaguer",
     "isWorthy": false,
     "episode": 111,
     "season": 4,
-    "image": "/1710336927034.webp"
+    "image": "/1710336927034.webp",
+    "description": "",
+    "title": "El Tarzan d'Argelaguer, un okupa del bosc"
   },
   {
     "name": "Eddie Slovik",
     "isWorthy": false,
     "episode": 112,
     "season": 4,
-    "image": "/1710418546227.webp"
+    "image": "/1710418546227.webp",
+    "description": "",
+    "title": "Eddie Slovik, el soldat covard que va ser sentenciat a mort"
   },
   {
     "name": "Timothy Dexter",
     "isWorthy": false,
     "episode": 113,
     "season": 4,
-    "image": "/1710761740001.webp"
+    "image": "/1710761740001.webp",
+    "description": "",
+    "title": "Timothy Dexter, un empresari analfabet amb sort"
   },
   {
     "name": "Jacques-Louis David",
     "isWorthy": false,
     "episode": 114,
     "season": 4,
-    "image": "/1710850571981.webp"
+    "image": "/1710850571981.webp",
+    "description": "",
+    "title": "Jacques-Louis David, el pintor de La mort de Marat"
   },
   {
     "name": "Martin A. Couney",
     "isWorthy": false,
     "episode": 115,
     "season": 4,
-    "image": "/1710934565235.webp"
+    "image": "/1710934565235.webp",
+    "description": "",
+    "title": "Martin A. Couney, el fals doctor que va popularitzar les incubadores"
   },
   {
     "name": "Andy Fordham",
     "isWorthy": false,
     "episode": 116,
     "season": 4,
-    "image": "/1711033265663.webp"
+    "image": "/1711033265663.webp",
+    "description": "",
+    "title": "Andy Fordham, el rei dels dards, el viking"
   },
   {
     "name": "Timothy Treadwell",
     "isWorthy": false,
     "episode": 117,
     "season": 4,
-    "image": "/1711381237487.webp"
+    "image": "/1711381237487.webp",
+    "description": "",
+    "title": "Timothy Treadwell, un ros a qui se'l va cruspir un os"
   },
   {
     "name": "Aimo Koivunen",
     "isWorthy": false,
     "episode": 118,
     "season": 4,
-    "image": "/1711446381682.webp"
+    "image": "/1711446381682.webp",
+    "description": "",
+    "title": "Aimo Koivunen, el soldat drogat"
   },
   {
     "name": "Rossa Matilda Richter",
     "isWorthy": false,
     "episode": 119,
     "season": 4,
-    "image": "/1711533925187.webp"
+    "image": "/1711533925187.webp",
+    "description": "",
+    "title": "Rossa Matilda Richter, la bala humana!"
   },
   {
     "name": "Herbert Mullin",
     "isWorthy": false,
     "episode": 120,
     "season": 4,
-    "image": "/1711554367543.webp"
+    "image": "/1711554367543.webp",
+    "description": "",
+    "title": "Herbert Mullin, un assassí en sèrie de manual (per fi!)"
   },
   {
     "name": "Ilya Ivanovich Ivanov",
     "isWorthy": false,
     "episode": 121,
     "season": 4,
-    "image": "/1711637261058.webp"
+    "image": "/1711637261058.webp",
+    "description": "",
+    "title": "Ilya Ivanovich Ivanov, el creador de l'exèrcit d'homes mico de Stalin"
   },
   {
     "name": "Maria Anna Mozart",
     "isWorthy": false,
     "episode": 122,
     "season": 4,
-    "image": "/1712055915976.webp"
+    "image": "/1712055915976.webp",
+    "description": "",
+    "title": "Maria Anna Mozart, tenia tant talent com son germà. L'únic problema és que era una noia"
   },
   {
     "name": "Lao Tse",
     "isWorthy": false,
     "episode": 123,
     "season": 4,
-    "image": "/1712140842857.webp"
+    "image": "/1712140842857.webp",
+    "description": "",
+    "title": "Lao Tse, pensador i fundador del taoisme"
   },
   {
     "name": "Becerrillo",
     "isWorthy": false,
     "episode": 124,
     "season": 4,
-    "image": "/1712221285794.webp"
+    "image": "/1712221285794.webp",
+    "description": "",
+    "title": "Becerrillo, el gos de guerra espanyol"
   },
   {
     "name": "Heinrich Schliemann",
     "isWorthy": false,
     "episode": 125,
     "season": 4,
-    "image": "/1712584546735.webp"
+    "image": "/1712584546735.webp",
+    "description": "",
+    "title": "Heinrich Schliemann, l'excèntric milionari que va descobrir Troya"
   },
   {
     "name": "Francesc Darder",
     "isWorthy": false,
     "episode": 126,
     "season": 4,
-    "image": "/1712652962703.webp"
+    "image": "/1712652962703.webp",
+    "description": "",
+    "title": "Francesc Darder, el del negre de Banyoles i el Barnum català"
   },
   {
     "name": "George Orwell",
     "isWorthy": false,
     "episode": 127,
     "season": 4,
-    "image": "/1712748344615.webp"
+    "image": "/1712748344615.webp",
+    "description": "",
+    "title": "George Orwell, defensor de la república durant la Guerra Civil. Va escriure Homenatge a Catalunya"
   },
   {
     "name": "Douglas Corrigan",
     "isWorthy": false,
     "episode": 128,
     "season": 4,
-    "image": "/1712827272922.webp"
+    "image": "/1712827272922.webp",
+    "description": "",
+    "title": "Douglas Corrigan, Wrong Way Douglas: volia anar a Califòrnia i es va presentar a Irlanda"
   },
   {
     "name": "Marco Polo",
     "isWorthy": false,
     "episode": 129,
     "season": 4,
-    "image": "/1713183652467.webp"
+    "image": "/1713183652467.webp",
+    "description": "",
+    "title": "Marco Polo, el del joc de les piscines i el de la furgoneta Mercedes"
   },
   {
     "name": "Edward Colston",
     "isWorthy": false,
     "episode": 130,
     "season": 4,
-    "image": "/1713267931707.webp"
+    "image": "/1713267931707.webp",
+    "description": "",
+    "title": "Edward Colston, un de tants esclavistes homenatjats"
   },
   {
     "name": "Antonina Makàrova",
     "isWorthy": false,
     "episode": 131,
     "season": 4,
-    "image": "/1713363365918.webp"
+    "image": "/1713363365918.webp",
+    "description": "",
+    "title": "Antonina Makàrova, la noia de la metralladora"
   },
   {
     "name": "Pompeu Fabra",
     "isWorthy": false,
     "episode": 132,
     "season": 4,
-    "image": "/1713438917115.webp"
+    "image": "/1713438917115.webp",
+    "description": "",
+    "title": "Pompeu Fabra, el del diccionari"
   },
   {
     "name": "Brigitte Hoss",
     "isWorthy": false,
     "episode": 133,
     "season": 4,
-    "image": "/1713787526340.webp"
+    "image": "/1713787526340.webp",
+    "description": "",
+    "title": "Brigitte Höss, vivia en un camp de concentració i s'ho passava de meravella"
   },
   {
     "name": "Alejandra Pizarnik",
     "isWorthy": false,
     "episode": 134,
     "season": 4,
-    "image": "/1713866458100.webp"
+    "image": "/1713866458100.webp",
+    "description": "",
+    "title": "Alejandra Pizarnik, una poetessa suïcida"
   },
   {
     "name": "Griselda Blanco",
     "isWorthy": false,
     "episode": 135,
     "season": 4,
-    "image": "/1713957632690.webp"
+    "image": "/1713957632690.webp",
+    "description": "",
+    "title": "Griselda Blanco, la padrina de Pablo Escobar"
   },
   {
     "name": "Anne Perry",
     "isWorthy": false,
     "episode": 136,
     "season": 4,
-    "image": "/1714040733433.webp"
+    "image": "/1714040733433.webp",
+    "description": "",
+    "title": "Anne Perry, assassina i escriptora de novel·la negra"
   },
   {
     "name": "Florencio Pla Meseguer",
     "isWorthy": false,
     "episode": 137,
     "season": 4,
-    "image": "/1714391735917.webp"
+    "image": "/1714391735917.webp",
+    "description": "",
+    "title": "Florencio Pla Meseguer, el llop del Maestrat"
   },
   {
     "name": "Natti Natti Nattramn",
     "isWorthy": false,
     "episode": 138,
     "season": 4,
-    "image": "/1714473982319.webp"
+    "image": "/1714473982319.webp",
+    "description": "",
+    "title": "Natti Natti Nattramn s'automutilava mentre cantava per ser més satànic"
   },
   {
     "name": "Pauline de Montmorin",
     "isWorthy": false,
     "episode": 139,
     "season": 4,
-    "image": "/1714473981801.webp"
+    "image": "/1714473981801.webp",
+    "description": "",
+    "title": "Pauline de Montmorin, la tuberculosi la va salvar de la guillotina"
   },
   {
     "name": "Locusta",
     "isWorthy": false,
     "episode": 140,
     "season": 4,
-    "image": "/1714660275381.webp"
+    "image": "/1714660275381.webp",
+    "description": "",
+    "title": "Locusta, l'enverinadora de les elits romanes"
   },
   {
     "name": "Camberley Kate",
     "isWorthy": false,
     "episode": 141,
     "season": 4,
-    "image": "/1715003276577.webp"
+    "image": "/1715003276577.webp",
+    "description": "",
+    "title": "Camberley Kate, la boja dels gossos"
   },
   {
     "name": "Serguei Brukhonenko",
     "isWorthy": false,
     "episode": 142,
     "season": 4,
-    "image": "/1715076627454.webp"
+    "image": "/1715076627454.webp",
+    "description": "",
+    "title": "Serguei Brukhonenko, el doctor boig dels gossos"
   },
   {
     "name": "María del Pilar Teresa Cayetana de Silva Álvarez de Toledo",
     "isWorthy": false,
     "episode": 143,
     "season": 4,
-    "image": "/1715179279562.webp"
+    "image": "/1715179279562.webp",
+    "description": "",
+    "title": "María del Pilar Teresa Cayetana de Silva Álvarez de Toledo, una Cayetana propera al poble"
   },
   {
     "name": "Salvador Fàbrega",
     "isWorthy": false,
     "episode": 144,
     "season": 4,
-    "image": "/1715184324723.webp"
+    "image": "/1715184324723.webp",
+    "description": "",
+    "title": "Salvador Fàbrega, l'Action Man català"
   },
   {
     "name": "Svetlana Al·lilúieva",
     "isWorthy": false,
     "episode": 145,
     "season": 4,
-    "image": "/1715600130027.webp"
+    "image": "/1715600130027.webp",
+    "description": "",
+    "title": "Svetlana Al·lilúieva, la filla d'en Ióssif Stalin"
   },
   {
     "name": "Henry Gunther, George Price i Augustin Trébuchon",
     "isWorthy": false,
     "episode": 146,
     "season": 4,
-    "image": "/1715683858531.webp"
+    "image": "/1715683858531.webp",
+    "description": "",
+    "title": "Henry Gunther, George Price i Augustin Trébuchon, els últims tres"
   },
   {
     "name": "Nellie Bly",
     "isWorthy": false,
     "episode": 147,
     "season": 4,
-    "image": "/1715768423003.webp"
+    "image": "/1715768423003.webp",
+    "description": "",
+    "title": "Nellie Bly, la volta al món en 72 dies"
   },
   {
     "name": "Li Bai",
     "isWorthy": false,
     "episode": 148,
     "season": 4,
-    "image": "/1715850065979.webp"
+    "image": "/1715850065979.webp",
+    "description": "",
+    "title": "Li Bai, el poeta borratxo que volia abraçar la lluna"
   },
   {
     "name": "Gino Bartali",
     "isWorthy": false,
     "episode": 149,
     "season": 4,
-    "image": "/1715955331808.webp"
+    "image": "/1715955331808.webp",
+    "description": "",
+    "title": "Gino Bartali, el ciclista de Mussolini"
   },
   {
     "name": "Monty Clift",
     "isWorthy": false,
     "episode": 150,
     "season": 4,
-    "image": "/1716284170197.webp"
+    "image": "/1716284170197.webp",
+    "description": "",
+    "title": "Monty Clift, l'actor de Hollywood que es va rebentar la cara en un accident"
   },
   {
     "name": "Julian Assange",
     "isWorthy": false,
     "episode": 151,
     "season": 4,
-    "image": "/1716368724197.webp"
+    "image": "/1716368724197.webp",
+    "description": "",
+    "title": "Julian Assange, Mr. Robot"
   },
   {
     "name": "Greyfriars Bobby",
     "isWorthy": false,
     "episode": 152,
     "season": 4,
-    "image": "/1716453960615.webp"
+    "image": "/1716453960615.webp",
+    "description": "",
+    "title": "Greyfriars Bobby, l'amic més fidel d'Edimburg"
   },
   {
     "name": "Nishimura Mako",
     "isWorthy": false,
     "episode": 153,
     "season": 4,
-    "image": "/1716811234269.webp"
+    "image": "/1716811234269.webp",
+    "description": "",
+    "title": "Nishimura Mako, la primera (i única) dona que ha entrat a la Yakuza"
   },
   {
     "name": "George Psalmanazar",
     "isWorthy": false,
     "episode": 154,
     "season": 4,
-    "image": "/1716893752590.webp"
+    "image": "/1716893752590.webp",
+    "description": "",
+    "title": "George Psalmanazar, un estafador que deia que era de la reialesa de Taiwan"
   },
   {
     "name": "Freddie Mercury",
     "isWorthy": false,
     "episode": 155,
     "season": 4,
-    "image": "/1716985528744.webp"
+    "image": "/1716985528744.webp",
+    "description": "",
+    "title": "Freddie Mercury, show must go on!"
   },
   {
     "name": "Thomas Quick",
     "isWorthy": false,
     "episode": 156,
     "season": 4,
-    "image": "/1716993925690.webp"
+    "image": "/1716993925690.webp",
+    "description": "",
+    "title": "Thomas Quick s'inventava assassinats per ser famós"
   },
   {
     "name": "Vjeran Tomic",
     "isWorthy": false,
     "episode": 157,
     "season": 4,
-    "image": "/1717423229433.webp"
+    "image": "/1717423229433.webp",
+    "description": "",
+    "title": "Vjeran Tomic, l'home aranya de París"
   },
   {
     "name": "Enric Tomàs Urpí",
     "isWorthy": false,
     "episode": 158,
     "season": 4,
-    "image": "/1717518683752.webp"
+    "image": "/1717518683752.webp",
+    "description": "",
+    "title": "Enric Tomàs Urpí, un català que va sobreviure a l'Holocaust? Més o menys"
   },
   {
     "name": "Elizabeth Bisland",
     "isWorthy": false,
     "episode": 159,
     "season": 4,
-    "image": "/1717577768790.webp"
+    "image": "/1717577768790.webp",
+    "description": "",
+    "title": "Elizabeth Bisland, la volta al món en 80 dies, però va quedar segona"
   },
   {
     "name": "Robert Cornish",
     "isWorthy": false,
     "episode": 160,
     "season": 4,
-    "image": "/1717664121006.webp"
+    "image": "/1717664121006.webp",
+    "description": "",
+    "title": "Robert Cornish, l'inventor del gronxador de morts!"
   },
   {
     "name": "Jules Verreaux",
     "isWorthy": false,
     "episode": 161,
     "season": 4,
-    "image": "/1718027204044.webp"
+    "image": "/1718027204044.webp",
+    "description": "",
+    "title": "Jules Verreaux dissecava tot el que trobava"
   },
   {
     "name": "Khutulun",
     "isWorthy": false,
     "episode": 162,
     "season": 4,
-    "image": "/1718096432731.webp"
+    "image": "/1718096432731.webp",
+    "description": "",
+    "title": "Khutulun, una gran guerrera amb un gran caràcter"
   },
   {
     "name": "Kim Ung-yong",
     "isWorthy": false,
     "episode": 163,
     "season": 4,
-    "image": "/1718185256126.webp"
+    "image": "/1718185256126.webp",
+    "description": "",
+    "title": "Kim Ung-Yong, un nen prodigi fracassat, però feliç"
   },
   {
     "name": "Larry Walters",
     "isWorthy": false,
     "episode": 164,
     "season": 4,
-    "image": "/1718271058205.webp"
+    "image": "/1718271058205.webp",
+    "description": "",
+    "title": "Larry Walters, l'aeronauta que va inspirar la pel·lícula Up"
   },
   {
     "name": "Els bessons Jim",
     "isWorthy": false,
     "episode": 165,
     "season": 4,
-    "image": "/1718624757156.webp"
+    "image": "/1718624757156.webp",
+    "description": "",
+    "title": "Els bessons Jim, dues vides paral·leles a 60 quilòmetres de distància"
   },
   {
     "name": "Luz Amparo Cuevas",
     "isWorthy": false,
     "episode": 166,
     "season": 4,
-    "image": "/1718713875701.webp"
+    "image": "/1718713875701.webp",
+    "description": "",
+    "title": "Luz Amparo Cuevas, la vident d'El Escorial"
   },
   {
     "name": "Pierre Lottier",
     "isWorthy": false,
     "episode": 167,
     "season": 4,
-    "image": "/1718790360685.webp"
+    "image": "/1718790360685.webp",
+    "description": "",
+    "title": "Pierre Lottier, un marxant d'art que traficava amb obres robades pels nazis"
   },
   {
     "name": "Phyllis Penzo i Robert Cunningham",
     "isWorthy": true,
     "episode": 168,
     "season": 4,
-    "image": "/1718791578254.webp"
+    "image": "/1718791578254.webp",
+    "description": "",
+    "title": "Phyllis Penzo i Robert Cunningham, una bonica història d'amistat"
   },
   {
     "name": "Bertín Osborne",
     "isWorthy": false,
     "episode": 169,
     "season": 4,
-    "image": "/1718976913501.webp"
+    "image": "/1718976913501.webp",
+    "description": "",
+    "title": "Bertín Osborne, el pecho lobo espanyol"
   },
   {
     "name": "Andy Warhol",
     "isWorthy": false,
     "episode": 170,
     "season": 4,
-    "image": "/1719315621210.webp"
+    "image": "/1719315621210.webp",
+    "description": "",
+    "title": "Andy Warhol, el de la sopa Campbell"
   },
   {
     "name": "Robert White",
     "isWorthy": false,
     "episode": 171,
     "season": 4,
-    "image": "/1719393615899.webp"
+    "image": "/1719393615899.webp",
+    "description": "",
+    "title": "Robert White, el doctor dels trasplantaments de caps"
   },
   {
-    "name": "Sinéad O\"Connor",
+    "name": "Sinéad O'Connor",
     "isWorthy": false,
     "episode": 172,
     "season": 4,
-    "image": "/1719489309119.webp"
+    "image": "/1719489309119.webp",
+    "description": "",
+    "title": "Sinéad O'Connor va estripar la foto del sant pare en horari de màxima audiència"
   },
   {
     "name": "Vicenç Coma",
     "isWorthy": false,
     "episode": 173,
     "season": 4,
-    "image": "/1719848159818.webp"
+    "image": "/1719848159818.webp",
+    "description": "",
+    "title": "Vicenç Coma, el coix del carrer de Gurb"
   },
   {
     "name": "Policarpa Salavarrieta",
     "isWorthy": false,
     "episode": 174,
     "season": 4,
-    "image": "/1719907848060.webp"
+    "image": "/1719907848060.webp",
+    "description": "",
+    "title": "Policarpa Salavarrieta, l'espia modista"
   },
   {
     "name": "Josef Mengele",
     "isWorthy": false,
     "episode": 175,
     "season": 4,
-    "image": "/1719908450196.webp"
+    "image": "/1719908450196.webp",
+    "description": "",
+    "title": "Josef Mengele, l'àngel de la mort"
   },
   {
     "name": "Thomas Alva Edison",
     "isWorthy": false,
     "episode": 176,
     "season": 4,
-    "image": "/1720194098248.webp"
+    "image": "/1720194098248.webp",
+    "description": "",
+    "title": "Thomas Alva Edison, ell no inventava, sinó que millorava les coses (o les robava)"
   },
   {
     "name": "Diogo Alves",
     "isWorthy": false,
     "episode": 177,
     "season": 4,
-    "image": "/1721647848675.webp"
+    "image": "/1721647848675.webp",
+    "description": "",
+    "title": "Diogo Alves, l'assassí de l'aqüeducte"
   },
   {
     "name": "Milena Quaglini",
     "isWorthy": false,
     "episode": 178,
     "season": 4,
-    "image": "/1720601731562.webp"
+    "image": "/1720601731562.webp",
+    "description": "Milena Quaglini, la viuda negra de Pavia (sobrenom molt injust)",
+    "title": ""
   },
   {
     "name": "David Berkowitz",
     "isWorthy": false,
     "episode": 179,
     "season": 4,
-    "image": "/1721647855797.webp"
+    "image": "/1721647855797.webp",
+    "description": "David Berkowitz, el fill d'en Sam",
+    "title": ""
   },
   {
     "name": "Herbert Baumeister",
     "isWorthy": false,
     "episode": 180,
     "season": 4,
-    "image": "/1720602051496.webp"
+    "image": "/1720602051496.webp",
+    "description": "Herbert Baumeister, l'estrangulador de la I-70",
+    "title": ""
   },
   {
     "name": "Aileen Wuornos",
     "isWorthy": false,
     "episode": 181,
     "season": 4,
-    "image": "/1720603245614.webp"
+    "image": "/1720603245614.webp",
+    "description": "",
+    "title": "Aileen Wuornos, Monster està inspirada en aquesta pobra mossa"
   },
   {
     "name": "Pierre Basson",
     "isWorthy": false,
     "episode": 182,
     "season": 4,
-    "image": "/1720602941755.webp"
+    "image": "/1720602941755.webp",
+    "description": "",
+    "title": "Pierre Basson, el primer assassí serial de Ciutat del Cap"
   },
   {
     "name": "Richard Williams",
     "isWorthy": false,
     "episode": 1,
     "season": 5,
-    "image": "/1725031513383.webp"
+    "image": "/1725031513383.webp",
+    "description": "",
+    "title": "Richard Williams, el tenista del Titanic"
   },
   {
     "name": "Peter Hurkos",
     "isWorthy": false,
     "episode": 2,
     "season": 5,
-    "image": "/1725285356521.webp"
+    "image": "/1725285356521.webp",
+    "description": "",
+    "title": "Peter Hurkos, el detectiu psíquic original"
   },
   {
     "name": "Vesna Vulović",
     "isWorthy": false,
     "episode": 3,
     "season": 5,
-    "image": "/1725285701571.webp"
+    "image": "/1725285701571.webp",
+    "description": "",
+    "title": "Vesna Vulovic, el rècord de salt més alt sense paracaigudes!"
   },
   {
     "name": "Louis Braille",
     "isWorthy": false,
     "episode": 4,
     "season": 5,
-    "image": "/1725464121565.webp"
+    "image": "/1725464121565.webp",
+    "description": "",
+    "title": "Louis Braille es va punxar un ull i es va quedar cec. Llavors es va inventar el braille"
   },
   {
     "name": "Tim Samaras",
     "isWorthy": false,
     "episode": 5,
     "season": 5,
-    "image": "/1725633029275.webp"
+    "image": "/1725633029275.webp",
+    "description": "",
+    "title": "Tim Samaras, el caçatornados que va ser caçat per un tornado"
   },
   {
     "name": "Julio Iglesias",
     "isWorthy": true,
     "episode": 6,
     "season": 5,
-    "image": "/1725896736727.webp"
+    "image": "/1725896736727.webp",
+    "description": "",
+    "title": "Julio Iglesias, un truà, un senyor"
   }
 ]

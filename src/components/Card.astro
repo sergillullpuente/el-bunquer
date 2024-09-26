@@ -8,8 +8,9 @@ export interface Props {
 	episode: number;
 	isWorthy: boolean;
 	image: string;
+	title: string;
 }
-const { name, season, episode, isWorthy, image } = Astro.props;
+const { name, season, episode, isWorthy, image, title } = Astro.props;
 ---
 
 <style>
@@ -75,6 +76,7 @@ const { name, season, episode, isWorthy, image } = Astro.props;
 	<a href=`/characters/${nameToSlug(name)}`>
 		<div class="card-image">
 			<Image
+				transition:name=`img-${image}`
 				src={image}
 				alt={name}
 				width="200"

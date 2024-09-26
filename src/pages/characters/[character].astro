@@ -10,28 +10,28 @@ export function nameToSlug(name: string) {
     return name.replace(/^-+|-+$/g, '');
 }
 export function getStaticPaths() {
-    return characters.map(({name, isWorthy, season, image})=> ({
+    return characters.map(({name, title, image})=> ({
         params: {character: nameToSlug(name)},
-        props: {name, isWorthy, season, image}
+        props: {name, title, image}
     }));
 }
-
-const { name, isWorthy, season, image } = Astro.props;
+const { name, title, image } = Astro.props;
 ---
 <style>
     .character-header {
         display: flex;
-        height: 400px;
-        width: 100%;
-        background-color: var(--accent);
-        object-fit: cover;
-        border-radius: 50%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1rem;
     }
 </style>
 <Layout title=`El búnquer - ${name}`>
     <main>
         <div class="character-header">
+            <h1>{title}</h1>
             <Image
+                transition:name=`img-${image}`
                 src={image}
                 alt={name}
                 width="750"
