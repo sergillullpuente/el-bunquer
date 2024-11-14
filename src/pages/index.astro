@@ -1,35 +1,33 @@
 ---
-import characters from '@/data/characters.json'
 import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
-import Search from "../components/Search.astro";
-import Filters from "../components/Filters.astro";
+import EpisodeList from '../components/EpisodeList';
+const episodeResponse = await fetch('https://api.3cat.cat/audios?ordre=-data_publicacio&programaradio_id=1909&pagina=1&data_publicacio=31/08/2023-15/07/2024').then((response)=>response.json());
+const episodes = episodeResponse.resposta.items.item.map((epi) => {
+  const [datePart] = epi.data_publicacio.split(' ');
+  const [day, month, year] = datePart.split('/').map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+  return {
+    id: epi.id,
+    title: epi.titol,
+    published: date.toISOString(),
+    description: epi.entradeta,
+    content: epi.entradeta,
+    episodeImage: epi.imatges.imatge[0].text,
+    episodeNumber: "1",
+    episodeSlug: epi.nom_friendly,
+    audio:{
+      src: `https://audios.3catvideos.cat/multimedia/${epi.audios.audio[0].text}`,
+      type: "audio/mpeg"
+    }
+  }
+})
 ---
 
-<style>
-	h1 {
-		font-size: 4rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-bottom: 1em;
-	}
-	.card-grid {
-		@media (max-width: 1024px) {
-			grid-template-columns: repeat(2, minmax(0px, 1fr));
-		}
-		display: grid;
-		grid-template-columns: repeat(4, minmax(0, 1fr));
-	}
-</style>
 <Layout title="El Búnquer">
-	<main>
-		<h1>El Búnquer</h1>
-		<Search placeholder="Buscar personatge..." />
-		<Filters/>
-		<section class="card-grid">
-			{ characters.map(cItem => <Card {...cItem} />) }
-		</section>
-	</main>
+  <div class="relative z-10 px-8 lg:px-18">
+    <h1 class="text-4xl font-bold text-light-text-heading dark:text-white">
+      Capitols
+    </h1>
+    <EpisodeList client:visible episodes={episodes} />
+  </div>
 </Layout>
-

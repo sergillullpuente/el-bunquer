@@ -1,46 +1,102 @@
 ---
 import { ViewTransitions } from 'astro:transitions';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Dots from '../components/Dots.astro';
+import Player from '../components/Player';
+import ShowArtwork from '../components/ShowArtwork.astro';
 
-interface Props {
-	title: string;
+import '../styles/global.css';
+
+
+export interface Props {
+  /**
+   * If defined, this will override the default canonical URL.
+   */
+  canonicalURL?: URL;
+  description?: string;
+  imageUrl?: string;
+  title: string;
 }
-const { title } = Astro.props;
+
+const { imageUrl, title } = Astro.props;
+
 ---
 
-<style is:global>
-	:root {
-		--accent: #7c1a2b;
-		--accent-light: #d09ea6;
-		--accent-dark: #a86370;
-		--background-dark: #13151a;
-		--background-ligth: #1c1d26;
-		--size: 50px;
-	}
-	html {
-		font-family: Montserrat, system-ui, sans-serif;
-		background: var(--background-dark);
-		margin: auto;
-		padding: 1rem;
-		min-height: 80dvh;
-		max-width: calc(100% - 5rem);
-		color: white;
-		font-size: 20px;
-		line-height: 1.6;
-	}
-</style>
-
 <!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content="Aquí es reuneixen els personatges dantescos i estrafolaris que en Jair la Neus i en Peyu ens han portat al podcast El Búnquer" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/bunquer-logo.svg" />
-		<meta name="author" content="Sergi Llull Puente">
-		<title>{title}</title>
-		<ViewTransitions />
-	</head>
-	<body>
-		<slot />
-	</body>
+<html class="scrollbar-thin" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Aquí es reuneixen els personatges dantescos i estrafolaris que en Jair la Neus i en Peyu ens han portat al podcast El Búnquer" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/bunquer-logo.svg" />
+    <meta name="author" content="Sergi Llull Puente">
+    <title>{title}</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <ViewTransitions />
+  </head>
+  <body
+    class="font-inter text-light-text-body antialiased dark:bg-dark-background dark:text-dark-text-body"
+  >
+    <header
+      class="scrollbar-thin lg:fixed lg:inset-y-0 lg:left-0 lg:flex lg:w-112 lg:items-start lg:overflow-y-auto xl:w-120"
+    >
+      <div class="relative z-10 mx-auto lg:min-h-full lg:flex-auto">
+        <div
+          class="m-2 rounded-lg bg-light-card pb-4 pt-10 lg:pb-12 lg:pt-16 dark:bg-dark-card"
+        >
+          <ShowArtwork image="https://statics.3cat.cat/multimedia/jpg/5/6/1693567532565.jpg" />
+
+          <div class="px-4 sm:px-6 md:px-4 lg:px-16">
+            <p
+              class="mt-8 text-center text-2xl font-bold text-light-text-heading lg:text-left dark:text-white"
+            >
+              El Búnquer
+            </p>
+
+            <p class="mt-2 text-center text-lg lg:text-left">
+              Des d'El búnquer continuem incansables amb la nostra tasca de divulgar la cara oculta de la història: biografies de personatges dantescos i tan estrafolaris com us podeu imaginar.
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main
+      class="mx-2 rounded-lg bg-light-card lg:relative lg:ml-112 lg:min-h-screen xl:ml-120 dark:bg-dark-card"
+    >
+      <div class="relative mt-2 pt-16">
+        <div
+          class="bg-gradient-light absolute left-0 right-0 top-0 z-0 h-80 w-full opacity-30 dark:bg-gradient-dark"
+        >
+        </div>
+
+        <Dots />
+
+        <div class="max-w-4xl">
+          <div
+            class:list={[
+              'relative z-20 mb-12 border-b pb-6 lg:mb-16 lg:pb-10 dark:border-dark-border',
+              Astro.url.pathname === '/' && 'hidden'
+            ]}
+          >
+            <div class="ml-8 lg:ml-18">
+              <Breadcrumbs title={title} />
+            </div>
+          </div>
+
+          <slot />
+        </div>
+      </div>
+    </main>
+    <footer class="block lg:hidden">
+    </footer>
+    <div id="audio-player">
+      <Player client:only="preact" transition:persist="player" />
+    </div>
+  </body>
 </html>
