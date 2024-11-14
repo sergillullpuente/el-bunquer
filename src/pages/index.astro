@@ -13,7 +13,7 @@ const episodes = episodeResponse.resposta.items.item.map((epi) => {
     description: epi.entradeta,
     content: epi.entradeta,
     episodeImage: epi.imatges.imatge[0].text,
-    episodeNumber: "1",
+    episodeNumber: "",
     episodeSlug: epi.nom_friendly,
     audio:{
       src: `https://audios.3catvideos.cat/multimedia/${epi.audios.audio[0].text}`,
@@ -26,7 +26,7 @@ const episodes = episodeResponse.resposta.items.item.map((epi) => {
 <Layout title="El Búnquer">
   <div class="relative z-10 px-8 lg:px-18">
     <h1 class="text-4xl font-bold text-light-text-heading dark:text-white">
-      Capitols
+      Capítols
     </h1>
     <EpisodeList client:visible episodes={episodes} />
   </div>

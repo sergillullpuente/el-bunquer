@@ -29,7 +29,7 @@ export default function EpisodeList({ episodes }: Props) {
           description: epi.entradeta,
           content: epi.entradeta,
           episodeImage: epi.imatges.imatge[0].text,
-          episodeNumber: "1",
+          episodeNumber: "",
           episodeSlug: epi.nom_friendly,
           audio:{
             src: `https://audios.3catvideos.cat/multimedia/${epi.audios.audio[0].text}`,
@@ -59,7 +59,7 @@ export default function EpisodeList({ episodes }: Props) {
                 <img
                   alt={`${episode.title} - episode art`}
                   aria-hidden="true"
-                  class="mb-3 block h-20 w-20 rounded-md lg:mr-6"
+                  class="object-cover mb-3 block h-32 w-32 rounded-md lg:mr-6"
                   height={80}
                   src={episode.episodeImage ?? '/images/www.png'}
                   width={80}
@@ -69,11 +69,11 @@ export default function EpisodeList({ episodes }: Props) {
                   <FormattedDate date={new Date(episode.published)} />
                   <h2 class="my-2 text-lg font-bold text-light-text-heading dark:text-white">
                     <a href={`/${episode.episodeSlug}`}>
-                      {episode.episodeNumber}: {episode.title}
+                      {episode.episodeNumber ? `${episode.episodeNumber}:` : ''} {episode.title}
                     </a>
                   </h2>
 
-                  <p class="mb-5">{episode.description}</p>
+                  <p class="mb-5">{episode.description.slice(0, 260)}...</p>
 
                   <div class="flex items-center gap-6 text-sm">
                     <FullPlayButton episode={episode} />
@@ -95,7 +95,7 @@ export default function EpisodeList({ episodes }: Props) {
         <div class="mt-8 flex justify-center pb-16">
           <button class="btn" onClick={fetchMoreEpisodes}>
             <span class="rounded-full px-8 py-4 text-center text-sm text-light-text-heading dark:text-white">
-              Més capitols
+              Més capítols
             </span>
           </button>
         </div>

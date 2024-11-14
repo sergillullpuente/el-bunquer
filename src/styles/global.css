@@ -1,33 +1,48 @@
 @import './tailwind.css';
 @import './gradient-icon.css';
 @import './buttons.css';
-
 @import 'atropos/css';
 
+* {
+  box-sizing: border-box;
+}
+body {
+  min-height: 100dvh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4 {
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+p {
+  text-wrap: pretty;
+  overflow-wrap: break-word;
+}
 main:has(+ * + #audio-player .player) {
   @media (min-width: 1024px) {
-    /*@apply mb-28;*/
+    @apply mb-28;
   }
 }
 
 footer:has(+ #audio-player .player) {
   @media (max-width: 1024px) {
-    /*@apply mb-40;*/
+    @apply mb-40;
   }
 }
 
 .animated-bottom-border {
-  /*@apply border-b after:block after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-[#C6B2FF] after:to-[#8D67FF] after:transition-all after:duration-500 after:ease-in-out hover:after:w-full dark:border-dark-border dark:after:from-[#43C9F5] dark:after:to-[#B4EDFF];*/
+  @apply border-b after:block after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-[#C6B2FF] after:to-[#8D67FF] after:transition-all after:duration-500 after:ease-in-out hover:after:w-full dark:border-dark-border dark:after:from-[#43C9F5] dark:after:to-[#B4EDFF];
 }
 
 .input {
-  /*@apply rounded border border-light-input-border bg-light-input-bg p-4 !outline-none !ring-0 transition-colors focus:border-light-input-border-focused dark:border-dark-input-border dark:bg-dark-input-bg dark:focus:border-dark-input-border-focused;*/
+  @apply rounded border border-light-input-border bg-light-input-bg p-4 !outline-none !ring-0 transition-colors focus:border-light-input-border-focused dark:border-dark-input-border dark:bg-dark-input-bg dark:focus:border-dark-input-border-focused;
 }
 
 .section-heading {
-  /*@apply text-xs font-bold uppercase tracking-wide;*/
+  @apply text-xs font-bold uppercase tracking-wide;
 }
 
 .section-heading-underlined {
-  /*@apply section-heading border-b pb-4 dark:border-dark-border;*/
+  @apply section-heading border-b pb-4 dark:border-dark-border;
 }
