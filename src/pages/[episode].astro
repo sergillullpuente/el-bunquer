@@ -3,6 +3,7 @@ import FormattedDate from '../components/FormattedDate';
 import PlayButton from '../components/player/PlayButton';
 import FullPlayButton from '../components/FullPlayButton';
 import Layout from '../layouts/Layout.astro';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const episodeResponse = await fetch('https://api.3cat.cat/audios?ordre=-data_publicacio&programaradio_id=1909&pagina=1&items_pagina=15&data_publicacio=31/08/2023-15/07/2024').then((response)=>response.json());
@@ -48,6 +49,7 @@ const title = `${episode.title} - el bunquer `;
       </div>
 
       <div class="overflow-hidden break-words">
+      <Image src={episode.episodeImage} alt="test" width="400" height="350" loading="lazy"/>
         <FormattedDate date={new Date(episode.published)} />
 
         <h1
