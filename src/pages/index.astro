@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import EpisodeList from '../components/EpisodeList';
-const episodeResponse = await fetch('https://api.3cat.cat/audios?ordre=-data_publicacio&programaradio_id=1909&pagina=1&data_publicacio=31/08/2023-15/07/2024').then((response)=>response.json());
+const episodeResponse = await fetch('https://api.3cat.cat/audios?ordre=-data_publicacio&programaradio_id=1909&pagina=1&items_pagina=15&data_publicacio=31/08/2023-15/07/2024').then((response)=>response.json());
 const episodes = episodeResponse.resposta.items.item.map((epi) => {
   const [datePart] = epi.data_publicacio.split(' ');
   const [day, month, year] = datePart.split('/').map(Number);
@@ -28,6 +28,6 @@ const episodes = episodeResponse.resposta.items.item.map((epi) => {
     <h1 class="text-4xl font-bold text-light-text-heading dark:text-white">
       Capítols
     </h1>
-    <EpisodeList client:visible episodes={episodes} />
+    <EpisodeList client:visible episodes={episodes} url={Astro.url} />
   </div>
 </Layout>
