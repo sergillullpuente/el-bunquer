@@ -6,10 +6,9 @@ import type {Episode} from "@/types.ts";
 
 type Props = {
   episodes: Array<Episode>;
-  url: URL;
 };
 
-export default function EpisodeList({ episodes, url }: Props) {
+export default function EpisodeList({ episodes }: Props) {
   const [recentEpisodes, setRecentEpisodes] = useState(episodes);
   const [canLoadMore, setCanLoadMore] = useState(true);
   const [isLoading, setIsLoading] = useState(false);
@@ -18,7 +17,7 @@ export default function EpisodeList({ episodes, url }: Props) {
   async function fetchMoreEpisodes() {
     if (canLoadMore) {
       setIsLoading(true);
-      const { canLoadMore, episodes } = await fetch(`${url}api/episodes/${page}.json`,).then((response)=>response.json());
+      const { canLoadMore, episodes } = await fetch(`/api/episodes/${page}.json`,).then((response)=>response.json());
       setIsLoading(false);
       setCanLoadMore(canLoadMore);
       setRecentEpisodes([...recentEpisodes, ...episodes.data]);
