@@ -30,7 +30,6 @@ export default function EpisodeList({ episodes }: Props) {
       <ul aria-label="EpisodeList">
         {recentEpisodes.map((episode) => {
           const isCurrentEpisode = episode.id == currentEpisode.value?.id;
-
           return (
             <li class="border-b dark:border-dark-border">
               <div

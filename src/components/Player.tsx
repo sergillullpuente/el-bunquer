@@ -11,13 +11,10 @@ export default function Player() {
   const audioPlayer = useRef<HTMLAudioElement | null>(null);
   const progressRef = useRef<number | null>(null);
   const [progress, setProgress] = useState(0);
-
   if (currentEpisode.value === null) {
     return;
   }
-
   const { audio, episodeNumber, title } = currentEpisode.value;
-
   function whilePlaying() {
     if (audioPlayer.current?.duration) {
       const percentage =
