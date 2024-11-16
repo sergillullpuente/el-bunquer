@@ -1,9 +1,24 @@
-export function adapter(episode) {
+import {z} from "astro:schema";
+import type {Episode} from "@/types.ts";
+
+const EpisodeCat = z.object({
+    entradeta: z.string(),
+    "nom_friendly": z.string(),
+    permatitle: z.string(),
+    id: z.number(),
+    titol: z.string(),
+    audios: z.object({audio: z.array(z.object({text: z.string()}))}),
+    imatges: z.object({imatge: z.array(z.object({text: z.string()}))}),
+    "data_publicacio": z.string(),
+})
+export type EpisodeCat = z.infer<typeof EpisodeCat>;
+
+export function adapter(episode: EpisodeCat): Episode {
     const [datePart] = episode.data_publicacio.split(' ');
     const [day, month, year] = datePart.split('/').map(Number);
     const date = new Date(Date.UTC(year, month - 1, day));
     return {
-        id: episode.id,
+        id: `${episode.id}`,
         title: episode.titol,
         published: date.toISOString(),
         description: episode.entradeta,
