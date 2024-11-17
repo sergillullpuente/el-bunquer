@@ -39,7 +39,7 @@ export default function EpisodeList({ episodes }: Props) {
                 <img
                   alt={`${episode.title} - episode art`}
                   aria-hidden="true"
-                  class="object-cover mb-3 block h-32 w-32 rounded-md lg:mr-6"
+                  class="object-cover mb-3 block h-32 w-32 rounded-md lg:mr-6 hover:scale-105 transition-transform"
                   height={80}
                   src={episode.episodeImage ?? '/images/www.png'}
                   width={80}
@@ -47,7 +47,7 @@ export default function EpisodeList({ episodes }: Props) {
 
                 <div class="flex flex-col">
                   <FormattedDate date={new Date(episode.published)} />
-                  <h2 class="my-2 text-lg font-bold text-light-text-heading dark:text-white">
+                  <h2 class="my-2 text-lg font-bold text-light-text-heading dark:text-white hover:text-light-text-body transition-colors">
                     <a href={`/${episode.episodeSlug}`}>
                       {episode.episodeNumber ? `${episode.episodeNumber}:` : ''} {episode.title}
                     </a>
@@ -59,7 +59,7 @@ export default function EpisodeList({ episodes }: Props) {
                     <FullPlayButton episode={episode} />
 
                     <a
-                      class="font-bold text-light-text-heading dark:text-white"
+                      class="font-bold text-light-text-heading dark:text-white hover:text-light-text-body transition-colors"
                       href={`/${episode.episodeSlug}`}
                     >
                       Veure més

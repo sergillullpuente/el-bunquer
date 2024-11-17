@@ -20,7 +20,7 @@ export async function getStaticPaths() {
       };
   });
 }
-export interface Props {
+interface Props {
   episode: Episode;
 }
 const { episode } = Astro.props;
@@ -35,7 +35,7 @@ const title = `${episode.title}`;
       </div>
 
       <div class="overflow-hidden break-words">
-        <Image src={episode.episodeImage} class="w-full" alt="test" width="400" height="350" loading="lazy"/>
+        <Image src={episode.episodeImage} class="w-full" alt={`${episode.title} - episode art`} width="400" height="350" loading="lazy"/>
         <FormattedDate date={new Date(episode.published)} />
 
         <h1 class="mb-4 text-2xl font-bold text-light-text-heading lg:mb-6 lg:text-5xl dark:text-white">
