@@ -1,4 +1,4 @@
-import { useState } from 'preact/hooks';
+import {useEffect, useState} from 'preact/hooks';
 import FormattedDate from '../components/FormattedDate';
 import FullPlayButton from '../components/FullPlayButton';
 import {currentEpisode} from '../components/state';
@@ -11,35 +11,46 @@ type Props = {
 export default function EpisodeList({ episodes }: Props) {
   const seasons = ['1', '2', '3', '4', '5'];
   const [actualSeason, setActualSeason] = useState('5');
+  const [nextPage, setNextPage] = useState('/api/season/5/episodes/2.json');
+  const [prevPage, setPrevPage] = useState(null);
   const [recentEpisodes, setRecentEpisodes] = useState(episodes);
   const [canLoadMore, setCanLoadMore] = useState(true);
-  const [isLoading, setIsLoading] = useState(false);
-  const [page, setPage] = useState(2);
+
+  async function fetchSeasonEpisodes() {
+    const { episodes } = await fetch(`/api/season/${actualSeason}/episodes/1.json`).then((response)=>response.json());
+    setNextPage(episodes.url.next)
+    setPrevPage(episodes.url.prev)
+    setCanLoadMore(!!episodes.url.next);
+    setRecentEpisodes([...episodes.data]);
+  }
+
+  useEffect(() => {
+    fetchSeasonEpisodes().then();
+  }, [actualSeason]);
 
   async function fetchMoreEpisodes() {
     if (canLoadMore) {
-      setIsLoading(true);
-      const { canLoadMore, episodes } = await fetch(`/api/episodes/${page}.json`,).then((response)=>response.json());
-      setIsLoading(false);
-      setCanLoadMore(canLoadMore);
+      const {episodes } = await fetch(`${nextPage}`).then((response)=>response.json());
+      setNextPage(episodes.url.next)
+      setPrevPage(episodes.url.prev)
+      setCanLoadMore(!!episodes.url.next);
       setRecentEpisodes([...recentEpisodes, ...episodes.data]);
-      setPage(page + 1);
     }
   }
 
   return (
     <>
       <div class="flex gap-2 mb-6 flex-wrap p-4">
-        <button
-            onClick={() => setActualSeason(null)}
-            class={`px-4 py-2 rounded-full transition-colors ${
-                actualSeason === null
-                    ? 'bg-light-text-heading text-white'
-                    : 'bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600'
-            }`}
-        >
-          Totes
-        </button>
+        {/*<button*/}
+        {/*    onClick={() => setActualSeason(null)}*/}
+        {/*    class={`px-4 py-2 rounded-full transition-colors ${*/}
+        {/*        actualSeason === null*/}
+        {/*            ? 'bg-light-text-heading text-white'*/}
+        {/*            : 'bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600'*/}
+        {/*    }`}*/}
+        {/*>*/}
+        {/*  Totes*/}
+        {/*</button>*/}
         {seasons.map((season) => (
             <button
                 key={season}
