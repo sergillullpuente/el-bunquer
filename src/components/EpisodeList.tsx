@@ -9,6 +9,8 @@ type Props = {
 };
 
 export default function EpisodeList({ episodes }: Props) {
+  const seasons = ['1', '2', '3', '4', '5'];
+  const [actualSeason, setActualSeason] = useState('5');
   const [recentEpisodes, setRecentEpisodes] = useState(episodes);
   const [canLoadMore, setCanLoadMore] = useState(true);
   const [isLoading, setIsLoading] = useState(false);
@@ -27,6 +29,31 @@ export default function EpisodeList({ episodes }: Props) {
 
   return (
     <>
+      <div class="flex gap-2 mb-6 flex-wrap p-4">
+        <button
+            onClick={() => setActualSeason(null)}
+            class={`px-4 py-2 rounded-full transition-colors ${
+                actualSeason === null
+                    ? 'bg-light-text-heading text-white'
+                    : 'bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600'
+            }`}
+        >
+          Totes
+        </button>
+        {seasons.map((season) => (
+            <button
+                key={season}
+                onClick={() => setActualSeason(season)}
+                class={`px-4 py-2 rounded-full transition-colors ${
+                    actualSeason === season
+                        ? 'bg-light-text-heading text-white'
+                        : 'bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600'
+                }`}
+            >
+              Temporada {season}
+            </button>
+        ))}
+      </div>
       <ul aria-label="EpisodeList">
         {recentEpisodes.map((episode) => {
           const isCurrentEpisode = episode.id == currentEpisode.value?.id;
