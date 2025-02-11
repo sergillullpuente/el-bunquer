@@ -1,5 +1,5 @@
 ---
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import Dots from '../components/Dots.astro';
 import Player from '../components/Player';
@@ -24,7 +24,7 @@ const { title } = Astro.props;
     <meta name="author" content="Sergi Llull Puente">
     <title>{title}</title>
 
-    <ViewTransitions />
+    <ClientRouter />
   </head>
   <body
     class="font-inter text-light-text-body antialiased dark:bg-dark-background dark:text-dark-text-body"
