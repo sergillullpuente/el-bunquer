@@ -1,54 +1,102 @@
-# Astro Starter Kit: Basics
+# El Búnquer Podcast
 
-```sh
-npm create astro@latest -- --template basics
-```
+Aquest projecte és un lloc web per al podcast "El Búnquer". Està construït utilitzant Astro, un framework modern per construir llocs web ràpids i optimitzats.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## 🚀 Estructura del Projecte
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+Dins d'aquest projecte, trobaràs la següent estructura de carpetes i fitxers:
 
 ```text
 /
 ├── public/
-│   └── favicon.svg
+│   ├── bunquer-logo.svg
+│   ├── search.svg
+│   └── images/
+│       ├── dots-dark.svg
+│       ├── dots-light.svg
+│       ├── forward-icon.svg
+│       ├── mute-icon.svg
+│       ├── overcast.svg
+│       ├── rewind-icon.svg
+│       ├── rocket-dark.svg
+│       ├── rocket-light.svg
+│       ├── spotify.svg
+│       ├── unmute-icon.svg
+│       ├── www.png
+│       └── youtube.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
+│   │   ├── Breadcrumbs.astro
+│   │   ├── Dots.astro
+│   │   ├── EpisodeList.tsx
+│   │   ├── FormattedDate.tsx
+│   │   ├── FullPlayButton.tsx
+│   │   ├── Player.tsx
+│   │   ├── ShowArtwork.astro
+│   │   └── player/
+│   │       ├── PlaybackRateButton.tsx
+│   │       ├── PlayButton.tsx
+│   │       ├── ForwardButton/
+│   │       │   ├── index.tsx
+│   │       │   ├── styles.css
+│   │       │   └── images/
+│   │       │       └── forward-icon.svg
+│   │       ├── MuteButton/
+│   │       │   ├── index.tsx
+│   │       │   ├── styles.css
+│   │       │   └── images/
+│   │       │       ├── mute-icon.svg
+│   │       │       └── unmute-icon.svg
+│   │       ├── RewindButton/
+│   │       │   ├── index.tsx
+│   │       │   ├── styles.css
+│   │       │   └── images/
+│   │       │       └── rewind-icon.svg
+│   │       └── Slider/
+│   │           ├── index.tsx
+│   │           └── styles.css
 │   ├── layouts/
 │   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   ├── pages/
+│   │   ├── [episode].astro
+│   │   ├── index.astro
+│   │   └── api/
+│   │       └── season/
+│   │           └── [season]/
+│   │               └── episodes/
+│   │                   └── [page].json.ts
+│   ├── styles/
+│   │   ├── buttons.css
+│   │   ├── global.css
+│   │   ├── gradient-icon.css
+│   │   └── tailwind.css
+│   └── utils/
+│       └── adapter.ts
+├── astro.config.mjs
+├── package.json
+├── tailwind.config.mjs
+└── tsconfig.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Astro busca fitxers `.astro` o `.md` al directori `src/pages/`. Cada fitxer s'exposa com una ruta basada en el seu nom.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Els components es troben a `src/components/`, i els estils globals i específics estan a `src/styles/`.
 
-Any static assets, like images, can be placed in the `public/` directory.
+Qualsevol recurs estàtic, com imatges, es pot col·locar al directori `public/`.
 
-## 🧞 Commands
+## 🧞 Comandes
 
-All commands are run from the root of the project, from a terminal:
+Totes les comandes s'executen des de l'arrel del projecte, en una terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| Comanda                  | Acció                                            |
+| :----------------------- | :------------------------------------------------ |
+| `npm install`            | Instal·la les dependències                       |
+| `npm run dev`            | Inicia el servidor de desenvolupament a `localhost:4321` |
+| `npm run build`          | Construeix el lloc per a producció a `./dist/`   |
+| `npm run preview`        | Previsualitza el teu lloc construït localment    |
+| `npm run astro ...`      | Executa comandes CLI com `astro add`, `astro check` |
+| `npm run astro -- --help`| Obté ajuda sobre el CLI d'Astro                  |
 
-## 👀 Want to learn more?
+## 👀 Més Informació
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Tot el contingut exposat en el lloc web s'ha extret de https://api.3cat.cat/audios?ordre=data_publicacio&programaradio_id=1909
